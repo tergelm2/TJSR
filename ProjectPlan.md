@@ -23,9 +23,8 @@ We will document acquisition, integrity, quality assessment, cleaning, integrati
 | 1 — EPA source lead | [Name / @username] | Retrieve EPA county AQI data; document provenance and coverage; implement acquisition and EPA-specific cleaning | Source notes, acquisition/cleaning script, commits |
 | 2 — ACS & CDC source lead | [Name / @username] | Retrieve ACS and PLACES data; check field definitions, geographic IDs, licenses, and source-specific missingness | Acquisition scripts, field notes, commits |
 | 3 — Integration & quality lead | [Name / @username] | Define common schema and FIPS normalization; assess four quality dimensions before and after integration; implement joins and diagnostics | Integration/QA scripts, metrics, commits |
-| 4 — Documentation & metadata lead (**suggested role for me**) | [My name / @username] | Coordinate `ProjectPlan.md`, README, source citations, data dictionary and metadata; draft the timeline and constraints; help test `run_all.py` and organize the final release | Documentation files, metadata, reproducibility checks, commits |
+| 4 — Documentation & metadata lead | Samuel Kang / @smukng | Coordinate `ProjectPlan.md`, README, source citations, data dictionary and metadata; draft the timeline and constraints; help test `run_all.py` and organize the final release | Documentation files, metadata, reproducibility checks, commits |
 
-Role 4 is a relatively approachable role but still requires technical contributions.  
 
 ## 3. Research Questions
 
