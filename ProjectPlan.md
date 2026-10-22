@@ -45,6 +45,9 @@ Official starting points: [EPA AirData](https://aqs.epa.gov/aqsweb/airdata/downl
 
 The key is zero-padded five-character `county_fips`. EPA, ACS and CDC IDs will be standardized. We will validate county-key uniqueness and document how long-form CDC measures are reshaped.  We will document unmatched keys and coverage. 
 
+We will save the datasets in the data/raw/ folder to ensure reproducibility. Before downloading, we will check whether the files already exist. We will also use SHA-256 hashes to verify file integrity and make sure the data remains unchanged.
+
+For ACS data, we will focus on total population, median household income, and poverty rate. For CDC PLACES data, we will select asthma (CASTHMA) and COPD (COPD) using MeasureId and keep only age-adjusted prevalence estimates. We will filter the data before merging to avoid duplicate county records.
 ## 5. Methods, Quality, Ethics, and Reproducibility
 
 We follow acquisition, preservation, assessment, cleaning, integration, analysis and reuse. Raw files remain unchanged under `data/raw/`; outputs use separate directories. A codebook will describe fields, units, coverage and provenance.
