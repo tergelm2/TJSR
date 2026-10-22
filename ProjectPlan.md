@@ -17,7 +17,7 @@ We will document acquisition, integrity, quality assessment, cleaning, integrati
 
 **Enter your name/username and confirm your role.** Member numbers are placeholders. Everyone should contribute commits and review reproducibility.
 
-| Role | Member / GitHub username (fill in) | Proposed primary responsibility | Evidence of contribution |
+| Role | Member / GitHub username | Proposed primary responsibility | Evidence of contribution |
 |---|---|---|---|
 | 1 — EPA source lead | Rex Li/@YalinLisys | Retrieve EPA county AQI data; document provenance and coverage; implement acquisition and EPA-specific cleaning | Source notes, acquisition/cleaning script, commits |
 | 2 — ACS & CDC source lead | Tergel Myagmarsaikhan / @tergelm2 | Download official CSV datasets from Census and CDC. Check column names, standardize missing values, and select relevant variables.|Acquisition scripts, field notes, commits |
