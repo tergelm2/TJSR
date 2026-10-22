@@ -8,7 +8,7 @@
 
 This project proposes a reproducible county-level data curation workflow to explore the relationship between air quality, socioeconomic conditions, and estimated respiratory health outcomes in the United States. We will acquire three complementary datasets from original government sources: Environmental Protection Agency (EPA) county-level air quality data, U.S. Census Bureau American Community Survey (ACS) socioeconomic estimates, and Centers for Disease Control and Prevention (CDC) PLACES local health estimates. The intended unit of analysis is a U.S. county, linked using standardized five-character county FIPS identifiers.
 
-We will document acquisition, integrity, quality assessment, cleaning, integration and exploratory analysis, paying particular attention to counties missing EPA monitoring. Deliverables will include a county-level dataset, quality metrics, visualization, data dictionary, metadata, and a reproducible modular workflow. We will not infer causality.
+We will document acquisition, integrity, quality assessment, cleaning, integration and exploratory analysis, paying particular attention to counties missing EPA monitoring. Deliverables will include a county-level dataset, quality metrics, visualization, data dictionary, metadata, and a reproducible modular workflow. The analytical scope is strictly exploratory, focusing on basic summary statistics, variable correlations, and county-level scatter plots. We will not build complex predictive models or make causal claims. 
 
 ## 2. Team and Responsibilities
 
