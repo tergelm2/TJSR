@@ -1,11 +1,8 @@
 # Project Plan: Air Quality, Socioeconomic Conditions, and Respiratory Health Across U.S. Counties
 
 **Course:** IS 477 — Data Management, Curation & Reproducibility  
-**Milestone:** 2 — Project Plan (Draft for Team Review)  
-**Status:** Proposed topic and responsibilities; subject to confirmation by all team members  
+**Milestone:** 2 - Project Plan 
 **Team repository:** https://github.com/tergelm2/TJSR  
-
-> **Team action required:** Please review the proposed scope and datasets, enter your own names in the responsibility table below, suggest edits through commits or pull requests, and confirm agreement in our group chat. This is a draft, **not** the approved final release. Each member should contribute a commit. Do not create the `project-plan` release until the team approves the revised plan.
 
 ## 1. Overview
 
@@ -15,20 +12,20 @@ We will document acquisition, integrity, quality assessment, cleaning, integrati
 
 ## 2. Team and Responsibilities
 
-**Enter your name/username and confirm your role.** Member numbers are placeholders. Everyone should contribute commits and review reproducibility.
+Everyone will contribute commits and review reproducibility.
 
-| Role | Member / GitHub username | Proposed primary responsibility | Evidence of contribution |
+| Role | Member / GitHub username | Primary responsibility | Evidence of contribution |
 |---|---|---|---|
 | 1 — EPA source lead | Rex Li/@YalinLisys | Retrieve EPA county AQI data; document provenance and coverage; implement acquisition and EPA-specific cleaning | Source notes, acquisition/cleaning script, commits |
 | 2 — ACS & CDC source lead | Tergel Myagmarsaikhan / @tergelm2 | Download official CSV datasets from Census and CDC. Check column names, standardize missing values, and select relevant variables.|Acquisition scripts, field notes, commits |
-| 3 — Integration & quality lead | [Name / @username] | Standardize county FIPS codes to five-digit strings. Merge datasets using Pandas, check for duplicate rows, and document missing or dropped counties. | Integration/QA scripts, metrics, commits |
+| 3 — Integration & quality lead | Jashan Takhar/ @jashtakhar | Standardize county FIPS codes to five-digit strings. Merge datasets using Pandas, check for duplicate rows, and document missing or dropped counties. Also, produce the analysis and visualization. | Integration/QA scripts, metrics, commits |
 | 4 — Documentation & metadata lead | Samuel Kang / @smukng | Coordinate `ProjectPlan.md`, README, source citations, data dictionary and metadata; draft the timeline and constraints; help test `run_all.py` and organize the final release | Documentation files, metadata, reproducibility checks, commits |
 
 
 ## 3. Research Questions
 
-1. How do available county-level air quality measures vary with poverty and household-income indicators?
-2. How are air quality and socioeconomic indicators associated with CDC PLACES estimates of adult asthma and chronic obstructive pulmonary disease (COPD) prevalence among counties with comparable available records?
+1. How does county-level air quality measures vary with poverty and household-income indicators?
+2. How are median AQI and socioeconomic indicators associated with CDC PLACES estimates of adult asthma and chronic obstructive pulmonary disease (COPD) prevalence among counties with comparable available values for the variables being compared?
 3. How does geographic coverage and missingness change when the EPA, ACS, and CDC datasets are standardized and integrated? Which counties are lost or lack one or more measures?
 
 
@@ -37,9 +34,9 @@ We will document acquisition, integrity, quality assessment, cleaning, integrati
 
 | Source | Planned dataset and contribution | Proposed acquisition | Candidate join key / caveat |
 |---|---|---|---|
-| U.S. EPA | AirData annual county Air Quality Index (AQI) summary; air quality measures and observation coverage | Official EPA AirData download | State code + county code, normalized and zero-padded to county FIPS; monitored counties are a subset of all counties |
-| U.S. Census Bureau | 2023 ACS 5-Year county estimates: population, income, and poverty-related variables | Official Census API | State FIPS + county FIPS; ACS figures are estimates with survey uncertainty |
-| U.S. CDC | PLACES county-level adult asthma and COPD prevalence estimates, using a documented release | Official CDC PLACES data download/API | County FIPS; release year is not necessarily the measurement year for every indicator |
+| U.S. EPA | 2023 AirData annual county Air Quality Index (AQI) summary, median AQI and days with AQI, one row per reporting county, 993 records listed by EPA | Official EPA AirData download: `annual_aqi_by_county_2023.zip` (CSV) | State and county names mapped to county FIPS using Census lookup. Also, review unmatched names and geographic changes. |
+| U.S. Census Bureau | 2023 ACS 5-Year county estimates: population, income, and poverty-related variables | Official Census API (JSON) | State FIPS + county FIPS; ACS figures are estimates with survey uncertainty |
+| U.S. CDC | PLACES county-level adult asthma and COPD prevalence estimates, using a documented release | Official CDC PLACES data download/API | LocationID (county FIPS), select age-adjusted estimates and reshape measures into columns |
 
 Official starting points: [EPA AirData](https://aqs.epa.gov/aqsweb/airdata/download_files.html), [2023 ACS 5-Year API](https://www.census.gov/data/developers/data-sets/acs-5year/2023.html), and [CDC PLACES](https://www.cdc.gov/places/).  We will inspect sample extracts, confirm at least 100 records per dataset, validate join keys, and record dataset versions. We will use no Kaggle repackaging.
 
@@ -74,23 +71,23 @@ Analysis will provide summaries and at least one visualization, with coverage an
 | Before final release (December 8)| Add limited analysis/visualization, data dictionary, metadata, `requirements.txt`, full README, and modular orchestrator | Role 4 coordinates documentation; all implement/test |
 | Final verification | Fresh-clone end-to-end run, review citations/licenses and contribution history; make final release | All |
 
-## 7. Constraints, Risks, and Open Gaps
+## 7. Constraints and Risks
 
 - **Unequal geographic coverage:** EPA monitoring does not cover every county. We will report join coverage and avoid treating absent readings as zero or drawing nationally representative conclusions from monitored counties alone.
 - **Temporal comparability:** EPA AQI, ACS 5-Year estimates, and CDC PLACES measures may have different reference periods. We will inspect provider documentation, preserve vintage fields, and interpret temporal mismatches cautiously.
 - **Identifier and grain mismatch:** Geographic codes may require padding; CDC records may be long-form by measure. We will test uniqueness and cardinality and avoid many-to-many joins caused by unexamined duplicates.
 - **Estimation and measurement limitations:** ACS has survey uncertainty; PLACES provides modeled prevalence; EPA monitors reflect available measurements. We will state these caveats and avoid causal language.
-- **Access and reproducibility:** We must verify download endpoints, CSV/JSON schemas, record counts, licensing, file sizes, and whether API limits or credentials affect reruns. Requirements and data access will be documented; restricted or oversized files will use the prescribed Box workflow.
-- **Items awaiting team confirmation:** Team member names and GitHub handles; exact measures/columns and source versions; precise period and county coverage; role allocation; Canvas milestone dates; final scope after a small join prototype.
 
-## Team Confirmation Checklist
+## 8. Gaps
 
-- [ ] All four members have reviewed this draft and proposed edits.
-- [ ] Each member has filled in their name/GitHub username and confirmed a primary role.
-- [ ] The three source extracts, record counts, license terms, and county-level join strategy have been checked.
-- [ ] Research questions, selected data vintage, and limitations are agreed.
-- [ ] Actual Canvas deadlines replace all placeholders.
-- [ ] Individual edits are committed and pushed; the team approves creating the `project-plan` tag/release.
+Before the plan release, all members will confirm roles and source versions. Samuel will confirm Canvas
+deadlines and the Module 1 lifecycle model. By next week, Rex and Tergel will verify source access, schemas,
+record counts and reuse terms. Jashan will test county matches and report unresolved geographic differences. Any required changes will be documented in the status report.
+
+## 9. Plan Submission
+
+Each member will commit their contribution to ProjectPlan.md. After review, Samuel will push the final plan,
+create the project-plan tag and release, and submit the release URL in Canvas: https://github.com/tergelm2/TJSR/releases/tag/project-plan.
 
 ## Preliminary Sources
 
