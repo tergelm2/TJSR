@@ -12,7 +12,6 @@ We will document acquisition, integrity, quality assessment, cleaning, integrati
 
 ## 2. Team and Responsibilities
 
-Everyone will contribute commits and review reproducibility.
 
 | Role | Member / GitHub username | Primary responsibility | Evidence of contribution |
 |---|---|---|---|
