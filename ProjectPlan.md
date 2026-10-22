@@ -83,11 +83,6 @@ Before the plan release, all members will confirm roles and source versions. Sam
 deadlines and the Module 1 lifecycle model. By next week, Rex and Tergel will verify source access, schemas,
 record counts and reuse terms. Jashan will test county matches and report unresolved geographic differences. Any required changes will be documented in the status report.
 
-## 9. Plan Submission
-
-Each member will commit their contribution to ProjectPlan.md. After review, Samuel will push the final plan,
-create the project-plan tag and release, and submit the release URL in Canvas: https://github.com/tergelm2/TJSR/releases/tag/project-plan.
-
 ## Preliminary Sources
 
 - U.S. Environmental Protection Agency. *AirData: Download Data Files*. https://aqs.epa.gov/aqsweb/airdata/download_files.html
