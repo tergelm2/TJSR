@@ -20,7 +20,7 @@ We will document acquisition, integrity, quality assessment, cleaning, integrati
 | Role | Member / GitHub username (fill in) | Proposed primary responsibility | Evidence of contribution |
 |---|---|---|---|
 | 1 — EPA source lead | Rex Li/@YalinLisys | Retrieve EPA county AQI data; document provenance and coverage; implement acquisition and EPA-specific cleaning | Source notes, acquisition/cleaning script, commits |
-| 2 — ACS & CDC source lead | Tergel Myagmarsaikhan / @tergelm2 | Download official CSV datasets from Census and CDC. Check column names, standardize missing values, and select relevant variables. |
+| 2 — ACS & CDC source lead | Tergel Myagmarsaikhan / @tergelm2 | Download official CSV datasets from Census and CDC. Check column names, standardize missing values, and select relevant variables.|Acquisition scripts, field notes, commits |
 | 3 — Integration & quality lead | [Name / @username] | Standardize county FIPS codes to five-digit strings. Merge datasets using Pandas, check for duplicate rows, and document missing or dropped counties. | Integration/QA scripts, metrics, commits |
 | 4 — Documentation & metadata lead | Samuel Kang / @smukng | Coordinate `ProjectPlan.md`, README, source citations, data dictionary and metadata; draft the timeline and constraints; help test `run_all.py` and organize the final release | Documentation files, metadata, reproducibility checks, commits |
 
