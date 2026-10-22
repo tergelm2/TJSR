@@ -48,7 +48,7 @@ For ACS data, we will focus on total population, median household income, and po
 
 We follow acquisition, preservation, assessment, cleaning, integration, analysis and reuse. Raw files remain unchanged under `data/raw/`; outputs use separate directories. A codebook will describe fields, units, coverage and provenance.
 
-An acquisition script for each source will retrieve data from the original provider when allowed, record source URLs and retrieval dates, and calculate SHA-256 checksums. We will check data licenses and redistribution terms and cite the agencies. We will not make individual-level or causal claims from aggregate data.
+An acquisition script for each source will retrieve data from the original provider when allowed, record source URLs and retrieval dates, and calculate SHA-256 checksums. All three datasets are collected by US federal agencies. There are no copyright restrictions. We will properly cite each agency and will not make any causal claims
 
 **Pre-integration quality assessment** will evaluate all four required dimensions for each input: *accuracy* (valid ranges, units, geographic codes, documented provider methods), *completeness* (missing values and geographic coverage), *timeliness* (measurement period, release year, and retrieval date), and *consistency* (type, units, naming, key formats, duplication, and within-dataset contradictions). Issues will be logged with corrective actions. We will distinguish unmonitored observations from zero measurements.
 
