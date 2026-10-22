@@ -68,10 +68,10 @@ Analysis will provide summaries and at least one visualization, with coverage an
 |---|---|---|
 | Before plan release | Team reviews topic, verifies source access and sample keys, fills names, confirms scope and deadline; revise and commit `ProjectPlan.md` | All; Role 4 coordinates |
 | Early implementation | Acquire three source extracts; citations, licenses, retrieval log and SHA-256 manifest | Roles 1 & 2; Role 4 documents |
-| Before interim status report | Profile each input on accuracy, completeness, timeliness and consistency; document issues and cleaning rules | Roles 1–3 |
+| Before interim status report (November 19) | Profile each input on accuracy, completeness, timeliness and consistency; document issues and cleaning rules | Roles 1–3 |
 | Mid-project | Implement and verify separate cleaning scripts, common schema and county-key integration | Role 3; Roles 1 & 2 |
 | After integration | Reassess all four quality dimensions, quantify match rates/unmatched counties and review limitations | Role 3; all review |
-| Before final release | Add limited analysis/visualization, data dictionary, metadata, `requirements.txt`, full README, and modular orchestrator | Role 4 coordinates documentation; all implement/test |
+| Before final release (December 8)| Add limited analysis/visualization, data dictionary, metadata, `requirements.txt`, full README, and modular orchestrator | Role 4 coordinates documentation; all implement/test |
 | Final verification | Fresh-clone end-to-end run, review citations/licenses and contribution history; make final release | All |
 
 ## 7. Constraints, Risks, and Open Gaps
