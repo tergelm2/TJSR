@@ -51,7 +51,7 @@ Dates are working targets, not completion claims; verify against Canvas.
 | Task / deliverable | Owner | Status as verified here | Target completion |
 |---|---|---|---|
 | Research questions, roles, and approved scope in `ProjectPlan.md` | All; Samuel coordinates | Plan documented; feedback update unverified | November 17 |
-| EPA download, provenance, hashes | Rex | UPDATE REQUIRED | November 17 |
+| EPA download, provenance, hashes | Rex | Downloaded the 2023 EPA air quality dataset and documented its source, download data, and relevent information. I also recorded the SHA-256.| November 17 |
 | ACS and CDC downloads, variables, provenance, hashes | Tergel | UPDATE REQUIRED | November 17 |
 | Pre-merge quality reports and cleaning rules | Rex, Tergel, Jashan | UPDATE REQUIRED | November 18 |
 | Standardized FIPS identifiers and county-level integration | Jashan, source leads | UPDATE REQUIRED | November 18 |
