@@ -60,9 +60,9 @@ Dates are working targets, not completion claims; verify against Canvas.
 | Task / deliverable | Owner | Status as verified here | Target completion |
 |---|---|---|---|
 | Research questions, roles, and approved scope in `ProjectPlan.md` | All; Samuel coordinates | Plan documented; feedback update unverified | November 17 |
-| EPA download, provenance, hashes | Rex | Downloaded the 2023 EPA air quality dataset and documented its source, download data, and relevent information. I also recorded the SHA-256.| November 17 |
+| EPA download, provenance, hashes | Rex | Downloaded the 2023 EPA air quality dataset and documented its source, download data, and relevent information. I also recorded the SHA-256.| Completed on November 18, 2026 |
 | ACS and CDC downloads, variables, provenance, hashes | Tergel | UPDATE REQUIRED | November 17 |
-| Pre-merge quality reports and cleaning rules | Rex, Tergel, Jashan | Rex: Completed the EPA data quality assessment. the dataset contains 993 records and 18 columns, with no missing values, duplicate records, or negative median AQI. Further cleaning and FIPS pending will be done during Thanksgiving vacation | November 18 |
+| Pre-merge quality reports and cleaning rules | Rex, Tergel, Jashan | Rex: Completed the EPA data quality assessment. the dataset contains 993 records and 18 columns, with no missing values, duplicate records, or negative median AQI. Further cleaning and FIPS pending will be done during Thanksgiving vacation | Further EPA data cleaning and county FIPS mapping are planned to be completed by November 29, 2026. |
 | Standardized FIPS identifiers and county-level integration | Jashan, source leads | UPDATE REQUIRED | November 18 |
 | Initial coverage/missingness results | Jashan | UPDATE REQUIRED | November 18 |
 | Documentation inventory and draft metadata | Samuel | UPDATE REQUIRED | November 18 |
