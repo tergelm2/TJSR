@@ -1,5 +1,3 @@
-"""Check the ACS and CDC downloads for Milestone 3."""
-
 import csv
 import json
 import re
