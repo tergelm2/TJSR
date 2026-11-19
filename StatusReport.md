@@ -80,7 +80,7 @@ The scope remains limited to three ACS variables, two CDC outcomes, county FIPS 
 
 Each member must edit **their own** paragraph below and commit that change under their own GitHub account. Each statement must link completed work and that author's commit.
 
-- **Rex Li (@YalinLisys):** `UPDATE REQUIRED BY REX` — specify EPA acquisition, documentation, profiling, or cleaning completed, with commit and artifact links.
+- **Rex Li (@YalinLisys): I downloaded the official 2023 EPA Annual AQI by County dataset and documented its source, version, and SHA-256. I also used Python to conduct a preliminary data quality assessment of 993 records and 18 columns. The results showed no missing values, duplicate records, or negative Median AQI values. I documented the findings and uploaded the dataset, Python code, and quality report to GitHub. County FIPS mapping and further cleaning will be finished before next report.
 - **Tergel Myagmarsaikhan (@tergelm2):** `UPDATE REQUIRED BY TERGEL` — specify ACS/CDC acquisition, schema work, or validation completed, with commit and artifact links.
 - **Jashan Takhar (@jashtakhar):** `UPDATE REQUIRED BY JASHAN` — specify integration, key harmonization, quality assessment, or preliminary analysis completed, with commit and artifact links.
 - **Samuel Kang (@smukng):** `UPDATE REQUIRED BY SAMUEL` — describe personally completed documentation, plan revision, metadata/data-dictionary work, reproducibility testing, and report coordination; link commits and outputs. Do not claim that draft or planned deliverables are already final.
