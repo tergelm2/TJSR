@@ -4,7 +4,7 @@
 - Records: 993
 - Columns: 18
 ## Quality Assessment
-- **Accuracy**: All 993 records contain valid, non-negative `Median AQI` values ranging from 3 to 77 (mean: 41.28, median: 43). However, 8 counties have `Max AQI` values above 500 (up to 1,829 in Mono County, CA). These extreme values may reflect real pollution events, such as wildfires, and will be retained for further analysis.
+- **Accuracy**: All 993 records contain valid, non-negative `Median AQI` values ranging from 3 to 77 (mean: 41.28, median: 43). However, 8 counties have `Max AQI` values above 500 (up to 1829 in Mono County, CA). These extreme values may reflect real pollution events. 
 
 - **Completeness**: There are 0 missing values across all 18 columns. However, the `Days with AQI` values range from 55 to 365 days (median: 363), showing differences in monitoring coverage across counties.
 
