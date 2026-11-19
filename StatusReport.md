@@ -98,15 +98,15 @@ These revisions are documented in [ProjectPlan.md](ProjectPlan.md).
 Each member must edit **their own** paragraph below and commit that change under their own GitHub account. Each statement must link completed work and that author's commit.
 
 - **Rex Li (@YalinLisys): I downloaded the official 2023 EPA Annual AQI by County dataset and documented its source, version, and SHA-256. I also used Python to conduct a preliminary data quality assessment of 993 records and 18 columns. The results showed no missing values, duplicate records, or negative Median AQI values. I documented the findings and uploaded the dataset, Python code, and quality report to GitHub. County FIPS mapping and further cleaning will be finished before next report.
-
- - **Samuel Kang (@smukng):** I prepared and uploaded the initial `StatusReport.md` draft, coordinated the collection of progress updates from team members, and revised `ProjectPlan.md` based on the Milestone 2 feedback. My revisions clarified the county selection criteria, narrowed the research questions, and expanded the reproducibility plan. I am also responsible for organizing documentation, checking repository artifact links, and coordinating the final status-report release. Additional metadata, data dictionary, and reproducibility verification work remains planned for the final milestone.
-   
-Evidence: https://github.com/tergelm2/TJSR/blob/main/epa_quality.md
+  Evidence: https://github.com/tergelm2/TJSR/blob/main/epa_quality.md
 https://github.com/tergelm2/TJSR/blob/main/hash.py
 https://github.com/tergelm2/TJSR/blob/main/quality.py
 https://github.com/tergelm2/TJSR/blob/main/data/raw/epa_source_notes.md
 https://github.com/tergelm2/TJSR/commit/3b83addc40631b7714810f76c10f654417058304
 https://github.com/tergelm2/TJSR/commit/95783f7653d417ec8deba7f0beea454612a0b983
+
+ - **Samuel Kang (@smukng):** I prepared and uploaded the initial `StatusReport.md` draft, coordinated the collection of progress updates from team members, and revised `ProjectPlan.md` based on the Milestone 2 feedback. My revisions clarified the county selection criteria, narrowed the research questions, and expanded the reproducibility plan. I am also responsible for organizing documentation, checking repository artifact links, and coordinating the final status-report release. Additional metadata, data dictionary, and reproducibility verification work remains planned for the final milestone.
+   
 - **Tergel Myagmarsaikhan (@tergelm2):** `UPDATE REQUIRED BY TERGEL` — specify ACS/CDC acquisition, schema work, or validation completed, with commit and artifact links.
 - **Jashan Takhar (@jashtakhar):** `UPDATE REQUIRED BY JASHAN` — specify integration, key harmonization, quality assessment, or preliminary analysis completed, with commit and artifact links.
 
