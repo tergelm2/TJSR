@@ -71,9 +71,17 @@ Dates are working targets, not completion claims; verify against Canvas.
 | Data dictionary, reproducible workflow, README, fresh-clone check | Samuel; all implement/test | Planned | December 6 |
 | Final release and submission | All | Planned | December 8 |
 
-## 4. Changes to the project plan and Milestone 2 feedback
+## 4. Changes to the Project Plan and Milestone 2 Feedback
 
-The scope remains limited to three ACS variables, two CDC outcomes, county FIPS integration, and noncausal descriptive analysis unless explicitly revised. **Milestone 2 instructor feedback has not been supplied for this draft.** Insert the feedback, resulting plan revisions, rationale, and relevant commits before submitting. If no feedback was provided, say that explicitly; do not imply instructor approval. Commit the revised plan with this report.
+Our team received 19/20 on Milestone 2. The feedback identified three areas requiring improvement: defining the geographic scope of the study, clarifying the research focus, and explaining how the project would be reproducible.
+
+To address these concerns, we revised `ProjectPlan.md` to specify county inclusion and exclusion criteria. Our study will assess geographic coverage across the EPA, ACS, and CDC datasets, while analyses involving AQI will be restricted to counties with valid and comparable measurements. Counties without EPA monitoring will be documented rather than assigned zero AQI values.
+
+We also narrowed the primary research question to the relationships among county-level median AQI, household income, poverty rate, and estimated adult asthma and COPD prevalence. The analysis will remain descriptive and exploratory, without causal claims.
+
+Finally, the revised plan describes our intended reproducibility workflow, including source documentation, SHA-256 checksums, standardized county FIPS identifiers, modular scripts, software dependencies, and instructions for regenerating the outputs. Some implementation components remain in progress and will be completed before the final project submission.
+
+These revisions are documented in [ProjectPlan.md](ProjectPlan.md).
 
 ## 5. Challenges, mitigation, and remaining risks
 
@@ -90,7 +98,9 @@ The scope remains limited to three ACS variables, two CDC outcomes, county FIPS 
 Each member must edit **their own** paragraph below and commit that change under their own GitHub account. Each statement must link completed work and that author's commit.
 
 - **Rex Li (@YalinLisys): I downloaded the official 2023 EPA Annual AQI by County dataset and documented its source, version, and SHA-256. I also used Python to conduct a preliminary data quality assessment of 993 records and 18 columns. The results showed no missing values, duplicate records, or negative Median AQI values. I documented the findings and uploaded the dataset, Python code, and quality report to GitHub. County FIPS mapping and further cleaning will be finished before next report.
-  
+
+ - **Samuel Kang (@smukng):** I prepared and uploaded the initial `StatusReport.md` draft, coordinated the collection of progress updates from team members, and revised `ProjectPlan.md` based on the Milestone 2 feedback. My revisions clarified the county selection criteria, narrowed the research questions, and expanded the reproducibility plan. I am also responsible for organizing documentation, checking repository artifact links, and coordinating the final status-report release. Additional metadata, data dictionary, and reproducibility verification work remains planned for the final milestone.
+   
 Evidence: https://github.com/tergelm2/TJSR/blob/main/epa_quality.md
 https://github.com/tergelm2/TJSR/blob/main/hash.py
 https://github.com/tergelm2/TJSR/blob/main/quality.py
@@ -99,7 +109,6 @@ https://github.com/tergelm2/TJSR/commit/3b83addc40631b7714810f76c10f654417058304
 https://github.com/tergelm2/TJSR/commit/95783f7653d417ec8deba7f0beea454612a0b983
 - **Tergel Myagmarsaikhan (@tergelm2):** `UPDATE REQUIRED BY TERGEL` — specify ACS/CDC acquisition, schema work, or validation completed, with commit and artifact links.
 - **Jashan Takhar (@jashtakhar):** `UPDATE REQUIRED BY JASHAN` — specify integration, key harmonization, quality assessment, or preliminary analysis completed, with commit and artifact links.
-- **Samuel Kang (@smukng):** `UPDATE REQUIRED BY SAMUEL` — describe personally completed documentation, plan revision, metadata/data-dictionary work, reproducibility testing, and report coordination; link commits and outputs. Do not claim that draft or planned deliverables are already final.
 
 ## 7. Next actions before the milestone release
 
