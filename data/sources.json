@@ -1,0 +1,33 @@
+{
+  "retrieved_on": "2026-11-19",
+  "files": [
+    {
+      "filename": "acsdt5y2023-b01003.dat",
+      "release": "2019–2023 ACS 5-Year Detailed Tables",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData/acsdt5y2023-b01003.dat",
+      "bytes": 18311997,
+      "sha256": "24ae3f523b4c54332ce0a71ba534569685a8a729056f975915d860d1eb943565"
+    },
+    {
+      "filename": "acsdt5y2023-b19013.dat",
+      "release": "2019–2023 ACS 5-Year Detailed Tables",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData/acsdt5y2023-b19013.dat",
+      "bytes": 17884943,
+      "sha256": "c9007017b7bb29ba758c77612ec9a4a0b897a4ed931d527754629866f580a110"
+    },
+    {
+      "filename": "acsdt5y2023-b17001.dat",
+      "release": "2019–2023 ACS 5-Year Detailed Tables",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData/acsdt5y2023-b17001.dat",
+      "bytes": 118402375,
+      "sha256": "578e998daf0823a16e923e937cdff470392fcdd5fc1b0f963487ba5672c1c0b7"
+    },
+    {
+      "filename": "places_2025_age_adjusted_respiratory.csv",
+      "release": "CDC PLACES County Data, 2025 release (swc5-untb)",
+      "url": "https://data.cdc.gov/resource/swc5-untb.csv?%24where=measureid+in+%28%27CASTHMA%27%2C%27COPD%27%29+and+datavaluetypeid%3D%27AgeAdjPrv%27&%24order=locationid%2Cmeasureid%2Cyear%2C%3Aid&%24limit=50000",
+      "bytes": 1554856,
+      "sha256": "3cb43cfd44898f03453a40b51188aa802f7d52ea22846b25b0478c79fce876c0"
+    }
+  ]
+}
