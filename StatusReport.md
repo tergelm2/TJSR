@@ -32,7 +32,7 @@ Tergel is responsible for confirming the ACS and CDC acquisition
 
 **Status**:  
 
-EPA quality assessment completed. Rex used Python to examine the 2023 EPA dataset for missing values, duplicate records, and invalid negative Median AQI values. The results showed no missing values across all 18 columns, no duplicate records or State-County combinations, and no negative Median AQI values. The mean Median AQI was 41.28, with values ranging from 3 to 77. Further geographic validation, FIPS mapping, and integration checks will be done next stage. The results are documented in the files.
+EPA quality assessment completed. Rex used Python to examine the 2023 EPA dataset for missing values, duplicate records, invalid negative Median AQI values.... All finding documented in [EPA Quality Report](epa_quality.md) It covers four aspects. Accuracy: No negative Median AQI values were found, but 8 Max AQI values exceed 500. Completeness: No missing values were found, although monitoring coverage varies from 55 to 365 days. Timeliness: All records cover 2023. Consistency: No duplicate records were found, but 10 records belong to non-U.S. or territory jurisdictions. FIPS mapping and geographic filtering will be finished latter. 
 
 
 UPDATE REQUIRED.** Assess accuracy, completeness, timeliness, and consistency using geographic IDs, ranges, null counts, duplicate counts, reference periods, and units. In particular, a county without EPA monitoring must not be assigned an AQI of zero. CDC and ACS estimates require appropriate caveats. **Evidence to link when available:** profiling scripts, quality tables, issue logs, and a concise summary of concrete findings (`UPDATE REQUIRED: actual paths and results`). No counts or quality pass rates are asserted here without the outputs.
@@ -62,7 +62,7 @@ Dates are working targets, not completion claims; verify against Canvas.
 | Research questions, roles, and approved scope in `ProjectPlan.md` | All; Samuel coordinates | Plan documented; feedback update unverified | November 17 |
 | EPA download, provenance, hashes | Rex | Downloaded the 2023 EPA air quality dataset and documented its source, download data, and relevent information. I also recorded the SHA-256.| Completed on November 18, 2026 |
 | ACS and CDC downloads, variables, provenance, hashes | Tergel | UPDATE REQUIRED | November 17 |
-| Pre-merge quality reports and cleaning rules | Rex, Tergel, Jashan | Rex: Completed the EPA data quality assessment. the dataset contains 993 records and 18 columns, with no missing values, duplicate records, or negative median AQI. Further cleaning and FIPS pending will be done during Thanksgiving vacation | Rex: Further EPA data cleaning and county FIPS mapping are planned to be completed by November 29, 2026. |
+| Pre-merge quality reports and cleaning rules | Rex, Tergel, Jashan | Rex: Completed the EPA data quality assessment. the dataset contains 993 records and 18 columns, with no missing values, duplicate records, or negative median AQI. Further cleaning and FIPS pending will be done by November 29th. | Rex: Further EPA data cleaning and county FIPS mapping are planned to be completed by November 29, 2026. |
 | Standardized FIPS identifiers and county-level integration | Jashan, source leads | UPDATE REQUIRED | November 18 |
 | Initial coverage/missingness results | Jashan | UPDATE REQUIRED | November 18 |
 | Documentation inventory and draft metadata | Samuel | UPDATE REQUIRED | November 18 |
