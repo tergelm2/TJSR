@@ -26,7 +26,7 @@ The research questions and initially proposed processing steps are documented in
 
 EPA acquisition completed.  Rex downloaded the official 2023 EPA Annual AQI by County dataset and documented its source, download date, and version information. The original ZIP file was preserved, and its SHA-256 checksum was calculated and recorded. The dataset contains 993 records and 18 columns. EPA acquisition artifacts and scripts are available in the repository. 
 
-Tergel is responsible for confirming the ACS and CDC acquisition
+Tergel downloaded the ACS and CDC data on November 19. The ACS files are tables B01003 (population), B19013 (median household income), and B17001 (poverty). The CDC download contains the age-adjusted asthma and COPD rows. We kept the CDC download in the repo and recorded the download links and SHA-256 checksums for all four files. [Download details](data/raw/acs_cdc/sources.json)
 
 ### 2.3 Pre-integration quality assessment
 
