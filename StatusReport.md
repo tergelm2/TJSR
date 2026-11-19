@@ -22,13 +22,17 @@ The research questions and initially proposed processing steps are documented in
 
 ### 2.2 Source acquisition, integrity, and provenance
 
-**Status: EPA acquisition completed.  Rex downloaded the official 2023 EPA Annual AQI by County dataset and documented its source, download date, and version information. The original ZIP file was preserved, and its SHA-256 checksum was calculated and recorded. The dataset contains 993 records and 18 columns. EPA acquisition artifacts and scripts are available in the repository. 
+**Status**: 
+
+EPA acquisition completed.  Rex downloaded the official 2023 EPA Annual AQI by County dataset and documented its source, download date, and version information. The original ZIP file was preserved, and its SHA-256 checksum was calculated and recorded. The dataset contains 993 records and 18 columns. EPA acquisition artifacts and scripts are available in the repository. 
 
 Tergel is responsible for confirming the ACS and CDC acquisition
 
 ### 2.3 Pre-integration quality assessment
 
-**Status:  EPA quality assessment completed. Rex used Python to examine the 2023 EPA dataset for missing values, duplicate records, and invalid negative Median AQI values. The results showed no missing values across all 18 columns, no duplicate records or State-County combinations, and no negative Median AQI values. The mean Median AQI was 41.28, with values ranging from 3 to 77. Further geographic validation, FIPS mapping, and integration checks will be done next stage. The results are documented in the files.
+**Status**:  
+
+EPA quality assessment completed. Rex used Python to examine the 2023 EPA dataset for missing values, duplicate records, and invalid negative Median AQI values. The results showed no missing values across all 18 columns, no duplicate records or State-County combinations, and no negative Median AQI values. The mean Median AQI was 41.28, with values ranging from 3 to 77. Further geographic validation, FIPS mapping, and integration checks will be done next stage. The results are documented in the files.
 
 
 UPDATE REQUIRED.** Assess accuracy, completeness, timeliness, and consistency using geographic IDs, ranges, null counts, duplicate counts, reference periods, and units. In particular, a county without EPA monitoring must not be assigned an AQI of zero. CDC and ACS estimates require appropriate caveats. **Evidence to link when available:** profiling scripts, quality tables, issue logs, and a concise summary of concrete findings (`UPDATE REQUIRED: actual paths and results`). No counts or quality pass rates are asserted here without the outputs.
