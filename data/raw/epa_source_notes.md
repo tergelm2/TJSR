@@ -13,6 +13,6 @@
 - Storage Location: data/raw/annual_aqi_by_county_2023.zip
 
 ## Data Integrity
-- SHA-256 Checksum: Pending verification
+- SHA-256 Checksum: 63507c051ebdb62907129eeaccc8a3e9fbcba60c336a7598cf164ae916b4c221
 - Original ZIP file preserved without modification.
 
