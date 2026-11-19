@@ -15,3 +15,12 @@ print("\nInvalid Median AQI:")
 print((df["Median AQI"] < 0).sum())
 print("\nYears:")
 print(df["Year"].unique())
+non_us = ["Country Of Mexico", "Puerto Rico", "Virgin Islands"]
+non_us_rows = df[df["State"].isin(non_us)]
+print("Non-US rows:", len(non_us_rows))
+print(non_us_rows[["State", "County"]])
+extreme = df[df["Max AQI"] > 500]
+print("Max AQI > 500:", len(extreme))
+print(extreme[["State", "County", "Max AQI", "90th Percentile AQI", "Median AQI"]])
+print("Minimum days:", df["Days with AQI"].min())
+print("Median days:", df["Days with AQI"].median())
