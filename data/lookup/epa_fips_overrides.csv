@@ -1,0 +1,8 @@
+state,county,county_fips,note
+Missouri,Saint Louis,29189,"St. Louis County; the name lookup returned St. Louis city (29510), which EPA lists separately as St. Louis City"
+Virginia,Roanoke,51161,"Roanoke County; the name lookup returned Roanoke city (51770). EPA labels independent cities with a City suffix"
+Virginia,Charles,51036,"Charles City County; EPA truncates the name to Charles"
+Maryland,Baltimore,24005,"Baltimore County; EPA lists Baltimore city separately as Baltimore (City)"
+Maryland,Baltimore (City),24510,"Baltimore city"
+Virginia,Fairfax,51059,"Fairfax County, not Fairfax city (51600)"
+Puerto Rico,Mayagnez,72097,"Mayagüez Municipio; EPA file misspells the name"
