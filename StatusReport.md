@@ -61,8 +61,8 @@ Dates are working targets, not completion claims; verify against Canvas.
 |---|---|---|---|
 | Research questions, roles, and approved scope in `ProjectPlan.md` | All; Samuel coordinates | Plan documented; feedback update unverified | November 17 |
 | EPA download, provenance, hashes | Rex | Downloaded the 2023 EPA air quality dataset and documented its source, download data, and relevent information. I also recorded the SHA-256.| Completed on November 18, 2026 |
-| ACS and CDC downloads, variables, provenance, hashes | Tergel | UPDATE REQUIRED | November 17 |
-| Pre-merge quality reports and cleaning rules | Rex, Tergel, Jashan | Rex: Completed the EPA data quality assessment. the dataset contains 993 records and 18 columns, with no missing values, duplicate records, or negative median AQI. Further cleaning and FIPS pending will be done by November 29th. | Rex: Further EPA data cleaning and county FIPS mapping are planned to be completed by November 29, 2026. |
+| ACS and CDC downloads, variables, provenance, hashes | Tergel | Downloaded both sources and recorded [file details and checksums](data/raw/acs_cdc/sources.json). | Completed November 19, 2026 |
+| Pre-merge quality reports and cleaning rules | Rex, Tergel, Jashan | Rex: Completed the EPA data quality assessment. the dataset contains 993 records and 18 columns, with no missing values, duplicate records, or negative median AQI. Further cleaning and FIPS pending will be done during Thanksgiving vacation. Tergel completed the [ACS and CDC source checks](data/raw/acs_cdc/source_notes.md). | Rex: Further EPA data cleaning and county FIPS mapping are planned to be completed by November 29, 2026. Tergel completed the source checks on November 19, 2026. |
 | Standardized FIPS identifiers and county-level integration | Jashan, source leads | UPDATE REQUIRED | November 18 |
 | Initial coverage/missingness results | Jashan | UPDATE REQUIRED | November 18 |
 | Documentation inventory and draft metadata | Samuel | UPDATE REQUIRED | November 18 |
@@ -107,7 +107,8 @@ https://github.com/tergelm2/TJSR/commit/95783f7653d417ec8deba7f0beea454612a0b983
 
  - **Samuel Kang (@smukng):** I prepared and uploaded the initial `StatusReport.md` draft, coordinated the collection of progress updates from team members, and revised `ProjectPlan.md` based on the Milestone 2 feedback. My revisions clarified the county selection criteria, narrowed the research questions, and expanded the reproducibility plan. I am also responsible for organizing documentation, checking repository artifact links, and coordinating the final status-report release. Additional metadata, data dictionary, and reproducibility verification work remains planned for the final milestone.
    
-- **Tergel Myagmarsaikhan (@tergelm2):** `UPDATE REQUIRED BY TERGEL` — specify ACS/CDC acquisition, schema work, or validation completed, with commit and artifact links.
+- **Tergel Myagmarsaikhan (@tergelm2)** — I downloaded and documented the ACS and CDC files. I selected the ACS population, income, and poverty fields and the CDC age-adjusted asthma and COPD estimates. I checked the source files for missing estimates, duplicate county records, and out-of-range values. [Source notes](data/raw/acs_cdc/source_notes.md) · [Quality check script](acs_cdc.py)
+
 - **Jashan Takhar (@jashtakhar):** `UPDATE REQUIRED BY JASHAN` — specify integration, key harmonization, quality assessment, or preliminary analysis completed, with commit and artifact links.
 
 ## 7. Next actions before the milestone release
