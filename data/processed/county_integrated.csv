@@ -1,0 +1,3037 @@
+county_fips,epa_state,epa_county,aqi_days,median_aqi,max_aqi,p90_aqi,in_epa,asthma_pct,copd_pct,cdc_state,cdc_county,in_cdc
+01001,,,,,,,False,10.0,6.4,AL,Autauga,True
+01003,Alabama,Baldwin,347.0,43.0,90.0,60.0,True,9.4,6.0,AL,Baldwin,True
+01005,,,,,,,False,10.9,9.3,AL,Barbour,True
+01007,,,,,,,False,10.4,8.9,AL,Bibb,True
+01009,,,,,,,False,9.9,7.6,AL,Blount,True
+01011,,,,,,,False,11.5,11.2,AL,Bullock,True
+01013,,,,,,,False,11.1,8.3,AL,Butler,True
+01015,,,,,,,False,10.6,7.8,AL,Calhoun,True
+01017,,,,,,,False,10.9,8.0,AL,Chambers,True
+01019,,,,,,,False,10.3,8.2,AL,Cherokee,True
+01021,,,,,,,False,10.0,7.6,AL,Chilton,True
+01023,,,,,,,False,11.1,8.5,AL,Choctaw,True
+01025,,,,,,,False,11.0,7.9,AL,Clarke,True
+01027,Alabama,Clay,327.0,41.0,85.0,61.0,True,10.6,8.5,AL,Clay,True
+01029,,,,,,,False,10.1,8.1,AL,Cleburne,True
+01031,,,,,,,False,10.2,7.5,AL,Coffee,True
+01033,,,,,,,False,10.4,7.4,AL,Colbert,True
+01035,,,,,,,False,11.3,9.7,AL,Conecuh,True
+01037,,,,,,,False,10.5,7.9,AL,Coosa,True
+01039,,,,,,,False,10.4,8.3,AL,Covington,True
+01041,,,,,,,False,10.6,8.2,AL,Crenshaw,True
+01043,,,,,,,False,9.9,7.6,AL,Cullman,True
+01045,,,,,,,False,10.4,8.0,AL,Dale,True
+01047,,,,,,,False,11.8,9.1,AL,Dallas,True
+01049,Alabama,DeKalb,365.0,48.0,133.0,66.0,True,10.1,9.2,AL,DeKalb,True
+01051,Alabama,Elmore,238.0,38.0,90.0,49.0,True,10.0,6.6,AL,Elmore,True
+01053,,,,,,,False,11.0,9.7,AL,Escambia,True
+01055,Alabama,Etowah,365.0,51.0,100.0,65.0,True,10.3,8.2,AL,Etowah,True
+01057,,,,,,,False,10.5,8.8,AL,Fayette,True
+01059,,,,,,,False,10.0,9.1,AL,Franklin,True
+01061,,,,,,,False,10.5,8.9,AL,Geneva,True
+01063,,,,,,,False,12.3,10.7,AL,Greene,True
+01065,,,,,,,False,11.5,8.6,AL,Hale,True
+01067,,,,,,,False,10.5,7.6,AL,Henry,True
+01069,,,,,,,False,10.5,7.5,AL,Houston,True
+01071,,,,,,,False,10.4,8.9,AL,Jackson,True
+01073,Alabama,Jefferson,365.0,61.0,255.0,89.0,True,9.9,6.2,AL,Jefferson,True
+01075,,,,,,,False,10.5,8.8,AL,Lamar,True
+01077,,,,,,,False,10.0,7.0,AL,Lauderdale,True
+01079,Alabama,Lawrence,98.0,34.0,67.0,54.0,True,10.6,8.2,AL,Lawrence,True
+01081,,,,,,,False,10.0,6.4,AL,Lee,True
+01083,,,,,,,False,9.7,6.1,AL,Limestone,True
+01085,,,,,,,False,11.8,9.9,AL,Lowndes,True
+01087,,,,,,,False,11.8,7.7,AL,Macon,True
+01089,Alabama,Madison,364.0,49.0,135.0,66.0,True,9.4,5.2,AL,Madison,True
+01091,,,,,,,False,11.1,8.1,AL,Marengo,True
+01093,,,,,,,False,10.4,8.8,AL,Marion,True
+01095,,,,,,,False,9.8,7.7,AL,Marshall,True
+01097,Alabama,Mobile,361.0,46.0,108.0,63.0,True,9.8,6.9,AL,Mobile,True
+01099,,,,,,,False,11.3,9.0,AL,Monroe,True
+01101,Alabama,Montgomery,331.0,52.0,93.0,66.0,True,10.8,6.7,AL,Montgomery,True
+01103,Alabama,Morgan,364.0,43.0,140.0,61.0,True,9.9,7.2,AL,Morgan,True
+01105,,,,,,,False,12.2,10.7,AL,Perry,True
+01107,,,,,,,False,10.7,8.5,AL,Pickens,True
+01109,,,,,,,False,10.9,7.9,AL,Pike,True
+01111,,,,,,,False,10.4,7.9,AL,Randolph,True
+01113,Alabama,Russell,318.0,43.0,93.0,63.0,True,11.1,8.0,AL,Russell,True
+01115,,,,,,,False,10.0,6.7,AL,St. Clair,True
+01117,Alabama,Shelby,242.0,40.0,108.0,58.0,True,9.4,4.8,AL,Shelby,True
+01119,Alabama,Sumter,363.0,35.0,84.0,55.0,True,11.7,8.5,AL,Sumter,True
+01121,,,,,,,False,10.7,7.9,AL,Talladega,True
+01123,,,,,,,False,10.5,7.3,AL,Tallapoosa,True
+01125,Alabama,Tuscaloosa,365.0,42.0,87.0,60.0,True,10.2,6.7,AL,Tuscaloosa,True
+01127,,,,,,,False,10.4,8.5,AL,Walker,True
+01129,,,,,,,False,10.7,7.7,AL,Washington,True
+01131,,,,,,,False,12.1,10.3,AL,Wilcox,True
+01133,,,,,,,False,10.4,9.4,AL,Winston,True
+02013,Alaska,Aleutians East,121.0,11.0,55.0,23.0,True,7.8,5.4,AK,Aleutians East,True
+02016,,,,,,,False,7.8,4.8,AK,Aleutians West,True
+02020,Alaska,Anchorage,365.0,21.0,71.0,53.0,True,10.6,5.2,AK,Anchorage,True
+02050,,,,,,,False,13.4,10.4,AK,Bethel,True
+02060,,,,,,,False,11.1,5.8,AK,Bristol Bay,True
+02063,,,,,,,False,10.0,5.4,AK,Chugach,True
+02066,,,,,,,False,10.9,6.5,AK,Copper River,True
+02068,Alaska,Denali,350.0,33.0,50.0,42.0,True,9.8,5.4,AK,Denali,True
+02070,,,,,,,False,12.6,8.2,AK,Dillingham,True
+02090,Alaska,Fairbanks North Star,365.0,41.0,231.0,93.0,True,10.0,5.0,AK,Fairbanks North Star,True
+02100,,,,,,,False,10.3,5.3,AK,Haines,True
+02105,,,,,,,False,11.6,6.9,AK,Hoonah-Angoon,True
+02110,Alaska,Juneau,364.0,24.0,78.0,54.0,True,10.2,5.2,AK,Juneau,True
+02122,Alaska,Kenai Peninsula,119.0,10.0,29.0,16.0,True,10.4,6.0,AK,Kenai Peninsula,True
+02130,,,,,,,False,10.4,5.7,AK,Ketchikan Gateway,True
+02150,,,,,,,False,9.3,5.2,AK,Kodiak Island,True
+02158,,,,,,,False,14.6,12.4,AK,Kusilvak,True
+02164,,,,,,,False,12.5,8.1,AK,Lake and Peninsula,True
+02170,Alaska,Matanuska-Susitna,358.0,14.0,102.0,53.0,True,10.7,6.2,AK,Matanuska-Susitna,True
+02180,,,,,,,False,12.7,9.1,AK,Nome,True
+02185,Alaska,North Slope,121.0,4.0,77.0,16.0,True,10.4,6.1,AK,North Slope,True
+02188,,,,,,,False,13.2,9.1,AK,Northwest Arctic,True
+02195,,,,,,,False,10.0,5.6,AK,Petersburg,True
+02198,,,,,,,False,12.1,7.6,AK,Prince of Wales-Hyder,True
+02220,,,,,,,False,10.1,5.2,AK,Sitka,True
+02230,,,,,,,False,10.1,5.5,AK,Skagway,True
+02240,,,,,,,False,10.1,6.7,AK,Southeast Fairbanks,True
+02275,,,,,,,False,11.0,6.6,AK,Wrangell,True
+02282,,,,,,,False,11.2,6.9,AK,Yakutat,True
+02290,,,,,,,False,12.7,9.1,AK,Yukon-Koyukuk,True
+04001,Arizona,Apache,365.0,13.0,106.0,26.0,True,14.4,10.4,AZ,Apache,True
+04003,Arizona,Cochise,365.0,44.0,108.0,64.0,True,10.5,6.4,AZ,Cochise,True
+04005,Arizona,Coconino,365.0,46.0,203.0,80.0,True,11.7,6.4,AZ,Coconino,True
+04007,Arizona,Gila,365.0,46.0,154.0,84.0,True,11.6,7.4,AZ,Gila,True
+04009,,,,,,,False,11.2,7.1,AZ,Graham,True
+04011,,,,,,,False,10.1,5.1,AZ,Greenlee,True
+04012,Arizona,La Paz,364.0,45.0,126.0,74.0,True,11.4,7.6,AZ,La Paz,True
+04013,Arizona,Maricopa,365.0,72.0,183.0,119.0,True,10.1,5.2,AZ,Maricopa,True
+04015,Arizona,Mohave,353.0,15.0,99.0,27.0,True,11.2,7.7,AZ,Mohave,True
+04017,Arizona,Navajo,364.0,43.0,84.0,64.0,True,13.8,9.0,AZ,Navajo,True
+04019,Arizona,Pima,365.0,54.0,147.0,84.0,True,11.0,5.7,AZ,Pima,True
+04021,Arizona,Pinal,365.0,64.0,709.0,105.0,True,10.9,6.2,AZ,Pinal,True
+04023,Arizona,Santa Cruz,358.0,37.0,145.0,63.0,True,9.5,5.6,AZ,Santa Cruz,True
+04025,Arizona,Yavapai,364.0,43.0,87.0,61.0,True,11.0,6.2,AZ,Yavapai,True
+04027,Arizona,Yuma,365.0,48.0,519.0,74.0,True,9.8,6.2,AZ,Yuma,True
+05001,Arkansas,Arkansas,120.0,44.0,80.0,62.0,True,10.8,7.8,AR,Arkansas,True
+05003,Arkansas,Ashley,119.0,43.0,107.0,60.0,True,11.2,9.5,AR,Ashley,True
+05005,,,,,,,False,10.5,8.3,AR,Baxter,True
+05007,,,,,,,False,9.2,5.6,AR,Benton,True
+05009,,,,,,,False,10.4,7.6,AR,Boone,True
+05011,,,,,,,False,10.9,8.8,AR,Bradley,True
+05013,,,,,,,False,10.4,7.1,AR,Calhoun,True
+05015,,,,,,,False,9.9,7.9,AR,Carroll,True
+05017,,,,,,,False,11.1,9.1,AR,Chicot,True
+05019,Arkansas,Clark,351.0,35.0,87.0,49.0,True,10.9,8.0,AR,Clark,True
+05021,,,,,,,False,10.5,8.7,AR,Clay,True
+05023,,,,,,,False,10.4,8.2,AR,Cleburne,True
+05025,,,,,,,False,10.6,8.2,AR,Cleveland,True
+05027,,,,,,,False,11.1,8.2,AR,Columbia,True
+05029,,,,,,,False,10.7,8.8,AR,Conway,True
+05031,,,,,,,False,10.6,7.6,AR,Craighead,True
+05033,,,,,,,False,10.3,7.9,AR,Crawford,True
+05035,Arkansas,Crittenden,364.0,41.0,133.0,64.0,True,11.6,8.3,AR,Crittenden,True
+05037,,,,,,,False,11.0,9.2,AR,Cross,True
+05039,,,,,,,False,10.9,7.2,AR,Dallas,True
+05041,,,,,,,False,11.9,10.7,AR,Desha,True
+05043,,,,,,,False,11.1,8.7,AR,Drew,True
+05045,,,,,,,False,10.1,6.6,AR,Faulkner,True
+05047,,,,,,,False,10.7,9.2,AR,Franklin,True
+05049,,,,,,,False,10.8,10.0,AR,Fulton,True
+05051,Arkansas,Garland,104.0,47.0,67.0,61.0,True,10.3,7.3,AR,Garland,True
+05053,,,,,,,False,10.0,6.9,AR,Grant,True
+05055,,,,,,,False,10.5,8.6,AR,Greene,True
+05057,,,,,,,False,10.8,8.1,AR,Hempstead,True
+05059,,,,,,,False,10.4,8.3,AR,Hot Spring,True
+05061,,,,,,,False,10.7,7.9,AR,Howard,True
+05063,,,,,,,False,10.5,8.3,AR,Independence,True
+05065,,,,,,,False,10.5,9.5,AR,Izard,True
+05067,Arkansas,Jackson,120.0,44.0,91.0,66.0,True,11.0,9.9,AR,Jackson,True
+05069,,,,,,,False,11.3,8.0,AR,Jefferson,True
+05071,,,,,,,False,10.4,8.8,AR,Johnson,True
+05073,,,,,,,False,11.6,10.3,AR,Lafayette,True
+05075,,,,,,,False,10.8,9.6,AR,Lawrence,True
+05077,,,,,,,False,11.0,10.2,AR,Lee,True
+05079,,,,,,,False,9.8,8.6,AR,Lincoln,True
+05081,,,,,,,False,10.8,8.2,AR,Little River,True
+05083,,,,,,,False,10.6,8.4,AR,Logan,True
+05085,,,,,,,False,10.3,6.8,AR,Lonoke,True
+05087,,,,,,,False,10.5,8.7,AR,Madison,True
+05089,,,,,,,False,10.6,8.6,AR,Marion,True
+05091,,,,,,,False,11.1,8.8,AR,Miller,True
+05093,,,,,,,False,11.1,8.6,AR,Mississippi,True
+05095,,,,,,,False,11.6,8.8,AR,Monroe,True
+05097,,,,,,,False,10.6,8.7,AR,Montgomery,True
+05099,,,,,,,False,11.1,9.4,AR,Nevada,True
+05101,Arkansas,Newton,364.0,39.0,90.0,58.0,True,10.5,8.3,AR,Newton,True
+05103,,,,,,,False,11.2,8.2,AR,Ouachita,True
+05105,,,,,,,False,10.3,8.1,AR,Perry,True
+05107,,,,,,,False,12.4,10.0,AR,Phillips,True
+05109,,,,,,,False,10.3,8.2,AR,Pike,True
+05111,,,,,,,False,10.9,9.6,AR,Poinsett,True
+05113,Arkansas,Polk,242.0,40.0,92.0,56.0,True,10.6,8.9,AR,Polk,True
+05115,,,,,,,False,10.6,8.2,AR,Pope,True
+05117,,,,,,,False,10.6,8.0,AR,Prairie,True
+05119,Arkansas,Pulaski,365.0,55.0,174.0,79.0,True,10.3,6.4,AR,Pulaski,True
+05121,,,,,,,False,10.8,9.4,AR,Randolph,True
+05123,,,,,,,False,11.0,9.5,AR,St. Francis,True
+05125,,,,,,,False,10.1,6.1,AR,Saline,True
+05127,,,,,,,False,10.4,8.6,AR,Scott,True
+05129,,,,,,,False,10.9,10.2,AR,Searcy,True
+05131,,,,,,,False,10.3,7.4,AR,Sebastian,True
+05133,,,,,,,False,10.2,8.9,AR,Sevier,True
+05135,,,,,,,False,10.8,9.3,AR,Sharp,True
+05137,,,,,,,False,10.8,9.7,AR,Stone,True
+05139,Arkansas,Union,119.0,51.0,102.0,63.0,True,11.0,8.0,AR,Union,True
+05141,,,,,,,False,10.6,9.4,AR,Van Buren,True
+05143,Arkansas,Washington,365.0,44.0,119.0,64.0,True,10.2,6.8,AR,Washington,True
+05145,,,,,,,False,10.7,8.2,AR,White,True
+05147,,,,,,,False,11.2,9.6,AR,Woodruff,True
+05149,,,,,,,False,10.1,8.2,AR,Yell,True
+06001,California,Alameda,365.0,48.0,130.0,70.0,True,8.8,3.8,CA,Alameda,True
+06003,,,,,,,False,10.5,4.7,CA,Alpine,True
+06005,California,Amador,360.0,36.0,80.0,48.0,True,10.1,5.2,CA,Amador,True
+06007,California,Butte,365.0,50.0,100.0,71.0,True,10.5,6.2,CA,Butte,True
+06009,California,Calaveras,365.0,40.0,101.0,56.0,True,10.5,5.9,CA,Calaveras,True
+06011,California,Colusa,365.0,55.0,98.0,66.0,True,9.8,5.7,CA,Colusa,True
+06013,California,Contra Costa,365.0,51.0,110.0,64.0,True,9.4,4.0,CA,Contra Costa,True
+06015,California,Del Norte,328.0,32.0,187.0,55.0,True,10.8,6.6,CA,Del Norte,True
+06017,California,El Dorado,365.0,44.0,119.0,77.0,True,9.9,4.6,CA,El Dorado,True
+06019,California,Fresno,365.0,64.0,156.0,112.0,True,9.8,5.8,CA,Fresno,True
+06021,California,Glenn,363.0,41.0,97.0,58.0,True,10.1,6.1,CA,Glenn,True
+06023,California,Humboldt,365.0,32.0,299.0,60.0,True,11.0,6.7,CA,Humboldt,True
+06025,California,Imperial,365.0,61.0,506.0,105.0,True,9.2,5.4,CA,Imperial,True
+06027,California,Inyo,365.0,61.0,786.0,90.0,True,10.4,5.2,CA,Inyo,True
+06029,California,Kern,365.0,69.0,174.0,122.0,True,10.3,6.4,CA,Kern,True
+06031,California,Kings,365.0,58.0,148.0,95.0,True,9.7,6.1,CA,Kings,True
+06033,California,Lake,363.0,32.0,67.0,39.0,True,10.9,6.9,CA,Lake,True
+06035,,,,,,,False,10.3,6.9,CA,Lassen,True
+06037,California,Los Angeles,365.0,67.0,210.0,147.0,True,9.0,4.5,CA,Los Angeles,True
+06039,California,Madera,365.0,52.0,151.0,84.0,True,10.4,6.7,CA,Madera,True
+06041,California,Marin,363.0,34.0,99.0,52.0,True,9.5,3.9,CA,Marin,True
+06043,California,Mariposa,365.0,47.0,264.0,77.0,True,10.6,5.9,CA,Mariposa,True
+06045,California,Mendocino,365.0,53.0,140.0,69.0,True,10.7,6.4,CA,Mendocino,True
+06047,California,Merced,365.0,51.0,129.0,87.0,True,9.8,6.1,CA,Merced,True
+06049,,,,,,,False,11.1,7.0,CA,Modoc,True
+06051,California,Mono,365.0,24.0,1829.0,51.0,True,9.9,5.1,CA,Mono,True
+06053,California,Monterey,365.0,42.0,115.0,55.0,True,9.6,5.3,CA,Monterey,True
+06055,,,,,,,False,9.5,4.6,CA,Napa,True
+06057,California,Nevada,363.0,42.0,97.0,55.0,True,10.4,5.2,CA,Nevada,True
+06059,California,Orange,365.0,52.0,166.0,77.0,True,9.0,4.1,CA,Orange,True
+06061,California,Placer,365.0,52.0,143.0,80.0,True,10.0,4.2,CA,Placer,True
+06063,California,Plumas,365.0,50.0,142.0,87.0,True,11.0,5.9,CA,Plumas,True
+06065,California,Riverside,365.0,77.0,660.0,154.0,True,9.5,4.9,CA,Riverside,True
+06067,California,Sacramento,365.0,51.0,133.0,86.0,True,10.2,5.1,CA,Sacramento,True
+06069,California,San Benito,365.0,40.0,111.0,54.0,True,9.1,4.4,CA,San Benito,True
+06071,California,San Bernardino,365.0,71.0,214.0,164.0,True,9.8,5.1,CA,San Bernardino,True
+06073,California,San Diego,365.0,67.0,150.0,101.0,True,8.9,4.4,CA,San Diego,True
+06075,California,San Francisco,365.0,32.0,117.0,54.0,True,8.5,3.6,CA,San Francisco,True
+06077,California,San Joaquin,365.0,47.0,119.0,78.0,True,9.5,5.2,CA,San Joaquin,True
+06079,California,San Luis Obispo,365.0,47.0,122.0,77.0,True,10.0,4.9,CA,San Luis Obispo,True
+06081,California,San Mateo,363.0,31.0,71.0,41.0,True,8.5,3.5,CA,San Mateo,True
+06083,California,Santa Barbara,365.0,45.0,95.0,59.0,True,9.7,5.2,CA,Santa Barbara,True
+06085,California,Santa Clara,365.0,43.0,134.0,63.0,True,7.9,3.3,CA,Santa Clara,True
+06087,California,Santa Cruz,365.0,36.0,130.0,53.0,True,9.8,4.7,CA,Santa Cruz,True
+06089,California,Shasta,365.0,45.0,1435.0,64.0,True,10.9,6.1,CA,Shasta,True
+06091,,,,,,,False,10.8,6.9,CA,Sierra,True
+06093,California,Siskiyou,365.0,43.0,320.0,64.0,True,11.2,6.6,CA,Siskiyou,True
+06095,California,Solano,365.0,40.0,105.0,57.0,True,10.1,4.6,CA,Solano,True
+06097,California,Sonoma,365.0,33.0,117.0,51.0,True,9.8,4.7,CA,Sonoma,True
+06099,California,Stanislaus,365.0,54.0,150.0,93.0,True,10.0,5.7,CA,Stanislaus,True
+06101,California,Sutter,363.0,49.0,105.0,69.0,True,10.0,6.1,CA,Sutter,True
+06103,California,Tehama,365.0,44.0,136.0,67.0,True,10.7,6.8,CA,Tehama,True
+06105,California,Trinity,311.0,31.0,174.0,65.0,True,11.3,7.8,CA,Trinity,True
+06107,California,Tulare,365.0,69.0,242.0,126.0,True,10.0,6.0,CA,Tulare,True
+06109,California,Tuolumne,290.0,43.0,112.0,61.0,True,10.5,5.6,CA,Tuolumne,True
+06111,California,Ventura,365.0,46.0,136.0,80.0,True,9.5,4.5,CA,Ventura,True
+06113,California,Yolo,365.0,43.0,108.0,65.0,True,9.8,5.0,CA,Yolo,True
+06115,,,,,,,False,10.4,6.3,CA,Yuba,True
+08001,Colorado,Adams,365.0,51.0,174.0,71.0,True,10.9,5.2,CO,Adams,True
+08003,Colorado,Alamosa,165.0,22.0,70.0,53.0,True,11.0,6.3,CO,Alamosa,True
+08005,Colorado,Arapahoe,365.0,47.0,136.0,74.0,True,10.5,4.6,CO,Arapahoe,True
+08007,Colorado,Archuleta,365.0,35.0,120.0,46.0,True,11.0,5.4,CO,Archuleta,True
+08009,,,,,,,False,12.2,8.1,CO,Baca,True
+08011,,,,,,,False,10.8,8.9,CO,Bent,True
+08013,Colorado,Boulder,365.0,50.0,181.0,74.0,True,10.3,4.4,CO,Boulder,True
+08014,,,,,,,False,10.3,3.8,CO,Broomfield,True
+08015,Colorado,Chaffee,166.0,58.0,115.0,87.0,True,10.8,5.5,CO,Chaffee,True
+08017,,,,,,,False,11.5,6.2,CO,Cheyenne,True
+08019,Colorado,Clear Creek,359.0,49.0,136.0,84.0,True,10.7,4.4,CO,Clear Creek,True
+08021,,,,,,,False,10.6,5.6,CO,Conejos,True
+08023,,,,,,,False,10.6,6.0,CO,Costilla,True
+08025,,,,,,,False,10.1,7.3,CO,Crowley,True
+08027,,,,,,,False,11.5,5.7,CO,Custer,True
+08029,,,,,,,False,11.6,6.7,CO,Delta,True
+08031,Colorado,Denver,365.0,54.0,179.0,77.0,True,10.2,4.4,CO,Denver,True
+08033,,,,,,,False,11.4,6.5,CO,Dolores,True
+08035,Colorado,Douglas,364.0,49.0,177.0,84.0,True,10.4,3.6,CO,Douglas,True
+08037,,,,,,,False,10.2,4.5,CO,Eagle,True
+08039,,,,,,,False,11.1,4.7,CO,Elbert,True
+08041,Colorado,El Paso,365.0,47.0,154.0,67.0,True,11.6,5.0,CO,El Paso,True
+08043,Colorado,Fremont,163.0,12.0,71.0,21.0,True,11.0,6.7,CO,Fremont,True
+08045,Colorado,Garfield,365.0,54.0,126.0,77.0,True,10.7,5.3,CO,Garfield,True
+08047,Colorado,Gilpin,365.0,47.0,129.0,71.0,True,10.9,4.8,CO,Gilpin,True
+08049,Colorado,Grand,158.0,46.0,77.0,58.0,True,10.9,5.1,CO,Grand,True
+08051,Colorado,Gunnison,363.0,46.0,93.0,67.0,True,10.7,4.6,CO,Gunnison,True
+08053,,,,,,,False,10.9,4.1,CO,Hinsdale,True
+08055,,,,,,,False,11.0,5.9,CO,Huerfano,True
+08057,Colorado,Jackson,365.0,45.0,108.0,58.0,True,11.7,7.7,CO,Jackson,True
+08059,Colorado,Jefferson,365.0,49.0,143.0,90.0,True,11.3,4.4,CO,Jefferson,True
+08061,,,,,,,False,11.8,6.5,CO,Kiowa,True
+08063,,,,,,,False,11.6,6.6,CO,Kit Carson,True
+08065,,,,,,,False,10.2,4.4,CO,Lake,True
+08067,Colorado,La Plata,365.0,46.0,211.0,71.0,True,11.2,5.2,CO,La Plata,True
+08069,Colorado,Larimer,365.0,51.0,156.0,77.0,True,11.2,4.8,CO,Larimer,True
+08071,,,,,,,False,10.9,6.2,CO,Las Animas,True
+08073,,,,,,,False,10.9,6.8,CO,Lincoln,True
+08075,,,,,,,False,11.4,7.4,CO,Logan,True
+08077,Colorado,Mesa,365.0,46.0,90.0,64.0,True,11.5,5.8,CO,Mesa,True
+08079,,,,,,,False,10.8,5.0,CO,Mineral,True
+08081,,,,,,,False,11.5,6.8,CO,Moffat,True
+08083,Colorado,Montezuma,365.0,44.0,80.0,58.0,True,12.0,6.3,CO,Montezuma,True
+08085,,,,,,,False,11.3,6.0,CO,Montrose,True
+08087,,,,,,,False,11.1,6.1,CO,Morgan,True
+08089,,,,,,,False,11.5,7.3,CO,Otero,True
+08091,,,,,,,False,10.8,4.3,CO,Ouray,True
+08093,Colorado,Park,269.0,50.0,147.0,80.0,True,10.9,4.8,CO,Park,True
+08095,,,,,,,False,11.3,6.6,CO,Phillips,True
+08097,Colorado,Pitkin,121.0,13.0,51.0,30.0,True,10.3,3.9,CO,Pitkin,True
+08099,Colorado,Prowers,350.0,19.0,103.0,40.0,True,11.2,6.9,CO,Prowers,True
+08101,Colorado,Pueblo,362.0,43.0,115.0,67.0,True,11.2,6.1,CO,Pueblo,True
+08103,Colorado,Rio Blanco,365.0,47.0,166.0,67.0,True,11.3,5.7,CO,Rio Blanco,True
+08105,,,,,,,False,10.7,5.6,CO,Rio Grande,True
+08107,Colorado,Routt,353.0,13.0,58.0,23.0,True,10.6,4.5,CO,Routt,True
+08109,,,,,,,False,11.2,6.7,CO,Saguache,True
+08111,Colorado,San Juan,120.0,9.0,50.0,20.0,True,10.6,4.9,CO,San Juan,True
+08113,Colorado,San Miguel,253.0,47.0,84.0,61.0,True,10.5,4.5,CO,San Miguel,True
+08115,,,,,,,False,11.5,6.5,CO,Sedgwick,True
+08117,,,,,,,False,10.3,4.6,CO,Summit,True
+08119,,,,,,,False,11.0,4.9,CO,Teller,True
+08121,,,,,,,False,11.3,6.0,CO,Washington,True
+08123,Colorado,Weld,365.0,55.0,162.0,80.0,True,10.7,5.3,CO,Weld,True
+08125,,,,,,,False,11.2,6.5,CO,Yuma,True
+09001,Connecticut,Fairfield,365.0,46.0,242.0,79.0,True,,,,,False
+09003,Connecticut,Hartford,365.0,43.0,166.0,64.0,True,,,,,False
+09005,Connecticut,Litchfield,364.0,38.0,183.0,59.0,True,,,,,False
+09007,Connecticut,Middlesex,209.0,43.0,140.0,64.0,True,,,,,False
+09009,Connecticut,New Haven,365.0,47.0,208.0,74.0,True,,,,,False
+09011,Connecticut,New London,363.0,41.0,166.0,61.0,True,,,,,False
+09013,Connecticut,Tolland,212.0,41.0,156.0,58.0,True,,,,,False
+09015,Connecticut,Windham,359.0,34.0,112.0,46.0,True,,,,,False
+09110,,,,,,,False,11.6,4.9,CT,Capitol,True
+09120,,,,,,,False,10.5,4.9,CT,Greater Bridgeport,True
+09130,,,,,,,False,11.1,4.6,CT,Lower Connecticut River Valley,True
+09140,,,,,,,False,11.2,5.2,CT,Naugatuck Valley,True
+09150,,,,,,,False,11.7,5.7,CT,Northeastern Connecticut,True
+09160,,,,,,,False,11.6,5.0,CT,Northwest Hills,True
+09170,,,,,,,False,10.9,4.9,CT,South Central Connecticut,True
+09180,,,,,,,False,11.4,5.3,CT,Southeastern Connecticut,True
+09190,,,,,,,False,10.0,4.0,CT,Western Connecticut,True
+10001,Delaware,Kent,348.0,46.0,207.0,64.0,True,12.6,6.6,DE,Kent,True
+10003,Delaware,New Castle,365.0,51.0,282.0,73.0,True,10.4,5.3,DE,New Castle,True
+10005,Delaware,Sussex,365.0,47.0,203.0,68.0,True,10.7,6.3,DE,Sussex,True
+11001,District Of Columbia,District of Columbia,365.0,50.0,196.0,72.0,True,10.2,4.2,DC,District of Columbia,True
+12001,Florida,Alachua,365.0,40.0,104.0,57.0,True,10.1,6.3,FL,Alachua,True
+12003,Florida,Baker,364.0,43.0,89.0,58.0,True,10.3,7.5,FL,Baker,True
+12005,Florida,Bay,365.0,51.0,95.0,61.0,True,10.0,6.7,FL,Bay,True
+12007,,,,,,,False,10.5,9.0,FL,Bradford,True
+12009,Florida,Brevard,365.0,43.0,130.0,58.0,True,9.7,5.9,FL,Brevard,True
+12011,Florida,Broward,365.0,52.0,109.0,66.0,True,9.2,5.3,FL,Broward,True
+12013,,,,,,,False,10.6,9.5,FL,Calhoun,True
+12015,,,,,,,False,9.9,6.2,FL,Charlotte,True
+12017,Florida,Citrus,353.0,45.0,118.0,58.0,True,10.1,7.4,FL,Citrus,True
+12019,,,,,,,False,10.0,6.0,FL,Clay,True
+12021,Florida,Collier,360.0,43.0,144.0,57.0,True,8.8,5.3,FL,Collier,True
+12023,Florida,Columbia,363.0,47.0,92.0,61.0,True,10.4,8.4,FL,Columbia,True
+12027,,,,,,,False,10.0,9.8,FL,DeSoto,True
+12029,,,,,,,False,10.5,9.5,FL,Dixie,True
+12031,Florida,Duval,365.0,52.0,124.0,67.0,True,10.3,6.5,FL,Duval,True
+12033,Florida,Escambia,365.0,51.0,108.0,67.0,True,10.6,6.9,FL,Escambia,True
+12035,Florida,Flagler,364.0,35.0,71.0,46.0,True,9.9,6.0,FL,Flagler,True
+12037,,,,,,,False,10.0,8.0,FL,Franklin,True
+12039,,,,,,,False,11.2,9.0,FL,Gadsden,True
+12041,,,,,,,False,10.3,8.0,FL,Gilchrist,True
+12043,,,,,,,False,9.9,9.2,FL,Glades,True
+12045,,,,,,,False,9.8,7.2,FL,Gulf,True
+12047,Florida,Hamilton,318.0,46.0,89.0,60.0,True,11.0,10.1,FL,Hamilton,True
+12049,,,,,,,False,9.7,8.6,FL,Hardee,True
+12051,,,,,,,False,9.4,8.1,FL,Hendry,True
+12053,,,,,,,False,9.9,6.8,FL,Hernando,True
+12055,Florida,Highlands,360.0,35.0,108.0,45.0,True,9.9,7.3,FL,Highlands,True
+12057,Florida,Hillsborough,365.0,51.0,114.0,69.0,True,9.4,5.6,FL,Hillsborough,True
+12059,Florida,Holmes,365.0,49.0,87.0,63.0,True,10.5,9.0,FL,Holmes,True
+12061,Florida,Indian River,358.0,34.0,74.0,44.0,True,9.4,5.8,FL,Indian River,True
+12063,,,,,,,False,10.4,8.6,FL,Jackson,True
+12065,,,,,,,False,10.4,7.9,FL,Jefferson,True
+12067,,,,,,,False,10.2,9.3,FL,Lafayette,True
+12069,Florida,Lake,364.0,37.0,97.0,49.0,True,9.8,6.0,FL,Lake,True
+12071,Florida,Lee,363.0,35.0,101.0,46.0,True,9.4,5.9,FL,Lee,True
+12073,Florida,Leon,361.0,47.0,124.0,61.0,True,10.4,6.1,FL,Leon,True
+12075,,,,,,,False,10.5,8.3,FL,Levy,True
+12077,Florida,Liberty,347.0,33.0,64.0,44.0,True,10.1,9.1,FL,Liberty,True
+12079,,,,,,,False,11.0,8.9,FL,Madison,True
+12081,Florida,Manatee,362.0,35.0,90.0,48.0,True,9.3,6.0,FL,Manatee,True
+12083,Florida,Marion,365.0,45.0,99.0,57.0,True,10.0,7.2,FL,Marion,True
+12085,Florida,Martin,365.0,41.0,127.0,55.0,True,9.4,5.8,FL,Martin,True
+12086,Florida,Miami-Dade,365.0,48.0,170.0,63.0,True,8.6,4.7,FL,Miami-Dade,True
+12087,,,,,,,False,9.0,5.3,FL,Monroe,True
+12089,,,,,,,False,9.7,5.8,FL,Nassau,True
+12091,Florida,Okaloosa,241.0,37.0,84.0,50.0,True,9.6,5.9,FL,Okaloosa,True
+12093,,,,,,,False,9.9,8.5,FL,Okeechobee,True
+12095,Florida,Orange,365.0,43.0,115.0,62.0,True,9.1,5.4,FL,Orange,True
+12097,Florida,Osceola,356.0,36.0,80.0,48.0,True,8.9,5.2,FL,Osceola,True
+12099,Florida,Palm Beach,365.0,43.0,122.0,58.0,True,9.4,5.4,FL,Palm Beach,True
+12101,Florida,Pasco,365.0,39.0,97.0,51.0,True,9.8,6.3,FL,Pasco,True
+12103,Florida,Pinellas,365.0,47.0,113.0,62.0,True,9.7,6.1,FL,Pinellas,True
+12105,Florida,Polk,365.0,42.0,101.0,58.0,True,10.1,6.9,FL,Polk,True
+12107,Florida,Putnam,356.0,17.0,54.0,31.0,True,11.0,10.1,FL,Putnam,True
+12109,,,,,,,False,9.4,4.8,FL,St. Johns,True
+12111,Florida,St. Lucie,361.0,35.0,80.0,45.0,True,10.1,6.4,FL,St. Lucie,True
+12113,Florida,Santa Rosa,365.0,47.0,103.0,64.0,True,9.6,5.9,FL,Santa Rosa,True
+12115,Florida,Sarasota,365.0,47.0,143.0,61.0,True,9.5,5.5,FL,Sarasota,True
+12117,Florida,Seminole,364.0,40.0,106.0,56.0,True,9.1,5.0,FL,Seminole,True
+12119,,,,,,,False,9.3,5.5,FL,Sumter,True
+12121,,,,,,,False,10.3,8.4,FL,Suwannee,True
+12123,,,,,,,False,10.6,9.3,FL,Taylor,True
+12125,,,,,,,False,10.3,9.0,FL,Union,True
+12127,Florida,Volusia,365.0,44.0,118.0,58.0,True,10.1,6.4,FL,Volusia,True
+12129,Florida,Wakulla,365.0,39.0,80.0,58.0,True,10.0,6.7,FL,Wakulla,True
+12131,,,,,,,False,9.5,6.2,FL,Walton,True
+12133,,,,,,,False,10.5,9.1,FL,Washington,True
+13001,,,,,,,False,10.8,9.3,GA,Appling,True
+13003,,,,,,,False,10.7,10.1,GA,Atkinson,True
+13005,,,,,,,False,10.7,8.3,GA,Bacon,True
+13007,,,,,,,False,11.3,9.3,GA,Baker,True
+13009,,,,,,,False,10.8,7.6,GA,Baldwin,True
+13011,,,,,,,False,10.2,7.5,GA,Banks,True
+13013,,,,,,,False,9.8,6.2,GA,Barrow,True
+13015,,,,,,,False,10.0,6.4,GA,Bartow,True
+13017,,,,,,,False,11.4,9.4,GA,Ben Hill,True
+13019,,,,,,,False,10.8,9.1,GA,Berrien,True
+13021,Georgia,Bibb,351.0,53.0,157.0,71.0,True,11.3,7.5,GA,Bibb,True
+13023,,,,,,,False,10.9,7.7,GA,Bleckley,True
+13025,,,,,,,False,10.7,8.7,GA,Brantley,True
+13027,,,,,,,False,11.2,9.1,GA,Brooks,True
+13029,,,,,,,False,9.6,5.0,GA,Bryan,True
+13031,,,,,,,False,10.6,7.2,GA,Bulloch,True
+13033,,,,,,,False,11.4,8.3,GA,Burke,True
+13035,,,,,,,False,10.4,7.3,GA,Butts,True
+13037,,,,,,,False,10.6,8.6,GA,Calhoun,True
+13039,,,,,,,False,10.1,6.5,GA,Camden,True
+13043,,,,,,,False,10.8,8.4,GA,Candler,True
+13045,,,,,,,False,10.4,7.0,GA,Carroll,True
+13047,,,,,,,False,10.0,6.3,GA,Catoosa,True
+13049,Georgia,Charlton,120.0,27.0,74.0,48.0,True,10.0,8.5,GA,Charlton,True
+13051,Georgia,Chatham,352.0,48.0,108.0,63.0,True,10.3,5.8,GA,Chatham,True
+13053,,,,,,,False,9.7,6.9,GA,Chattahoochee,True
+13055,Georgia,Chattooga,244.0,38.0,100.0,49.0,True,10.8,9.6,GA,Chattooga,True
+13057,,,,,,,False,9.5,4.9,GA,Cherokee,True
+13059,Georgia,Clarke,365.0,52.0,147.0,71.0,True,10.5,6.7,GA,Clarke,True
+13061,,,,,,,False,11.6,8.1,GA,Clay,True
+13063,Georgia,Clayton,121.0,51.0,98.0,63.0,True,11.3,6.5,GA,Clayton,True
+13065,,,,,,,False,11.2,9.5,GA,Clinch,True
+13067,Georgia,Cobb,323.0,43.0,125.0,65.0,True,9.4,4.5,GA,Cobb,True
+13069,Georgia,Coffee,191.0,41.0,130.0,59.0,True,10.8,9.1,GA,Coffee,True
+13071,,,,,,,False,10.7,8.5,GA,Colquitt,True
+13073,Georgia,Columbia,242.0,36.0,74.0,47.0,True,9.6,5.0,GA,Columbia,True
+13075,,,,,,,False,11.0,8.9,GA,Cook,True
+13077,,,,,,,False,9.9,5.2,GA,Coweta,True
+13079,,,,,,,False,10.4,7.2,GA,Crawford,True
+13081,,,,,,,False,11.7,9.1,GA,Crisp,True
+13083,,,,,,,False,10.1,6.7,GA,Dade,True
+13085,Georgia,Dawson,244.0,38.0,126.0,49.0,True,9.6,5.7,GA,Dawson,True
+13087,,,,,,,False,11.2,8.4,GA,Decatur,True
+13089,Georgia,DeKalb,365.0,53.0,136.0,70.0,True,10.3,4.9,GA,DeKalb,True
+13091,,,,,,,False,10.7,8.2,GA,Dodge,True
+13093,,,,,,,False,10.5,7.5,GA,Dooly,True
+13095,Georgia,Dougherty,364.0,51.0,140.0,71.0,True,12.0,8.1,GA,Dougherty,True
+13097,Georgia,Douglas,245.0,41.0,136.0,64.0,True,10.7,5.5,GA,Douglas,True
+13099,,,,,,,False,11.7,8.4,GA,Early,True
+13101,,,,,,,False,9.7,6.8,GA,Echols,True
+13103,,,,,,,False,10.0,5.7,GA,Effingham,True
+13105,,,,,,,False,10.8,7.7,GA,Elbert,True
+13107,,,,,,,False,11.2,8.9,GA,Emanuel,True
+13109,,,,,,,False,11.0,8.5,GA,Evans,True
+13111,,,,,,,False,10.3,7.4,GA,Fannin,True
+13113,,,,,,,False,9.4,4.2,GA,Fayette,True
+13115,Georgia,Floyd,322.0,46.0,110.0,63.0,True,10.3,7.3,GA,Floyd,True
+13117,,,,,,,False,8.4,3.8,GA,Forsyth,True
+13119,,,,,,,False,10.7,8.3,GA,Franklin,True
+13121,Georgia,Fulton,365.0,53.0,172.0,71.0,True,9.4,4.4,GA,Fulton,True
+13123,,,,,,,False,9.8,6.9,GA,Gilmer,True
+13125,,,,,,,False,10.6,7.9,GA,Glascock,True
+13127,Georgia,Glynn,363.0,43.0,90.0,61.0,True,10.3,6.5,GA,Glynn,True
+13129,,,,,,,False,10.2,7.7,GA,Gordon,True
+13131,,,,,,,False,10.8,8.0,GA,Grady,True
+13133,,,,,,,False,10.1,5.4,GA,Greene,True
+13135,Georgia,Gwinnett,365.0,50.0,140.0,74.0,True,9.1,4.9,GA,Gwinnett,True
+13137,,,,,,,False,10.0,6.9,GA,Habersham,True
+13139,Georgia,Hall,363.0,52.0,137.0,68.0,True,9.5,6.2,GA,Hall,True
+13141,,,,,,,False,11.5,9.4,GA,Hancock,True
+13143,,,,,,,False,10.3,7.3,GA,Haralson,True
+13145,,,,,,,False,9.7,5.1,GA,Harris,True
+13147,,,,,,,False,10.4,7.1,GA,Hart,True
+13149,,,,,,,False,10.6,7.8,GA,Heard,True
+13151,Georgia,Henry,361.0,44.0,153.0,63.0,True,10.5,5.2,GA,Henry,True
+13153,Georgia,Houston,365.0,49.0,152.0,66.0,True,10.1,5.5,GA,Houston,True
+13155,,,,,,,False,10.8,8.2,GA,Irwin,True
+13157,,,,,,,False,9.7,6.0,GA,Jackson,True
+13159,,,,,,,False,10.4,7.3,GA,Jasper,True
+13161,,,,,,,False,10.8,9.4,GA,Jeff Davis,True
+13163,,,,,,,False,11.5,8.6,GA,Jefferson,True
+13165,,,,,,,False,11.2,9.7,GA,Jenkins,True
+13167,,,,,,,False,10.6,9.2,GA,Johnson,True
+13169,,,,,,,False,10.6,6.7,GA,Jones,True
+13171,,,,,,,False,10.7,6.8,GA,Lamar,True
+13173,,,,,,,False,10.8,8.9,GA,Lanier,True
+13175,,,,,,,False,11.2,8.0,GA,Laurens,True
+13177,,,,,,,False,10.0,5.4,GA,Lee,True
+13179,,,,,,,False,10.3,6.2,GA,Liberty,True
+13181,,,,,,,False,11.0,8.0,GA,Lincoln,True
+13183,,,,,,,False,10.5,7.0,GA,Long,True
+13185,Georgia,Lowndes,359.0,48.0,126.0,66.0,True,10.7,7.1,GA,Lowndes,True
+13187,,,,,,,False,10.0,6.7,GA,Lumpkin,True
+13189,,,,,,,False,11.1,7.7,GA,McDuffie,True
+13191,,,,,,,False,11.5,9.0,GA,McIntosh,True
+13193,,,,,,,False,11.1,9.8,GA,Macon,True
+13195,,,,,,,False,10.5,8.1,GA,Madison,True
+13197,,,,,,,False,11.0,8.2,GA,Marion,True
+13199,,,,,,,False,11.2,8.0,GA,Meriwether,True
+13201,,,,,,,False,11.3,8.4,GA,Miller,True
+13205,,,,,,,False,11.2,8.4,GA,Mitchell,True
+13207,,,,,,,False,10.2,6.0,GA,Monroe,True
+13209,,,,,,,False,10.5,7.7,GA,Montgomery,True
+13211,,,,,,,False,10.0,5.5,GA,Morgan,True
+13213,Georgia,Murray,281.0,41.0,108.0,58.0,True,10.2,7.4,GA,Murray,True
+13215,Georgia,Muscogee,365.0,52.0,154.0,71.0,True,11.0,6.6,GA,Muscogee,True
+13217,,,,,,,False,11.0,6.1,GA,Newton,True
+13219,,,,,,,False,9.0,4.1,GA,Oconee,True
+13221,,,,,,,False,10.2,6.6,GA,Oglethorpe,True
+13223,,,,,,,False,10.0,5.2,GA,Paulding,True
+13225,,,,,,,False,10.7,6.4,GA,Peach,True
+13227,,,,,,,False,10.1,6.7,GA,Pickens,True
+13229,,,,,,,False,10.5,8.0,GA,Pierce,True
+13231,Georgia,Pike,361.0,39.0,133.0,58.0,True,10.1,6.2,GA,Pike,True
+13233,,,,,,,False,10.5,7.9,GA,Polk,True
+13235,,,,,,,False,11.8,8.5,GA,Pulaski,True
+13237,,,,,,,False,10.6,7.1,GA,Putnam,True
+13239,,,,,,,False,11.6,8.9,GA,Quitman,True
+13241,,,,,,,False,9.9,6.8,GA,Rabun,True
+13243,,,,,,,False,12.3,10.3,GA,Randolph,True
+13245,Georgia,Richmond,365.0,51.0,93.0,69.0,True,11.5,7.0,GA,Richmond,True
+13247,Georgia,Rockdale,242.0,40.0,136.0,61.0,True,11.1,5.9,GA,Rockdale,True
+13249,,,,,,,False,10.6,7.0,GA,Schley,True
+13251,,,,,,,False,11.1,7.9,GA,Screven,True
+13253,,,,,,,False,11.1,7.7,GA,Seminole,True
+13255,,,,,,,False,10.9,7.5,GA,Spalding,True
+13257,,,,,,,False,10.6,7.9,GA,Stephens,True
+13259,,,,,,,False,10.1,9.2,GA,Stewart,True
+13261,Georgia,Sumter,245.0,38.0,87.0,49.0,True,11.3,7.7,GA,Sumter,True
+13263,,,,,,,False,11.6,8.3,GA,Talbot,True
+13265,,,,,,,False,11.1,7.8,GA,Taliaferro,True
+13267,,,,,,,False,10.4,8.9,GA,Tattnall,True
+13269,,,,,,,False,11.6,10.1,GA,Taylor,True
+13271,,,,,,,False,10.7,10.2,GA,Telfair,True
+13273,,,,,,,False,12.0,9.4,GA,Terrell,True
+13275,,,,,,,False,10.9,7.0,GA,Thomas,True
+13277,,,,,,,False,10.7,7.8,GA,Tift,True
+13279,,,,,,,False,10.8,8.0,GA,Toombs,True
+13281,,,,,,,False,10.0,6.5,GA,Towns,True
+13283,,,,,,,False,11.4,10.5,GA,Treutlen,True
+13285,,,,,,,False,10.9,7.3,GA,Troup,True
+13287,,,,,,,False,11.5,9.4,GA,Turner,True
+13289,,,,,,,False,11.2,7.8,GA,Twiggs,True
+13291,,,,,,,False,9.9,6.6,GA,Union,True
+13293,,,,,,,False,11.0,8.0,GA,Upson,True
+13295,Georgia,Walker,362.0,53.0,145.0,70.0,True,10.3,7.4,GA,Walker,True
+13297,,,,,,,False,10.3,6.4,GA,Walton,True
+13299,,,,,,,False,10.9,8.8,GA,Ware,True
+13301,,,,,,,False,11.6,8.1,GA,Warren,True
+13303,Georgia,Washington,360.0,52.0,161.0,71.0,True,11.1,8.3,GA,Washington,True
+13305,,,,,,,False,10.8,8.9,GA,Wayne,True
+13307,,,,,,,False,11.5,8.6,GA,Webster,True
+13309,,,,,,,False,10.0,9.0,GA,Wheeler,True
+13311,,,,,,,False,10.0,6.6,GA,White,True
+13313,,,,,,,False,9.6,6.9,GA,Whitfield,True
+13315,,,,,,,False,10.3,8.9,GA,Wilcox,True
+13317,,,,,,,False,11.0,7.8,GA,Wilkes,True
+13319,,,,,,,False,11.1,7.8,GA,Wilkinson,True
+13321,,,,,,,False,11.0,8.2,GA,Worth,True
+15001,Hawaii,Hawaii,365.0,23.0,71.0,45.0,True,11.4,5.6,HI,Hawaii,True
+15003,Hawaii,Honolulu,365.0,31.0,117.0,47.0,True,9.7,4.1,HI,Honolulu,True
+15005,,,,,,,False,8.6,5.7,HI,Kalawao,True
+15007,,,,,,,False,10.4,4.8,HI,Kauai,True
+15009,Hawaii,Maui,347.0,20.0,152.0,33.0,True,10.5,4.8,HI,Maui,True
+16001,Idaho,Ada,365.0,44.0,120.0,64.0,True,10.3,4.8,ID,Ada,True
+16003,,,,,,,False,11.0,7.0,ID,Adams,True
+16005,Idaho,Bannock,365.0,38.0,110.0,54.0,True,11.2,6.2,ID,Bannock,True
+16007,,,,,,,False,11.0,6.4,ID,Bear Lake,True
+16009,Idaho,Benewah,365.0,48.0,164.0,72.0,True,11.8,7.9,ID,Benewah,True
+16011,,,,,,,False,11.1,6.4,ID,Bingham,True
+16013,Idaho,Blaine,330.0,19.0,63.0,33.0,True,10.0,4.7,ID,Blaine,True
+16015,Idaho,Boise,365.0,39.0,98.0,58.0,True,10.8,5.5,ID,Boise,True
+16017,Idaho,Bonner,363.0,34.0,261.0,60.0,True,10.9,6.2,ID,Bonner,True
+16019,Idaho,Bonneville,348.0,25.0,84.0,44.0,True,10.7,5.7,ID,Bonneville,True
+16021,Idaho,Boundary,312.0,28.0,255.0,58.0,True,11.4,7.2,ID,Boundary,True
+16023,Idaho,Butte,362.0,44.0,80.0,51.0,True,11.8,9.0,ID,Butte,True
+16025,,,,,,,False,10.7,5.8,ID,Camas,True
+16027,Idaho,Canyon,364.0,34.0,88.0,59.0,True,10.8,6.2,ID,Canyon,True
+16029,,,,,,,False,10.8,6.2,ID,Caribou,True
+16031,,,,,,,False,10.6,6.4,ID,Cassia,True
+16033,,,,,,,False,10.6,6.8,ID,Clark,True
+16035,,,,,,,False,10.7,6.7,ID,Clearwater,True
+16037,Idaho,Custer,104.0,8.0,60.0,25.0,True,10.9,6.4,ID,Custer,True
+16039,,,,,,,False,10.7,6.8,ID,Elmore,True
+16041,Idaho,Franklin,361.0,24.0,155.0,54.0,True,10.7,6.1,ID,Franklin,True
+16043,,,,,,,False,10.5,6.1,ID,Fremont,True
+16045,,,,,,,False,10.9,6.0,ID,Gem,True
+16047,,,,,,,False,10.7,7.4,ID,Gooding,True
+16049,Idaho,Idaho,365.0,44.0,98.0,62.0,True,10.9,6.5,ID,Idaho,True
+16051,,,,,,,False,10.7,5.8,ID,Jefferson,True
+16053,,,,,,,False,10.7,7.4,ID,Jerome,True
+16055,Idaho,Kootenai,361.0,32.0,222.0,60.0,True,10.8,6.0,ID,Kootenai,True
+16057,Idaho,Latah,360.0,22.0,183.0,52.0,True,10.7,5.8,ID,Latah,True
+16059,Idaho,Lemhi,363.0,32.0,119.0,63.0,True,11.2,6.4,ID,Lemhi,True
+16061,,,,,,,False,11.7,7.8,ID,Lewis,True
+16063,,,,,,,False,10.5,6.5,ID,Lincoln,True
+16065,,,,,,,False,11.5,7.9,ID,Madison,True
+16067,,,,,,,False,10.3,6.4,ID,Minidoka,True
+16069,Idaho,Nez Perce,365.0,36.0,199.0,61.0,True,11.6,6.5,ID,Nez Perce,True
+16071,,,,,,,False,10.7,5.9,ID,Oneida,True
+16073,,,,,,,False,11.1,7.8,ID,Owyhee,True
+16075,,,,,,,False,11.0,6.9,ID,Payette,True
+16077,,,,,,,False,10.6,6.9,ID,Power,True
+16079,Idaho,Shoshone,365.0,47.0,160.0,68.0,True,11.5,7.8,ID,Shoshone,True
+16081,,,,,,,False,9.9,4.8,ID,Teton,True
+16083,Idaho,Twin Falls,344.0,25.0,80.0,42.0,True,11.1,6.5,ID,Twin Falls,True
+16085,Idaho,Valley,360.0,36.0,78.0,61.0,True,10.9,6.3,ID,Valley,True
+16087,,,,,,,False,11.3,7.5,ID,Washington,True
+17001,Illinois,Adams,245.0,43.0,136.0,77.0,True,10.5,6.6,IL,Adams,True
+17003,,,,,,,False,11.9,9.1,IL,Alexander,True
+17005,,,,,,,False,10.5,7.1,IL,Bond,True
+17007,,,,,,,False,10.0,6.3,IL,Boone,True
+17009,,,,,,,False,10.0,7.7,IL,Brown,True
+17011,,,,,,,False,10.4,6.9,IL,Bureau,True
+17013,,,,,,,False,10.3,5.7,IL,Calhoun,True
+17015,,,,,,,False,10.3,7.1,IL,Carroll,True
+17017,,,,,,,False,10.2,7.2,IL,Cass,True
+17019,Illinois,Champaign,365.0,48.0,277.0,70.0,True,10.2,6.0,IL,Champaign,True
+17021,,,,,,,False,10.4,7.2,IL,Christian,True
+17023,Illinois,Clark,358.0,36.0,136.0,51.0,True,10.5,6.7,IL,Clark,True
+17025,,,,,,,False,11.0,8.3,IL,Clay,True
+17027,,,,,,,False,10.4,6.2,IL,Clinton,True
+17029,,,,,,,False,10.9,7.5,IL,Coles,True
+17031,Illinois,Cook,365.0,57.0,223.0,93.0,True,9.8,5.2,IL,Cook,True
+17033,,,,,,,False,10.5,7.0,IL,Crawford,True
+17035,,,,,,,False,10.5,6.5,IL,Cumberland,True
+17037,,,,,,,False,10.4,6.4,IL,DeKalb,True
+17039,,,,,,,False,10.5,6.8,IL,De Witt,True
+17041,,,,,,,False,10.5,6.8,IL,Douglas,True
+17043,Illinois,DuPage,365.0,53.0,234.0,77.0,True,8.9,4.3,IL,DuPage,True
+17045,,,,,,,False,10.8,7.6,IL,Edgar,True
+17047,,,,,,,False,11.0,8.1,IL,Edwards,True
+17049,Illinois,Effingham,242.0,44.0,140.0,74.0,True,10.3,6.4,IL,Effingham,True
+17051,,,,,,,False,10.5,7.9,IL,Fayette,True
+17053,,,,,,,False,10.6,7.2,IL,Ford,True
+17055,,,,,,,False,11.0,8.3,IL,Franklin,True
+17057,,,,,,,False,10.6,7.5,IL,Fulton,True
+17059,,,,,,,False,11.0,8.2,IL,Gallatin,True
+17061,,,,,,,False,10.8,7.7,IL,Greene,True
+17063,,,,,,,False,10.1,5.7,IL,Grundy,True
+17065,Illinois,Hamilton,365.0,46.0,157.0,67.0,True,10.9,8.0,IL,Hamilton,True
+17067,,,,,,,False,10.5,6.8,IL,Hancock,True
+17069,,,,,,,False,10.9,7.8,IL,Hardin,True
+17071,,,,,,,False,10.5,7.0,IL,Henderson,True
+17073,,,,,,,False,10.3,6.2,IL,Henry,True
+17075,,,,,,,False,10.7,7.6,IL,Iroquois,True
+17077,,,,,,,False,10.9,7.6,IL,Jackson,True
+17079,,,,,,,False,10.4,6.4,IL,Jasper,True
+17081,,,,,,,False,10.7,7.3,IL,Jefferson,True
+17083,Illinois,Jersey,365.0,48.0,166.0,77.0,True,10.5,6.4,IL,Jersey,True
+17085,Illinois,Jo Daviess,353.0,36.0,154.0,58.0,True,10.2,6.1,IL,Jo Daviess,True
+17087,,,,,,,False,10.3,7.7,IL,Johnson,True
+17089,Illinois,Kane,288.0,46.0,174.0,87.0,True,9.3,5.0,IL,Kane,True
+17091,,,,,,,False,10.8,6.9,IL,Kankakee,True
+17093,,,,,,,False,9.5,4.6,IL,Kendall,True
+17095,,,,,,,False,10.7,7.6,IL,Knox,True
+17097,Illinois,Lake,243.0,42.0,179.0,84.0,True,9.1,4.7,IL,Lake,True
+17099,,,,,,,False,10.3,6.7,IL,LaSalle,True
+17101,,,,,,,False,10.5,8.0,IL,Lawrence,True
+17103,,,,,,,False,10.2,6.8,IL,Lee,True
+17105,,,,,,,False,10.6,6.9,IL,Livingston,True
+17107,,,,,,,False,10.5,6.8,IL,Logan,True
+17109,,,,,,,False,10.7,7.5,IL,McDonough,True
+17111,Illinois,McHenry,365.0,49.0,230.0,82.0,True,9.6,5.0,IL,McHenry,True
+17113,Illinois,McLean,365.0,50.0,289.0,74.0,True,10.2,5.5,IL,McLean,True
+17115,Illinois,Macon,365.0,51.0,287.0,76.0,True,11.0,7.0,IL,Macon,True
+17117,Illinois,Macoupin,365.0,37.0,129.0,61.0,True,10.7,7.2,IL,Macoupin,True
+17119,Illinois,Madison,363.0,55.0,155.0,81.0,True,10.6,6.2,IL,Madison,True
+17121,,,,,,,False,11.0,7.8,IL,Marion,True
+17123,,,,,,,False,10.6,6.9,IL,Marshall,True
+17125,,,,,,,False,10.7,7.3,IL,Mason,True
+17127,,,,,,,False,11.1,7.7,IL,Massac,True
+17129,,,,,,,False,10.5,6.3,IL,Menard,True
+17131,,,,,,,False,10.5,6.8,IL,Mercer,True
+17133,,,,,,,False,10.0,5.0,IL,Monroe,True
+17135,,,,,,,False,10.4,7.3,IL,Montgomery,True
+17137,,,,,,,False,10.6,7.3,IL,Morgan,True
+17139,,,,,,,False,10.8,7.2,IL,Moultrie,True
+17141,,,,,,,False,10.2,6.3,IL,Ogle,True
+17143,Illinois,Peoria,340.0,48.0,151.0,77.0,True,10.6,6.5,IL,Peoria,True
+17145,,,,,,,False,10.6,8.0,IL,Perry,True
+17147,,,,,,,False,10.1,5.5,IL,Piatt,True
+17149,,,,,,,False,10.7,7.8,IL,Pike,True
+17151,,,,,,,False,10.7,6.9,IL,Pope,True
+17153,,,,,,,False,11.7,9.3,IL,Pulaski,True
+17155,,,,,,,False,10.1,5.9,IL,Putnam,True
+17157,Illinois,Randolph,365.0,46.0,156.0,68.0,True,10.5,7.3,IL,Randolph,True
+17159,,,,,,,False,10.7,7.2,IL,Richland,True
+17161,Illinois,Rock Island,365.0,51.0,232.0,77.0,True,10.6,6.7,IL,Rock Island,True
+17163,Illinois,Saint Clair,365.0,54.0,169.0,77.0,True,11.1,6.2,IL,St. Clair,True
+17165,,,,,,,False,11.0,7.8,IL,Saline,True
+17167,Illinois,Sangamon,365.0,51.0,247.0,74.0,True,10.6,6.1,IL,Sangamon,True
+17169,,,,,,,False,10.5,7.7,IL,Schuyler,True
+17171,,,,,,,False,10.6,6.8,IL,Scott,True
+17173,,,,,,,False,10.6,6.9,IL,Shelby,True
+17175,,,,,,,False,10.5,6.9,IL,Stark,True
+17177,,,,,,,False,10.9,7.0,IL,Stephenson,True
+17179,,,,,,,False,10.4,6.1,IL,Tazewell,True
+17181,,,,,,,False,10.8,8.0,IL,Union,True
+17183,,,,,,,False,11.0,8.0,IL,Vermilion,True
+17185,,,,,,,False,10.7,7.5,IL,Wabash,True
+17187,,,,,,,False,10.4,6.8,IL,Warren,True
+17189,,,,,,,False,10.3,6.2,IL,Washington,True
+17191,,,,,,,False,10.9,7.9,IL,Wayne,True
+17193,,,,,,,False,11.2,8.6,IL,White,True
+17195,,,,,,,False,10.3,6.6,IL,Whiteside,True
+17197,Illinois,Will,365.0,53.0,246.0,78.0,True,9.7,5.0,IL,Will,True
+17199,,,,,,,False,10.6,6.8,IL,Williamson,True
+17201,Illinois,Winnebago,365.0,52.0,242.0,77.0,True,10.7,7.0,IL,Winnebago,True
+17203,,,,,,,False,10.2,5.6,IL,Woodford,True
+18001,,,,,,,False,11.8,9.1,IN,Adams,True
+18003,Indiana,Allen,361.0,42.0,129.0,64.0,True,11.3,6.9,IN,Allen,True
+18005,Indiana,Bartholomew,361.0,46.0,215.0,64.0,True,10.6,6.7,IN,Bartholomew,True
+18007,,,,,,,False,11.5,8.5,IN,Benton,True
+18009,,,,,,,False,11.8,9.7,IN,Blackford,True
+18011,Indiana,Boone,362.0,37.0,185.0,61.0,True,10.4,5.2,IN,Boone,True
+18013,Indiana,Brown,347.0,37.0,126.0,50.0,True,11.1,6.9,IN,Brown,True
+18015,Indiana,Carroll,351.0,36.0,122.0,54.0,True,11.2,7.7,IN,Carroll,True
+18017,,,,,,,False,11.1,8.3,IN,Cass,True
+18019,Indiana,Clark,365.0,52.0,182.0,72.0,True,11.4,7.1,IN,Clark,True
+18021,,,,,,,False,11.5,8.0,IN,Clay,True
+18023,,,,,,,False,11.0,7.7,IN,Clinton,True
+18025,,,,,,,False,12.0,10.9,IN,Crawford,True
+18027,,,,,,,False,11.8,9.0,IN,Daviess,True
+18029,,,,,,,False,11.0,6.8,IN,Dearborn,True
+18031,,,,,,,False,11.1,7.3,IN,Decatur,True
+18033,,,,,,,False,11.2,7.4,IN,DeKalb,True
+18035,Indiana,Delaware,363.0,40.0,121.0,62.0,True,12.0,8.7,IN,Delaware,True
+18037,Indiana,Dubois,239.0,44.0,130.0,60.0,True,10.9,7.0,IN,Dubois,True
+18039,Indiana,Elkhart,365.0,44.0,193.0,69.0,True,11.3,7.9,IN,Elkhart,True
+18041,,,,,,,False,11.9,9.4,IN,Fayette,True
+18043,Indiana,Floyd,347.0,46.0,177.0,67.0,True,11.4,6.8,IN,Floyd,True
+18045,,,,,,,False,11.7,8.2,IN,Fountain,True
+18047,,,,,,,False,11.3,7.4,IN,Franklin,True
+18049,,,,,,,False,11.6,8.3,IN,Fulton,True
+18051,,,,,,,False,11.3,7.7,IN,Gibson,True
+18053,,,,,,,False,11.8,8.7,IN,Grant,True
+18055,Indiana,Greene,365.0,44.0,217.0,65.0,True,11.6,8.6,IN,Greene,True
+18057,Indiana,Hamilton,364.0,46.0,190.0,69.0,True,10.2,4.3,IN,Hamilton,True
+18059,,,,,,,False,11.0,5.8,IN,Hancock,True
+18061,,,,,,,False,11.3,7.1,IN,Harrison,True
+18063,Indiana,Hendricks,360.0,37.0,119.0,51.0,True,10.7,5.5,IN,Hendricks,True
+18065,Indiana,Henry,348.0,44.0,192.0,64.0,True,11.4,8.0,IN,Henry,True
+18067,Indiana,Howard,365.0,45.0,199.0,67.0,True,11.8,7.8,IN,Howard,True
+18069,,,,,,,False,11.3,7.5,IN,Huntington,True
+18071,,,,,,,False,10.8,7.5,IN,Jackson,True
+18073,,,,,,,False,11.0,6.9,IN,Jasper,True
+18075,,,,,,,False,11.7,9.2,IN,Jay,True
+18077,,,,,,,False,11.6,7.8,IN,Jefferson,True
+18079,,,,,,,False,11.6,8.5,IN,Jennings,True
+18081,,,,,,,False,10.9,6.3,IN,Johnson,True
+18083,Indiana,Knox,364.0,39.0,126.0,58.0,True,11.4,8.1,IN,Knox,True
+18085,,,,,,,False,11.0,7.3,IN,Kosciusko,True
+18087,,,,,,,False,11.9,8.9,IN,LaGrange,True
+18089,Indiana,Lake,365.0,55.0,215.0,80.0,True,11.5,7.2,IN,Lake,True
+18091,Indiana,LaPorte,365.0,39.0,133.0,68.0,True,11.0,7.7,IN,LaPorte,True
+18093,,,,,,,False,11.5,7.8,IN,Lawrence,True
+18095,Indiana,Madison,365.0,48.0,229.0,71.0,True,11.5,7.8,IN,Madison,True
+18097,Indiana,Marion,365.0,60.0,259.0,89.0,True,11.7,7.1,IN,Marion,True
+18099,,,,,,,False,11.2,7.8,IN,Marshall,True
+18101,,,,,,,False,11.6,8.4,IN,Martin,True
+18103,,,,,,,False,11.2,8.6,IN,Miami,True
+18105,Indiana,Monroe,365.0,40.0,230.0,61.0,True,11.0,6.9,IN,Monroe,True
+18107,,,,,,,False,11.2,8.1,IN,Montgomery,True
+18109,,,,,,,False,11.1,7.3,IN,Morgan,True
+18111,,,,,,,False,11.2,8.1,IN,Newton,True
+18113,,,,,,,False,11.2,7.6,IN,Noble,True
+18115,,,,,,,False,11.2,7.3,IN,Ohio,True
+18117,,,,,,,False,11.6,8.5,IN,Orange,True
+18119,,,,,,,False,11.6,8.3,IN,Owen,True
+18121,,,,,,,False,12.4,9.7,IN,Parke,True
+18123,Indiana,Perry,357.0,38.0,112.0,51.0,True,11.0,7.8,IN,Perry,True
+18125,,,,,,,False,11.4,8.2,IN,Pike,True
+18127,Indiana,Porter,365.0,48.0,180.0,77.0,True,11.0,6.4,IN,Porter,True
+18129,Indiana,Posey,354.0,38.0,126.0,61.0,True,11.0,6.8,IN,Posey,True
+18131,,,,,,,False,11.4,8.2,IN,Pulaski,True
+18133,,,,,,,False,11.3,7.4,IN,Putnam,True
+18135,,,,,,,False,11.4,8.4,IN,Randolph,True
+18137,,,,,,,False,11.3,7.3,IN,Ripley,True
+18139,,,,,,,False,11.7,8.4,IN,Rush,True
+18141,Indiana,St. Joseph,365.0,51.0,223.0,73.0,True,11.2,7.1,IN,St. Joseph,True
+18143,,,,,,,False,11.7,8.9,IN,Scott,True
+18145,Indiana,Shelby,359.0,37.0,147.0,58.0,True,11.3,7.7,IN,Shelby,True
+18147,Indiana,Spencer,120.0,43.0,170.0,57.0,True,11.0,6.9,IN,Spencer,True
+18149,,,,,,,False,11.5,8.9,IN,Starke,True
+18151,,,,,,,False,11.2,7.1,IN,Steuben,True
+18153,,,,,,,False,11.3,8.9,IN,Sullivan,True
+18155,,,,,,,False,11.6,8.9,IN,Switzerland,True
+18157,Indiana,Tippecanoe,349.0,42.0,206.0,61.0,True,10.8,7.2,IN,Tippecanoe,True
+18159,,,,,,,False,11.2,7.0,IN,Tipton,True
+18161,,,,,,,False,11.3,6.9,IN,Union,True
+18163,Indiana,Vanderburgh,365.0,52.0,179.0,70.0,True,11.6,7.6,IN,Vanderburgh,True
+18165,,,,,,,False,11.6,8.4,IN,Vermillion,True
+18167,Indiana,Vigo,365.0,51.0,232.0,69.0,True,11.6,8.9,IN,Vigo,True
+18169,Indiana,Wabash,364.0,36.0,126.0,58.0,True,11.5,7.8,IN,Wabash,True
+18171,,,,,,,False,11.4,7.7,IN,Warren,True
+18173,Indiana,Warrick,365.0,38.0,133.0,58.0,True,10.7,5.7,IN,Warrick,True
+18175,,,,,,,False,11.7,8.9,IN,Washington,True
+18177,,,,,,,False,11.9,8.7,IN,Wayne,True
+18179,,,,,,,False,11.0,7.1,IN,Wells,True
+18181,,,,,,,False,11.1,7.6,IN,White,True
+18183,Indiana,Whitley,363.0,48.0,223.0,66.0,True,11.1,7.1,IN,Whitley,True
+19001,,,,,,,False,10.2,6.8,IA,Adair,True
+19003,,,,,,,False,10.2,6.3,IA,Adams,True
+19005,,,,,,,False,9.9,6.5,IA,Allamakee,True
+19007,,,,,,,False,10.9,8.3,IA,Appanoose,True
+19009,,,,,,,False,10.3,6.7,IA,Audubon,True
+19011,,,,,,,False,9.9,5.7,IA,Benton,True
+19013,Iowa,Black Hawk,354.0,53.0,187.0,68.0,True,10.5,6.4,IA,Black Hawk,True
+19015,,,,,,,False,9.9,5.5,IA,Boone,True
+19017,Iowa,Bremer,235.0,42.0,151.0,74.0,True,9.8,5.4,IA,Bremer,True
+19019,,,,,,,False,10.0,5.8,IA,Buchanan,True
+19021,,,,,,,False,9.4,6.4,IA,Buena Vista,True
+19023,,,,,,,False,10.1,6.4,IA,Butler,True
+19025,,,,,,,False,10.0,6.3,IA,Calhoun,True
+19027,,,,,,,False,10.0,6.1,IA,Carroll,True
+19029,,,,,,,False,10.4,7.2,IA,Cass,True
+19031,,,,,,,False,10.1,5.9,IA,Cedar,True
+19033,Iowa,Cerro Gordo,60.0,19.0,56.0,41.0,True,10.2,6.2,IA,Cerro Gordo,True
+19035,,,,,,,False,10.2,6.8,IA,Cherokee,True
+19037,,,,,,,False,9.9,6.2,IA,Chickasaw,True
+19039,,,,,,,False,10.2,7.7,IA,Clarke,True
+19041,,,,,,,False,10.1,6.2,IA,Clay,True
+19043,,,,,,,False,10.3,7.2,IA,Clayton,True
+19045,Iowa,Clinton,365.0,54.0,235.0,80.0,True,10.4,6.9,IA,Clinton,True
+19047,,,,,,,False,9.6,6.9,IA,Crawford,True
+19049,,,,,,,False,9.2,4.3,IA,Dallas,True
+19051,,,,,,,False,10.5,7.1,IA,Davis,True
+19053,,,,,,,False,10.4,7.3,IA,Decatur,True
+19055,,,,,,,False,10.1,6.5,IA,Delaware,True
+19057,,,,,,,False,10.2,6.4,IA,Des Moines,True
+19059,,,,,,,False,9.9,5.4,IA,Dickinson,True
+19061,,,,,,,False,10.0,5.7,IA,Dubuque,True
+19063,,,,,,,False,10.1,6.6,IA,Emmet,True
+19065,,,,,,,False,10.0,6.8,IA,Fayette,True
+19067,,,,,,,False,10.2,6.5,IA,Floyd,True
+19069,,,,,,,False,10.1,7.0,IA,Franklin,True
+19071,,,,,,,False,10.2,6.1,IA,Fremont,True
+19073,,,,,,,False,10.3,6.6,IA,Greene,True
+19075,,,,,,,False,9.9,5.4,IA,Grundy,True
+19077,,,,,,,False,10.0,5.8,IA,Guthrie,True
+19079,,,,,,,False,10.0,5.8,IA,Hamilton,True
+19081,,,,,,,False,10.0,6.3,IA,Hancock,True
+19083,,,,,,,False,10.1,6.5,IA,Hardin,True
+19085,Iowa,Harrison,238.0,44.0,140.0,90.0,True,10.1,6.2,IA,Harrison,True
+19087,,,,,,,False,9.8,6.5,IA,Henry,True
+19089,,,,,,,False,10.2,6.6,IA,Howard,True
+19091,,,,,,,False,10.3,6.9,IA,Humboldt,True
+19093,,,,,,,False,10.2,6.5,IA,Ida,True
+19095,,,,,,,False,10.0,5.9,IA,Iowa,True
+19097,,,,,,,False,10.2,6.5,IA,Jackson,True
+19099,,,,,,,False,10.0,6.3,IA,Jasper,True
+19101,,,,,,,False,9.7,6.2,IA,Jefferson,True
+19103,Iowa,Johnson,365.0,53.0,210.0,68.0,True,9.7,5.4,IA,Johnson,True
+19105,,,,,,,False,9.9,6.2,IA,Jones,True
+19107,,,,,,,False,10.3,7.0,IA,Keokuk,True
+19109,,,,,,,False,10.1,6.2,IA,Kossuth,True
+19111,Iowa,Lee,60.0,47.0,97.0,64.0,True,10.3,6.8,IA,Lee,True
+19113,Iowa,Linn,365.0,54.0,207.0,80.0,True,10.4,5.7,IA,Linn,True
+19115,,,,,,,False,9.8,6.1,IA,Louisa,True
+19117,,,,,,,False,10.4,7.5,IA,Lucas,True
+19119,,,,,,,False,10.4,6.1,IA,Lyon,True
+19121,,,,,,,False,9.8,5.4,IA,Madison,True
+19123,,,,,,,False,10.2,6.6,IA,Mahaska,True
+19125,,,,,,,False,9.7,5.4,IA,Marion,True
+19127,,,,,,,False,9.5,6.1,IA,Marshall,True
+19129,,,,,,,False,9.9,5.3,IA,Mills,True
+19131,,,,,,,False,10.1,6.2,IA,Mitchell,True
+19133,,,,,,,False,10.3,6.8,IA,Monona,True
+19135,,,,,,,False,10.1,6.1,IA,Monroe,True
+19137,Iowa,Montgomery,364.0,44.0,147.0,70.0,True,10.3,6.8,IA,Montgomery,True
+19139,Iowa,Muscatine,365.0,49.0,207.0,66.0,True,9.8,6.2,IA,Muscatine,True
+19141,,,,,,,False,10.2,6.8,IA,O'Brien,True
+19143,,,,,,,False,10.2,7.1,IA,Osceola,True
+19145,,,,,,,False,10.2,7.2,IA,Page,True
+19147,Iowa,Palo Alto,364.0,46.0,161.0,80.0,True,10.1,6.2,IA,Palo Alto,True
+19149,,,,,,,False,9.8,5.5,IA,Plymouth,True
+19151,,,,,,,False,10.2,6.5,IA,Pocahontas,True
+19153,Iowa,Polk,365.0,52.0,166.0,73.0,True,9.8,5.5,IA,Polk,True
+19155,Iowa,Pottawattamie,122.0,49.0,151.0,65.0,True,10.4,6.5,IA,Pottawattamie,True
+19157,,,,,,,False,10.1,6.4,IA,Poweshiek,True
+19159,,,,,,,False,10.1,5.9,IA,Ringgold,True
+19161,,,,,,,False,10.1,6.1,IA,Sac,True
+19163,Iowa,Scott,365.0,53.0,219.0,77.0,True,10.6,5.8,IA,Scott,True
+19165,,,,,,,False,10.2,6.0,IA,Shelby,True
+19167,,,,,,,False,9.7,5.4,IA,Sioux,True
+19169,,,,,,,False,9.7,5.6,IA,Story,True
+19171,,,,,,,False,10.3,7.0,IA,Tama,True
+19173,,,,,,,False,10.0,6.6,IA,Taylor,True
+19175,,,,,,,False,10.2,6.5,IA,Union,True
+19177,Iowa,Van Buren,363.0,46.0,176.0,65.0,True,10.6,7.6,IA,Van Buren,True
+19179,,,,,,,False,10.3,7.3,IA,Wapello,True
+19181,,,,,,,False,9.7,5.0,IA,Warren,True
+19183,,,,,,,False,9.9,6.2,IA,Washington,True
+19185,,,,,,,False,10.5,7.1,IA,Wayne,True
+19187,,,,,,,False,10.2,6.6,IA,Webster,True
+19189,,,,,,,False,10.0,6.0,IA,Winnebago,True
+19191,,,,,,,False,9.7,5.4,IA,Winneshiek,True
+19193,Iowa,Woodbury,118.0,43.0,169.0,64.0,True,9.8,6.6,IA,Woodbury,True
+19195,,,,,,,False,10.0,6.1,IA,Worth,True
+19197,,,,,,,False,10.0,6.8,IA,Wright,True
+20001,,,,,,,False,10.5,7.0,KS,Allen,True
+20003,,,,,,,False,10.5,7.5,KS,Anderson,True
+20005,,,,,,,False,10.4,6.8,KS,Atchison,True
+20007,,,,,,,False,10.4,7.0,KS,Barber,True
+20009,,,,,,,False,10.2,7.2,KS,Barton,True
+20011,,,,,,,False,10.5,7.4,KS,Bourbon,True
+20013,,,,,,,False,10.7,7.1,KS,Brown,True
+20015,,,,,,,False,10.2,5.8,KS,Butler,True
+20017,Kansas,Chase,117.0,29.0,79.0,54.0,True,10.2,7.3,KS,Chase,True
+20019,,,,,,,False,10.9,8.3,KS,Chautauqua,True
+20021,,,,,,,False,11.0,7.9,KS,Cherokee,True
+20023,,,,,,,False,10.4,7.7,KS,Cheyenne,True
+20025,,,,,,,False,10.0,6.0,KS,Clark,True
+20027,,,,,,,False,10.3,6.8,KS,Clay,True
+20029,,,,,,,False,10.3,6.9,KS,Cloud,True
+20031,,,,,,,False,10.4,6.7,KS,Coffey,True
+20033,,,,,,,False,10.3,6.5,KS,Comanche,True
+20035,,,,,,,False,10.3,6.8,KS,Cowley,True
+20037,,,,,,,False,10.5,7.6,KS,Crawford,True
+20039,,,,,,,False,10.2,6.0,KS,Decatur,True
+20041,,,,,,,False,10.3,6.2,KS,Dickinson,True
+20043,,,,,,,False,10.3,6.3,KS,Doniphan,True
+20045,,,,,,,False,10.1,5.7,KS,Douglas,True
+20047,,,,,,,False,10.1,6.8,KS,Edwards,True
+20049,,,,,,,False,10.7,8.0,KS,Elk,True
+20051,,,,,,,False,9.9,6.5,KS,Ellis,True
+20053,,,,,,,False,9.5,6.0,KS,Ellsworth,True
+20055,,,,,,,False,9.7,6.3,KS,Finney,True
+20057,Kansas,Ford,308.0,15.0,147.0,40.0,True,9.2,6.5,KS,Ford,True
+20059,,,,,,,False,10.5,6.5,KS,Franklin,True
+20061,,,,,,,False,10.4,7.2,KS,Geary,True
+20063,,,,,,,False,10.1,6.2,KS,Gove,True
+20065,,,,,,,False,10.3,6.8,KS,Graham,True
+20067,,,,,,,False,9.0,4.9,KS,Grant,True
+20069,,,,,,,False,10.2,6.6,KS,Gray,True
+20071,,,,,,,False,9.6,5.4,KS,Greeley,True
+20073,,,,,,,False,10.5,7.3,KS,Greenwood,True
+20075,,,,,,,False,9.2,5.7,KS,Hamilton,True
+20077,,,,,,,False,10.5,8.3,KS,Harper,True
+20079,,,,,,,False,10.1,6.0,KS,Harvey,True
+20081,,,,,,,False,10.0,6.9,KS,Haskell,True
+20083,,,,,,,False,9.7,5.4,KS,Hodgeman,True
+20085,,,,,,,False,10.4,6.4,KS,Jackson,True
+20087,,,,,,,False,10.0,5.7,KS,Jefferson,True
+20089,,,,,,,False,10.5,7.7,KS,Jewell,True
+20091,Kansas,Johnson,365.0,49.0,165.0,70.0,True,9.4,4.1,KS,Johnson,True
+20093,,,,,,,False,9.7,6.3,KS,Kearny,True
+20095,,,,,,,False,10.3,6.7,KS,Kingman,True
+20097,,,,,,,False,10.0,6.1,KS,Kiowa,True
+20099,,,,,,,False,10.9,7.6,KS,Labette,True
+20101,,,,,,,False,10.3,6.2,KS,Lane,True
+20103,Kansas,Leavenworth,364.0,37.0,129.0,64.0,True,10.0,5.4,KS,Leavenworth,True
+20105,,,,,,,False,10.4,7.1,KS,Lincoln,True
+20107,,,,,,,False,10.3,6.4,KS,Linn,True
+20109,,,,,,,False,10.3,6.8,KS,Logan,True
+20111,,,,,,,False,9.9,6.8,KS,Lyon,True
+20113,,,,,,,False,10.1,5.8,KS,McPherson,True
+20115,,,,,,,False,10.2,6.5,KS,Marion,True
+20117,,,,,,,False,10.4,7.1,KS,Marshall,True
+20119,,,,,,,False,10.1,6.6,KS,Meade,True
+20121,,,,,,,False,9.9,5.6,KS,Miami,True
+20123,,,,,,,False,10.3,6.7,KS,Mitchell,True
+20125,,,,,,,False,10.8,7.7,KS,Montgomery,True
+20127,,,,,,,False,10.2,6.5,KS,Morris,True
+20129,,,,,,,False,10.1,6.9,KS,Morton,True
+20131,,,,,,,False,10.1,6.2,KS,Nemaha,True
+20133,Kansas,Neosho,365.0,54.0,161.0,71.0,True,10.4,7.3,KS,Neosho,True
+20135,,,,,,,False,10.0,6.5,KS,Ness,True
+20137,,,,,,,False,9.8,7.2,KS,Norton,True
+20139,,,,,,,False,10.3,6.7,KS,Osage,True
+20141,,,,,,,False,10.3,6.8,KS,Osborne,True
+20143,,,,,,,False,10.1,6.5,KS,Ottawa,True
+20145,,,,,,,False,9.8,6.4,KS,Pawnee,True
+20147,,,,,,,False,10.4,7.0,KS,Phillips,True
+20149,,,,,,,False,9.8,5.4,KS,Pottawatomie,True
+20151,,,,,,,False,10.0,6.4,KS,Pratt,True
+20153,,,,,,,False,10.4,7.1,KS,Rawlins,True
+20155,,,,,,,False,10.3,6.9,KS,Reno,True
+20157,,,,,,,False,10.4,7.3,KS,Republic,True
+20159,,,,,,,False,10.0,6.2,KS,Rice,True
+20161,,,,,,,False,10.1,6.6,KS,Riley,True
+20163,,,,,,,False,10.1,6.3,KS,Rooks,True
+20165,,,,,,,False,10.4,7.0,KS,Rush,True
+20167,,,,,,,False,10.7,7.4,KS,Russell,True
+20169,,,,,,,False,10.0,6.4,KS,Saline,True
+20171,,,,,,,False,9.6,5.7,KS,Scott,True
+20173,Kansas,Sedgwick,365.0,48.0,157.0,67.0,True,10.0,6.4,KS,Sedgwick,True
+20175,,,,,,,False,9.1,6.1,KS,Seward,True
+20177,Kansas,Shawnee,363.0,48.0,164.0,71.0,True,10.6,6.2,KS,Shawnee,True
+20179,,,,,,,False,10.1,5.8,KS,Sheridan,True
+20181,Kansas,Sherman,334.0,19.0,78.0,44.0,True,10.1,6.4,KS,Sherman,True
+20183,,,,,,,False,10.1,6.2,KS,Smith,True
+20185,,,,,,,False,10.2,6.6,KS,Stafford,True
+20187,,,,,,,False,9.8,6.9,KS,Stanton,True
+20189,,,,,,,False,10.1,7.8,KS,Stevens,True
+20191,Kansas,Sumner,365.0,51.0,152.0,67.0,True,10.2,6.8,KS,Sumner,True
+20193,,,,,,,False,10.0,5.7,KS,Thomas,True
+20195,Kansas,Trego,365.0,47.0,164.0,71.0,True,9.9,5.7,KS,Trego,True
+20197,,,,,,,False,10.1,5.8,KS,Wabaunsee,True
+20199,,,,,,,False,10.3,6.8,KS,Wallace,True
+20201,,,,,,,False,9.9,6.1,KS,Washington,True
+20203,,,,,,,False,9.6,6.7,KS,Wichita,True
+20205,,,,,,,False,10.6,7.6,KS,Wilson,True
+20207,,,,,,,False,10.4,7.0,KS,Woodson,True
+20209,Kansas,Wyandotte,365.0,51.0,166.0,78.0,True,10.0,7.0,KS,Wyandotte,True
+21013,Kentucky,Bell,365.0,49.0,131.0,67.0,True,,,,,False
+21015,Kentucky,Boone,245.0,44.0,156.0,67.0,True,,,,,False
+21019,Kentucky,Boyd,363.0,46.0,159.0,64.0,True,,,,,False
+21029,Kentucky,Bullitt,238.0,44.0,126.0,71.0,True,,,,,False
+21037,Kentucky,Campbell,360.0,44.0,187.0,66.0,True,,,,,False
+21043,Kentucky,Carter,364.0,40.0,153.0,58.0,True,,,,,False
+21047,Kentucky,Christian,365.0,47.0,117.0,63.0,True,,,,,False
+21059,Kentucky,Daviess,218.0,51.0,170.0,77.0,True,,,,,False
+21061,Kentucky,Edmonson,363.0,39.0,115.0,52.0,True,,,,,False
+21067,Kentucky,Fayette,365.0,45.0,167.0,64.0,True,,,,,False
+21089,Kentucky,Greenup,241.0,39.0,84.0,50.0,True,,,,,False
+21091,Kentucky,Hancock,245.0,42.0,140.0,61.0,True,,,,,False
+21093,Kentucky,Hardin,365.0,45.0,151.0,66.0,True,,,,,False
+21111,Kentucky,Jefferson,365.0,55.0,171.0,81.0,True,,,,,False
+21113,Kentucky,Jessamine,245.0,43.0,122.0,58.0,True,,,,,False
+21139,Kentucky,Livingston,238.0,42.0,126.0,67.0,True,,,,,False
+21145,Kentucky,McCracken,355.0,47.0,126.0,66.0,True,,,,,False
+21175,Kentucky,Morgan,364.0,38.0,93.0,49.0,True,,,,,False
+21185,Kentucky,Oldham,242.0,42.0,105.0,64.0,True,,,,,False
+21193,Kentucky,Perry,365.0,45.0,137.0,65.0,True,,,,,False
+21195,Kentucky,Pike,364.0,39.0,127.0,59.0,True,,,,,False
+21199,Kentucky,Pulaski,363.0,45.0,120.0,61.0,True,,,,,False
+21213,Kentucky,Simpson,244.0,43.0,122.0,61.0,True,,,,,False
+21227,Kentucky,Warren,365.0,44.0,155.0,62.0,True,,,,,False
+21229,Kentucky,Washington,358.0,40.0,108.0,51.0,True,,,,,False
+22001,,,,,,,False,10.8,9.8,LA,Acadia,True
+22003,,,,,,,False,10.1,9.1,LA,Allen,True
+22005,Louisiana,Ascension,362.0,34.0,154.0,58.0,True,9.7,6.1,LA,Ascension,True
+22007,,,,,,,False,10.8,8.6,LA,Assumption,True
+22009,,,,,,,False,11.2,10.4,LA,Avoyelles,True
+22011,,,,,,,False,10.3,7.9,LA,Beauregard,True
+22013,,,,,,,False,11.4,10.8,LA,Bienville,True
+22015,Louisiana,Bossier,360.0,53.0,114.0,67.0,True,10.1,6.9,LA,Bossier,True
+22017,Louisiana,Caddo,353.0,38.0,100.0,61.0,True,10.9,8.0,LA,Caddo,True
+22019,Louisiana,Calcasieu,365.0,54.0,133.0,74.0,True,10.3,7.2,LA,Calcasieu,True
+22021,,,,,,,False,10.6,10.1,LA,Caldwell,True
+22023,,,,,,,False,9.9,7.2,LA,Cameron,True
+22025,,,,,,,False,10.7,9.9,LA,Catahoula,True
+22027,,,,,,,False,11.1,11.6,LA,Claiborne,True
+22029,,,,,,,False,11.2,10.5,LA,Concordia,True
+22031,,,,,,,False,11.0,8.8,LA,De Soto,True
+22033,Louisiana,East Baton Rouge,365.0,52.0,147.0,67.0,True,10.3,6.6,LA,East Baton Rouge,True
+22035,,,,,,,False,11.6,12.7,LA,East Carroll,True
+22037,,,,,,,False,10.1,7.2,LA,East Feliciana,True
+22039,,,,,,,False,11.0,9.9,LA,Evangeline,True
+22041,,,,,,,False,11.3,10.4,LA,Franklin,True
+22043,,,,,,,False,9.8,8.3,LA,Grant,True
+22045,,,,,,,False,10.8,9.0,LA,Iberia,True
+22047,Louisiana,Iberville,365.0,44.0,154.0,84.0,True,10.7,7.8,LA,Iberville,True
+22049,,,,,,,False,10.6,9.2,LA,Jackson,True
+22051,Louisiana,Jefferson,364.0,51.0,126.0,69.0,True,9.8,6.5,LA,Jefferson,True
+22053,,,,,,,False,10.4,8.6,LA,Jefferson Davis,True
+22055,Louisiana,Lafayette,365.0,47.0,112.0,64.0,True,9.7,6.7,LA,Lafayette,True
+22057,Louisiana,Lafourche,365.0,53.0,101.0,69.0,True,10.2,8.3,LA,Lafourche,True
+22059,,,,,,,False,9.7,7.9,LA,LaSalle,True
+22061,,,,,,,False,10.8,8.6,LA,Lincoln,True
+22063,Louisiana,Livingston,364.0,54.0,133.0,70.0,True,9.9,7.2,LA,Livingston,True
+22065,,,,,,,False,12.2,11.8,LA,Madison,True
+22067,,,,,,,False,11.6,10.3,LA,Morehouse,True
+22069,,,,,,,False,11.0,8.5,LA,Natchitoches,True
+22071,Louisiana,Orleans,365.0,41.0,90.0,59.0,True,10.6,6.6,LA,Orleans,True
+22073,Louisiana,Ouachita,358.0,38.0,100.0,58.0,True,10.9,8.0,LA,Ouachita,True
+22075,,,,,,,False,9.9,6.9,LA,Plaquemines,True
+22077,Louisiana,Pointe Coupee,362.0,36.0,112.0,51.0,True,10.8,8.1,LA,Pointe Coupee,True
+22079,Louisiana,Rapides,119.0,43.0,80.0,64.0,True,10.7,8.0,LA,Rapides,True
+22081,,,,,,,False,11.2,10.1,LA,Red River,True
+22083,,,,,,,False,11.1,9.5,LA,Richland,True
+22085,,,,,,,False,10.9,9.3,LA,Sabine,True
+22087,Louisiana,St. Bernard,365.0,52.0,119.0,67.0,True,10.6,8.5,LA,St. Bernard,True
+22089,,,,,,,False,9.9,6.2,LA,St. Charles,True
+22091,,,,,,,False,11.5,9.4,LA,St. Helena,True
+22093,Louisiana,St. James,351.0,33.0,115.0,51.0,True,10.7,6.8,LA,St. James,True
+22095,Louisiana,St. John the Baptist,358.0,35.0,112.0,58.0,True,10.7,6.8,LA,St. John the Baptist,True
+22097,,,,,,,False,11.2,9.7,LA,St. Landry,True
+22099,Louisiana,St. Martin,364.0,37.0,112.0,54.0,True,10.6,8.3,LA,St. Martin,True
+22101,,,,,,,False,10.8,9.0,LA,St. Mary,True
+22103,Louisiana,St. Tammany,365.0,42.0,105.0,61.0,True,9.6,6.1,LA,St. Tammany,True
+22105,Louisiana,Tangipahoa,124.0,43.0,71.0,56.0,True,10.5,8.0,LA,Tangipahoa,True
+22107,,,,,,,False,11.7,10.7,LA,Tensas,True
+22109,Louisiana,Terrebonne,115.0,43.0,176.0,58.0,True,10.4,7.9,LA,Terrebonne,True
+22111,,,,,,,False,10.7,9.4,LA,Union,True
+22113,,,,,,,False,10.4,8.7,LA,Vermilion,True
+22115,,,,,,,False,10.0,8.0,LA,Vernon,True
+22117,,,,,,,False,10.9,9.5,LA,Washington,True
+22119,,,,,,,False,11.3,10.3,LA,Webster,True
+22121,Louisiana,West Baton Rouge,362.0,52.0,140.0,67.0,True,10.4,6.6,LA,West Baton Rouge,True
+22123,,,,,,,False,10.6,8.9,LA,West Carroll,True
+22125,,,,,,,False,9.1,6.1,LA,West Feliciana,True
+22127,,,,,,,False,10.3,8.9,LA,Winn,True
+23001,Maine,Androscoggin,359.0,35.0,77.0,55.0,True,13.4,7.6,ME,Androscoggin,True
+23003,Maine,Aroostook,365.0,37.0,142.0,59.0,True,13.6,8.3,ME,Aroostook,True
+23005,Maine,Cumberland,365.0,40.0,120.0,64.0,True,12.0,5.1,ME,Cumberland,True
+23007,,,,,,,False,13.4,7.4,ME,Franklin,True
+23009,Maine,Hancock,365.0,38.0,93.0,54.0,True,12.3,6.2,ME,Hancock,True
+23011,Maine,Kennebec,299.0,37.0,92.0,59.0,True,12.6,7.3,ME,Kennebec,True
+23013,Maine,Knox,301.0,33.0,87.0,44.0,True,12.1,6.3,ME,Knox,True
+23015,,,,,,,False,12.4,6.1,ME,Lincoln,True
+23017,Maine,Oxford,356.0,38.0,83.0,56.0,True,13.6,8.2,ME,Oxford,True
+23019,Maine,Penobscot,358.0,35.0,89.0,55.0,True,13.4,7.3,ME,Penobscot,True
+23021,,,,,,,False,12.9,8.2,ME,Piscataquis,True
+23023,Maine,Sagadahoc,208.0,39.0,100.0,49.0,True,12.5,6.2,ME,Sagadahoc,True
+23025,,,,,,,False,13.7,8.9,ME,Somerset,True
+23027,,,,,,,False,13.5,6.8,ME,Waldo,True
+23029,Maine,Washington,362.0,36.0,74.0,47.0,True,13.5,8.4,ME,Washington,True
+23031,Maine,York,328.0,35.0,84.0,49.0,True,12.8,6.2,ME,York,True
+24001,,,,,,,False,11.4,8.3,MD,Allegany,True
+24003,Maryland,Anne Arundel,263.0,40.0,150.0,58.0,True,10.0,4.6,MD,Anne Arundel,True
+24005,Maryland,Baltimore,365.0,45.0,205.0,71.0,True,11.1,5.6,MD,Baltimore,True
+24009,Maryland,Calvert,238.0,42.0,101.0,54.0,True,10.5,5.0,MD,Calvert,True
+24011,,,,,,,False,11.8,8.0,MD,Caroline,True
+24013,Maryland,Carroll,244.0,44.0,143.0,74.0,True,10.1,5.0,MD,Carroll,True
+24015,Maryland,Cecil,360.0,42.0,190.0,64.0,True,10.5,6.6,MD,Cecil,True
+24017,Maryland,Charles,243.0,42.0,115.0,64.0,True,10.7,5.0,MD,Charles,True
+24019,Maryland,Dorchester,365.0,44.0,179.0,61.0,True,11.7,7.7,MD,Dorchester,True
+24021,Maryland,Frederick,232.0,44.0,136.0,77.0,True,9.5,4.6,MD,Frederick,True
+24023,Maryland,Garrett,360.0,40.0,170.0,58.0,True,11.3,7.1,MD,Garrett,True
+24025,Maryland,Harford,359.0,45.0,200.0,74.0,True,10.2,5.2,MD,Harford,True
+24027,Maryland,Howard,365.0,38.0,188.0,59.0,True,9.1,3.5,MD,Howard,True
+24029,Maryland,Kent,361.0,41.0,199.0,61.0,True,10.9,6.1,MD,Kent,True
+24031,Maryland,Montgomery,357.0,42.0,165.0,61.0,True,9.2,3.8,MD,Montgomery,True
+24033,Maryland,Prince George's,365.0,44.0,192.0,67.0,True,11.5,5.0,MD,Prince George's,True
+24035,,,,,,,False,10.0,5.3,MD,Queen Anne's,True
+24037,,,,,,,False,10.7,5.4,MD,St. Mary's,True
+24039,,,,,,,False,11.6,8.0,MD,Somerset,True
+24041,,,,,,,False,10.6,5.6,MD,Talbot,True
+24043,Maryland,Washington,355.0,42.0,172.0,60.0,True,10.8,7.2,MD,Washington,True
+24045,,,,,,,False,11.1,6.7,MD,Wicomico,True
+24047,,,,,,,False,10.4,5.7,MD,Worcester,True
+24510,Maryland,Baltimore (City),365.0,44.0,192.0,71.0,True,12.7,6.9,MD,Baltimore,True
+25001,Massachusetts,Barnstable,358.0,37.0,140.0,49.0,True,11.8,4.9,MA,Barnstable,True
+25003,Massachusetts,Berkshire,365.0,41.0,170.0,59.0,True,12.2,5.9,MA,Berkshire,True
+25005,Massachusetts,Bristol,365.0,42.0,137.0,61.0,True,12.7,6.5,MA,Bristol,True
+25007,Massachusetts,Dukes,363.0,38.0,133.0,48.0,True,11.7,4.9,MA,Dukes,True
+25009,Massachusetts,Essex,365.0,44.0,105.0,60.0,True,11.5,5.3,MA,Essex,True
+25011,Massachusetts,Franklin,365.0,43.0,154.0,61.0,True,12.0,6.0,MA,Franklin,True
+25013,Massachusetts,Hampden,365.0,46.0,153.0,62.0,True,12.8,6.7,MA,Hampden,True
+25015,Massachusetts,Hampshire,365.0,38.0,138.0,55.0,True,12.1,5.2,MA,Hampshire,True
+25017,Massachusetts,Middlesex,365.0,39.0,101.0,57.0,True,11.1,4.1,MA,Middlesex,True
+25019,,,,,,,False,10.8,3.9,MA,Nantucket,True
+25021,Massachusetts,Norfolk,365.0,41.0,136.0,58.0,True,10.8,4.2,MA,Norfolk,True
+25023,Massachusetts,Plymouth,365.0,40.0,114.0,58.0,True,12.1,5.3,MA,Plymouth,True
+25025,Massachusetts,Suffolk,365.0,44.0,99.0,62.0,True,11.4,5.3,MA,Suffolk,True
+25027,Massachusetts,Worcester,365.0,39.0,148.0,58.0,True,12.1,5.5,MA,Worcester,True
+26001,,,,,,,False,11.7,7.8,MI,Alcona,True
+26003,,,,,,,False,11.2,7.3,MI,Alger,True
+26005,Michigan,Allegan,360.0,42.0,161.0,80.0,True,11.1,6.8,MI,Allegan,True
+26007,,,,,,,False,12.1,8.7,MI,Alpena,True
+26009,,,,,,,False,11.2,6.4,MI,Antrim,True
+26011,,,,,,,False,12.0,8.4,MI,Arenac,True
+26013,,,,,,,False,12.1,8.5,MI,Baraga,True
+26015,,,,,,,False,11.3,6.8,MI,Barry,True
+26017,Michigan,Bay,363.0,42.0,192.0,63.0,True,11.6,7.5,MI,Bay,True
+26019,Michigan,Benzie,238.0,38.0,156.0,71.0,True,11.3,6.5,MI,Benzie,True
+26021,Michigan,Berrien,244.0,42.0,143.0,80.0,True,11.9,7.4,MI,Berrien,True
+26023,,,,,,,False,11.7,8.5,MI,Branch,True
+26025,,,,,,,False,11.9,7.8,MI,Calhoun,True
+26027,Michigan,Cass,244.0,42.0,126.0,71.0,True,11.8,7.6,MI,Cass,True
+26029,,,,,,,False,11.4,6.3,MI,Charlevoix,True
+26031,,,,,,,False,11.9,8.0,MI,Cheboygan,True
+26033,,,,,,,False,12.2,8.0,MI,Chippewa,True
+26035,,,,,,,False,12.3,9.5,MI,Clare,True
+26037,Michigan,Clinton,240.0,38.0,136.0,61.0,True,11.3,6.1,MI,Clinton,True
+26039,,,,,,,False,11.9,8.5,MI,Crawford,True
+26041,,,,,,,False,11.9,7.9,MI,Delta,True
+26043,,,,,,,False,11.5,7.1,MI,Dickinson,True
+26045,,,,,,,False,11.5,6.2,MI,Eaton,True
+26047,,,,,,,False,11.2,6.0,MI,Emmet,True
+26049,Michigan,Genesee,364.0,44.0,178.0,74.0,True,12.4,8.0,MI,Genesee,True
+26051,,,,,,,False,12.0,8.7,MI,Gladwin,True
+26053,,,,,,,False,11.8,8.2,MI,Gogebic,True
+26055,,,,,,,False,11.1,6.0,MI,Grand Traverse,True
+26057,,,,,,,False,11.3,8.0,MI,Gratiot,True
+26059,,,,,,,False,11.9,8.5,MI,Hillsdale,True
+26061,,,,,,,False,11.4,7.4,MI,Houghton,True
+26063,Michigan,Huron,240.0,39.0,133.0,58.0,True,11.7,7.9,MI,Huron,True
+26065,Michigan,Ingham,363.0,43.0,194.0,73.0,True,11.6,6.7,MI,Ingham,True
+26067,,,,,,,False,11.2,7.3,MI,Ionia,True
+26069,,,,,,,False,12.0,8.9,MI,Iosco,True
+26071,,,,,,,False,11.7,8.0,MI,Iron,True
+26073,,,,,,,False,12.1,8.8,MI,Isabella,True
+26075,,,,,,,False,11.7,7.4,MI,Jackson,True
+26077,Michigan,Kalamazoo,358.0,53.0,225.0,77.0,True,11.5,6.6,MI,Kalamazoo,True
+26079,,,,,,,False,11.9,8.4,MI,Kalkaska,True
+26081,Michigan,Kent,365.0,49.0,220.0,80.0,True,11.0,6.0,MI,Kent,True
+26083,Michigan,Keweenaw,119.0,16.0,141.0,52.0,True,11.1,6.0,MI,Keweenaw,True
+26085,,,,,,,False,11.8,9.9,MI,Lake,True
+26087,,,,,,,False,11.4,7.2,MI,Lapeer,True
+26089,,,,,,,False,10.8,5.3,MI,Leelanau,True
+26091,Michigan,Lenawee,364.0,50.0,165.0,70.0,True,11.4,7.2,MI,Lenawee,True
+26093,,,,,,,False,11.1,5.5,MI,Livingston,True
+26095,,,,,,,False,11.3,8.2,MI,Luce,True
+26097,,,,,,,False,12.4,8.4,MI,Mackinac,True
+26099,Michigan,Macomb,364.0,51.0,195.0,75.0,True,11.4,6.9,MI,Macomb,True
+26101,Michigan,Manistee,309.0,39.0,161.0,69.0,True,11.6,7.6,MI,Manistee,True
+26103,,,,,,,False,11.5,7.0,MI,Marquette,True
+26105,Michigan,Mason,221.0,40.0,143.0,67.0,True,11.6,7.6,MI,Mason,True
+26107,,,,,,,False,11.8,8.6,MI,Mecosta,True
+26109,,,,,,,False,11.7,7.8,MI,Menominee,True
+26111,,,,,,,False,11.1,6.3,MI,Midland,True
+26113,Michigan,Missaukee,362.0,48.0,201.0,72.0,True,11.8,8.1,MI,Missaukee,True
+26115,Michigan,Monroe,65.0,25.0,82.0,45.0,True,11.8,7.1,MI,Monroe,True
+26117,,,,,,,False,11.5,8.2,MI,Montcalm,True
+26119,,,,,,,False,11.9,8.8,MI,Montmorency,True
+26121,Michigan,Muskegon,242.0,41.0,147.0,87.0,True,12.2,7.8,MI,Muskegon,True
+26123,,,,,,,False,11.7,8.3,MI,Newaygo,True
+26125,Michigan,Oakland,261.0,41.0,169.0,74.0,True,10.6,5.0,MI,Oakland,True
+26127,,,,,,,False,11.3,7.8,MI,Oceana,True
+26129,,,,,,,False,12.0,8.7,MI,Ogemaw,True
+26131,,,,,,,False,11.7,8.0,MI,Ontonagon,True
+26133,,,,,,,False,12.0,8.6,MI,Osceola,True
+26135,,,,,,,False,12.2,9.6,MI,Oscoda,True
+26137,,,,,,,False,11.6,7.2,MI,Otsego,True
+26139,Michigan,Ottawa,356.0,51.0,227.0,74.0,True,11.0,5.8,MI,Ottawa,True
+26141,,,,,,,False,11.8,8.1,MI,Presque Isle,True
+26143,,,,,,,False,11.8,8.1,MI,Roscommon,True
+26145,,,,,,,False,12.3,8.0,MI,Saginaw,True
+26147,Michigan,St. Clair,362.0,49.0,197.0,71.0,True,11.7,7.4,MI,St. Clair,True
+26149,,,,,,,False,11.6,8.0,MI,St. Joseph,True
+26151,,,,,,,False,11.8,8.3,MI,Sanilac,True
+26153,Michigan,Schoolcraft,360.0,36.0,134.0,61.0,True,12.3,8.5,MI,Schoolcraft,True
+26155,,,,,,,False,11.7,7.5,MI,Shiawassee,True
+26157,Michigan,Tuscola,362.0,34.0,154.0,51.0,True,11.7,8.1,MI,Tuscola,True
+26159,,,,,,,False,11.7,7.8,MI,Van Buren,True
+26161,Michigan,Washtenaw,365.0,52.0,218.0,76.0,True,10.7,5.3,MI,Washtenaw,True
+26163,Michigan,Wayne,365.0,61.0,226.0,89.0,True,12.4,8.1,MI,Wayne,True
+26165,Michigan,Wexford,359.0,35.0,105.0,61.0,True,11.9,8.3,MI,Wexford,True
+27001,,,,,,,False,10.6,6.1,MN,Aitkin,True
+27003,Minnesota,Anoka,365.0,46.0,175.0,83.0,True,9.9,4.6,MN,Anoka,True
+27005,Minnesota,Becker,365.0,44.0,173.0,73.0,True,10.3,5.6,MN,Becker,True
+27007,Minnesota,Beltrami,360.0,27.0,156.0,73.0,True,11.3,6.3,MN,Beltrami,True
+27009,,,,,,,False,10.4,5.5,MN,Benton,True
+27011,,,,,,,False,10.3,5.7,MN,Big Stone,True
+27013,,,,,,,False,10.5,5.6,MN,Blue Earth,True
+27015,,,,,,,False,10.1,5.3,MN,Brown,True
+27017,Minnesota,Carlton,362.0,38.0,156.0,63.0,True,10.6,5.4,MN,Carlton,True
+27019,,,,,,,False,9.5,3.8,MN,Carver,True
+27021,Minnesota,Cass,359.0,32.0,145.0,64.0,True,10.6,5.9,MN,Cass,True
+27023,,,,,,,False,10.2,6.0,MN,Chippewa,True
+27025,,,,,,,False,10.0,4.8,MN,Chisago,True
+27027,,,,,,,False,10.4,5.1,MN,Clay,True
+27029,,,,,,,False,10.7,6.4,MN,Clearwater,True
+27031,Minnesota,Cook,346.0,13.0,120.0,54.0,True,10.1,4.6,MN,Cook,True
+27033,,,,,,,False,10.0,5.9,MN,Cottonwood,True
+27035,Minnesota,Crow Wing,365.0,43.0,165.0,77.0,True,10.5,5.2,MN,Crow Wing,True
+27037,Minnesota,Dakota,365.0,49.0,185.0,73.0,True,9.8,4.0,MN,Dakota,True
+27039,,,,,,,False,9.9,4.5,MN,Dodge,True
+27041,,,,,,,False,10.2,4.9,MN,Douglas,True
+27043,,,,,,,False,10.4,6.0,MN,Faribault,True
+27045,,,,,,,False,10.3,5.4,MN,Fillmore,True
+27047,,,,,,,False,10.1,5.7,MN,Freeborn,True
+27049,Minnesota,Goodhue,238.0,43.0,133.0,71.0,True,10.1,5.1,MN,Goodhue,True
+27051,,,,,,,False,10.5,5.9,MN,Grant,True
+27053,Minnesota,Hennepin,365.0,52.0,187.0,80.0,True,9.6,4.0,MN,Hennepin,True
+27055,,,,,,,False,10.2,4.9,MN,Houston,True
+27057,,,,,,,False,10.1,5.3,MN,Hubbard,True
+27059,,,,,,,False,10.1,5.4,MN,Isanti,True
+27061,,,,,,,False,10.5,5.6,MN,Itasca,True
+27063,,,,,,,False,10.0,5.1,MN,Jackson,True
+27065,,,,,,,False,10.5,6.2,MN,Kanabec,True
+27067,,,,,,,False,10.2,5.4,MN,Kandiyohi,True
+27069,,,,,,,False,10.2,5.2,MN,Kittson,True
+27071,,,,,,,False,10.4,5.6,MN,Koochiching,True
+27073,,,,,,,False,10.0,5.1,MN,Lac qui Parle,True
+27075,Minnesota,Lake,365.0,36.0,114.0,61.0,True,10.1,5.4,MN,Lake,True
+27077,,,,,,,False,10.1,5.2,MN,Lake of the Woods,True
+27079,,,,,,,False,9.9,4.8,MN,Le Sueur,True
+27081,,,,,,,False,10.1,5.4,MN,Lincoln,True
+27083,Minnesota,Lyon,361.0,46.0,173.0,78.0,True,10.1,5.3,MN,Lyon,True
+27085,,,,,,,False,10.0,5.2,MN,McLeod,True
+27087,,,,,,,False,12.8,8.5,MN,Mahnomen,True
+27089,,,,,,,False,10.2,5.4,MN,Marshall,True
+27091,,,,,,,False,10.1,5.7,MN,Martin,True
+27093,,,,,,,False,10.1,5.4,MN,Meeker,True
+27095,Minnesota,Mille Lacs,237.0,40.0,136.0,51.0,True,10.6,5.9,MN,Mille Lacs,True
+27097,,,,,,,False,10.5,5.7,MN,Morrison,True
+27099,,,,,,,False,10.0,5.7,MN,Mower,True
+27101,,,,,,,False,10.2,5.3,MN,Murray,True
+27103,,,,,,,False,10.1,5.0,MN,Nicollet,True
+27105,,,,,,,False,9.6,6.2,MN,Nobles,True
+27107,,,,,,,False,10.3,5.7,MN,Norman,True
+27109,Minnesota,Olmsted,365.0,49.0,167.0,76.0,True,9.8,4.2,MN,Olmsted,True
+27111,,,,,,,False,10.2,5.3,MN,Otter Tail,True
+27113,,,,,,,False,10.4,5.3,MN,Pennington,True
+27115,,,,,,,False,10.1,6.1,MN,Pine,True
+27117,,,,,,,False,10.4,6.0,MN,Pipestone,True
+27119,,,,,,,False,10.3,5.5,MN,Polk,True
+27121,,,,,,,False,10.2,5.3,MN,Pope,True
+27123,Minnesota,Ramsey,365.0,49.0,190.0,71.0,True,10.1,4.8,MN,Ramsey,True
+27125,,,,,,,False,10.3,5.3,MN,Red Lake,True
+27127,,,,,,,False,10.4,5.8,MN,Redwood,True
+27129,,,,,,,False,10.2,5.9,MN,Renville,True
+27131,,,,,,,False,9.9,5.0,MN,Rice,True
+27133,,,,,,,False,10.1,5.5,MN,Rock,True
+27135,,,,,,,False,10.1,5.5,MN,Roseau,True
+27137,Minnesota,Saint Louis,365.0,44.0,286.0,74.0,True,10.6,5.5,MN,St. Louis,True
+27139,Minnesota,Scott,365.0,51.0,179.0,88.0,True,9.5,4.0,MN,Scott,True
+27141,,,,,,,False,9.8,4.6,MN,Sherburne,True
+27143,,,,,,,False,10.0,5.4,MN,Sibley,True
+27145,Minnesota,Stearns,365.0,48.0,184.0,83.0,True,10.3,5.4,MN,Stearns,True
+27147,,,,,,,False,10.0,5.1,MN,Steele,True
+27149,,,,,,,False,9.9,5.3,MN,Stevens,True
+27151,,,,,,,False,10.2,6.0,MN,Swift,True
+27153,,,,,,,False,10.2,6.3,MN,Todd,True
+27155,,,,,,,False,10.4,5.7,MN,Traverse,True
+27157,,,,,,,False,10.1,4.9,MN,Wabasha,True
+27159,,,,,,,False,10.7,6.4,MN,Wadena,True
+27161,,,,,,,False,10.4,5.5,MN,Waseca,True
+27163,Minnesota,Washington,240.0,42.0,140.0,77.0,True,9.3,3.8,MN,Washington,True
+27165,,,,,,,False,9.7,5.4,MN,Watonwan,True
+27167,,,,,,,False,10.5,5.9,MN,Wilkin,True
+27169,Minnesota,Winona,119.0,28.0,169.0,58.0,True,10.3,5.4,MN,Winona,True
+27171,Minnesota,Wright,349.0,49.0,186.0,87.0,True,10.0,4.4,MN,Wright,True
+27173,,,,,,,False,10.4,5.7,MN,Yellow Medicine,True
+28001,,,,,,,False,10.4,9.0,MS,Adams,True
+28003,,,,,,,False,9.8,8.3,MS,Alcorn,True
+28005,,,,,,,False,10.5,9.2,MS,Amite,True
+28007,,,,,,,False,10.4,8.1,MS,Attala,True
+28009,,,,,,,False,10.2,8.3,MS,Benton,True
+28011,Mississippi,Bolivar,364.0,52.0,126.0,71.0,True,11.2,9.4,MS,Bolivar,True
+28013,,,,,,,False,10.3,9.3,MS,Calhoun,True
+28015,,,,,,,False,10.0,8.8,MS,Carroll,True
+28017,,,,,,,False,10.5,9.0,MS,Chickasaw,True
+28019,,,,,,,False,9.9,7.6,MS,Choctaw,True
+28021,,,,,,,False,11.5,9.2,MS,Claiborne,True
+28023,,,,,,,False,10.3,8.5,MS,Clarke,True
+28025,,,,,,,False,10.7,8.7,MS,Clay,True
+28027,,,,,,,False,11.5,9.8,MS,Coahoma,True
+28029,,,,,,,False,10.4,8.2,MS,Copiah,True
+28031,,,,,,,False,10.2,7.8,MS,Covington,True
+28033,Mississippi,DeSoto,360.0,54.0,134.0,76.0,True,9.6,5.8,MS,DeSoto,True
+28035,Mississippi,Forrest,365.0,53.0,94.0,68.0,True,10.0,7.5,MS,Forrest,True
+28037,,,,,,,False,10.4,9.1,MS,Franklin,True
+28039,,,,,,,False,9.5,7.9,MS,George,True
+28041,,,,,,,False,9.3,8.2,MS,Greene,True
+28043,,,,,,,False,10.4,8.4,MS,Grenada,True
+28045,Mississippi,Hancock,364.0,50.0,112.0,67.0,True,9.4,6.9,MS,Hancock,True
+28047,Mississippi,Harrison,361.0,51.0,105.0,68.0,True,9.7,7.0,MS,Harrison,True
+28049,Mississippi,Hinds,365.0,54.0,115.0,74.0,True,10.6,7.0,MS,Hinds,True
+28051,,,,,,,False,11.6,10.4,MS,Holmes,True
+28053,,,,,,,False,11.8,11.1,MS,Humphreys,True
+28055,,,,,,,False,9.9,10.0,MS,Issaquena,True
+28057,,,,,,,False,9.6,7.3,MS,Itawamba,True
+28059,Mississippi,Jackson,364.0,51.0,108.0,67.0,True,9.5,6.7,MS,Jackson,True
+28061,,,,,,,False,10.4,8.1,MS,Jasper,True
+28063,,,,,,,False,11.3,9.6,MS,Jefferson,True
+28065,,,,,,,False,10.9,9.0,MS,Jefferson Davis,True
+28067,,,,,,,False,10.0,8.0,MS,Jones,True
+28069,,,,,,,False,10.6,8.0,MS,Kemper,True
+28071,,,,,,,False,9.5,6.6,MS,Lafayette,True
+28073,,,,,,,False,9.4,6.4,MS,Lamar,True
+28075,Mississippi,Lauderdale,242.0,38.0,87.0,48.0,True,10.4,8.2,MS,Lauderdale,True
+28077,,,,,,,False,10.6,9.7,MS,Lawrence,True
+28079,,,,,,,False,10.4,8.3,MS,Leake,True
+28081,Mississippi,Lee,245.0,42.0,122.0,54.0,True,9.8,6.6,MS,Lee,True
+28083,,,,,,,False,11.3,9.6,MS,Leflore,True
+28085,,,,,,,False,10.0,7.8,MS,Lincoln,True
+28087,,,,,,,False,10.1,7.1,MS,Lowndes,True
+28089,,,,,,,False,9.3,5.1,MS,Madison,True
+28091,,,,,,,False,10.4,9.0,MS,Marion,True
+28093,,,,,,,False,10.5,8.9,MS,Marshall,True
+28095,,,,,,,False,10.1,8.2,MS,Monroe,True
+28097,,,,,,,False,10.5,9.0,MS,Montgomery,True
+28099,,,,,,,False,10.8,9.2,MS,Neshoba,True
+28101,,,,,,,False,10.3,8.3,MS,Newton,True
+28103,,,,,,,False,11.2,9.4,MS,Noxubee,True
+28105,,,,,,,False,9.8,7.4,MS,Oktibbeha,True
+28107,,,,,,,False,10.8,9.1,MS,Panola,True
+28109,,,,,,,False,9.7,7.7,MS,Pearl River,True
+28111,,,,,,,False,10.0,8.6,MS,Perry,True
+28113,,,,,,,False,10.9,9.1,MS,Pike,True
+28115,,,,,,,False,9.8,7.8,MS,Pontotoc,True
+28117,,,,,,,False,9.9,8.1,MS,Prentiss,True
+28119,,,,,,,False,11.7,10.6,MS,Quitman,True
+28121,,,,,,,False,9.2,5.6,MS,Rankin,True
+28123,,,,,,,False,10.4,9.1,MS,Scott,True
+28125,,,,,,,False,11.5,10.5,MS,Sharkey,True
+28127,,,,,,,False,10.2,7.9,MS,Simpson,True
+28129,,,,,,,False,10.3,9.0,MS,Smith,True
+28131,,,,,,,False,9.8,7.6,MS,Stone,True
+28133,,,,,,,False,10.8,9.5,MS,Sunflower,True
+28135,,,,,,,False,10.3,9.2,MS,Tallahatchie,True
+28137,,,,,,,False,9.8,7.2,MS,Tate,True
+28139,,,,,,,False,9.9,8.5,MS,Tippah,True
+28141,,,,,,,False,9.8,8.7,MS,Tishomingo,True
+28143,,,,,,,False,11.7,10.5,MS,Tunica,True
+28145,,,,,,,False,9.8,8.2,MS,Union,True
+28147,,,,,,,False,10.5,8.6,MS,Walthall,True
+28149,,,,,,,False,10.2,6.9,MS,Warren,True
+28151,,,,,,,False,11.3,9.4,MS,Washington,True
+28153,,,,,,,False,10.6,9.1,MS,Wayne,True
+28155,,,,,,,False,9.7,7.2,MS,Webster,True
+28157,,,,,,,False,10.5,8.9,MS,Wilkinson,True
+28159,,,,,,,False,10.4,9.0,MS,Winston,True
+28161,Mississippi,Yalobusha,344.0,36.0,119.0,48.0,True,10.5,9.2,MS,Yalobusha,True
+28163,,,,,,,False,10.4,10.2,MS,Yazoo,True
+29001,,,,,,,False,10.8,7.9,MO,Adair,True
+29003,Missouri,Andrew,244.0,43.0,122.0,77.0,True,10.4,6.5,MO,Andrew,True
+29005,,,,,,,False,10.7,8.2,MO,Atchison,True
+29007,,,,,,,False,11.4,9.0,MO,Audrain,True
+29009,,,,,,,False,10.8,8.9,MO,Barry,True
+29011,,,,,,,False,11.3,9.9,MO,Barton,True
+29013,,,,,,,False,11.0,8.8,MO,Bates,True
+29015,,,,,,,False,10.9,8.6,MO,Benton,True
+29017,,,,,,,False,11.0,8.9,MO,Bollinger,True
+29019,Missouri,Boone,244.0,42.0,143.0,67.0,True,10.3,6.3,MO,Boone,True
+29021,Missouri,Buchanan,363.0,48.0,129.0,63.0,True,10.9,8.2,MO,Buchanan,True
+29023,,,,,,,False,11.7,10.0,MO,Butler,True
+29025,,,,,,,False,10.8,8.0,MO,Caldwell,True
+29027,Missouri,Callaway,245.0,43.0,133.0,64.0,True,10.6,7.3,MO,Callaway,True
+29029,,,,,,,False,10.6,7.2,MO,Camden,True
+29031,,,,,,,False,10.6,7.0,MO,Cape Girardeau,True
+29033,,,,,,,False,10.8,8.1,MO,Carroll,True
+29035,,,,,,,False,11.4,10.2,MO,Carter,True
+29037,Missouri,Cass,332.0,44.0,143.0,64.0,True,10.2,6.2,MO,Cass,True
+29039,Missouri,Cedar,363.0,44.0,122.0,67.0,True,11.2,9.5,MO,Cedar,True
+29041,,,,,,,False,10.7,7.9,MO,Chariton,True
+29043,,,,,,,False,10.4,6.3,MO,Christian,True
+29045,,,,,,,False,11.0,9.3,MO,Clark,True
+29047,Missouri,Clay,350.0,43.0,153.0,80.0,True,10.3,5.8,MO,Clay,True
+29049,Missouri,Clinton,245.0,44.0,133.0,84.0,True,10.5,7.1,MO,Clinton,True
+29051,,,,,,,False,10.3,6.1,MO,Cole,True
+29053,,,,,,,False,10.5,7.2,MO,Cooper,True
+29055,,,,,,,False,11.0,8.8,MO,Crawford,True
+29057,,,,,,,False,11.2,9.4,MO,Dade,True
+29059,,,,,,,False,11.1,9.5,MO,Dallas,True
+29061,,,,,,,False,11.0,8.9,MO,Daviess,True
+29063,,,,,,,False,10.5,7.4,MO,DeKalb,True
+29065,,,,,,,False,11.0,8.8,MO,Dent,True
+29067,,,,,,,False,11.3,9.0,MO,Douglas,True
+29069,,,,,,,False,11.5,10.3,MO,Dunklin,True
+29071,,,,,,,False,10.5,7.0,MO,Franklin,True
+29073,,,,,,,False,10.8,7.7,MO,Gasconade,True
+29075,,,,,,,False,10.9,8.4,MO,Gentry,True
+29077,Missouri,Greene,365.0,49.0,122.0,68.0,True,10.8,7.3,MO,Greene,True
+29079,,,,,,,False,11.0,8.9,MO,Grundy,True
+29081,,,,,,,False,10.9,9.1,MO,Harrison,True
+29083,,,,,,,False,11.0,8.8,MO,Henry,True
+29085,,,,,,,False,11.6,11.1,MO,Hickory,True
+29087,,,,,,,False,10.7,7.8,MO,Holt,True
+29089,,,,,,,False,10.7,7.3,MO,Howard,True
+29091,,,,,,,False,11.3,9.9,MO,Howell,True
+29093,,,,,,,False,11.1,9.2,MO,Iron,True
+29095,Missouri,Jackson,365.0,52.0,155.0,68.0,True,10.5,6.7,MO,Jackson,True
+29097,Missouri,Jasper,365.0,42.0,119.0,65.0,True,10.8,8.4,MO,Jasper,True
+29099,Missouri,Jefferson,362.0,44.0,185.0,72.0,True,10.5,6.8,MO,Jefferson,True
+29101,,,,,,,False,10.5,7.2,MO,Johnson,True
+29103,,,,,,,False,11.3,9.9,MO,Knox,True
+29105,,,,,,,False,11.2,9.4,MO,Laclede,True
+29107,,,,,,,False,10.6,7.0,MO,Lafayette,True
+29109,,,,,,,False,11.0,9.1,MO,Lawrence,True
+29111,,,,,,,False,11.1,8.7,MO,Lewis,True
+29113,Missouri,Lincoln,245.0,44.0,140.0,80.0,True,10.6,7.1,MO,Lincoln,True
+29115,,,,,,,False,10.8,8.3,MO,Linn,True
+29117,,,,,,,False,11.3,8.2,MO,Livingston,True
+29119,,,,,,,False,11.3,10.3,MO,McDonald,True
+29121,,,,,,,False,10.6,7.3,MO,Macon,True
+29123,,,,,,,False,10.7,8.1,MO,Madison,True
+29125,,,,,,,False,10.9,8.1,MO,Maries,True
+29127,,,,,,,False,10.7,7.7,MO,Marion,True
+29129,,,,,,,False,11.0,9.1,MO,Mercer,True
+29131,,,,,,,False,10.8,8.1,MO,Miller,True
+29133,,,,,,,False,11.7,10.5,MO,Mississippi,True
+29135,,,,,,,False,10.5,7.6,MO,Moniteau,True
+29137,Missouri,Monroe,364.0,38.0,119.0,58.0,True,10.9,8.6,MO,Monroe,True
+29139,,,,,,,False,11.0,8.5,MO,Montgomery,True
+29141,,,,,,,False,11.1,9.6,MO,Morgan,True
+29143,,,,,,,False,11.6,9.7,MO,New Madrid,True
+29145,,,,,,,False,10.8,7.9,MO,Newton,True
+29147,,,,,,,False,10.6,7.6,MO,Nodaway,True
+29149,,,,,,,False,11.3,10.4,MO,Oregon,True
+29151,,,,,,,False,10.3,6.8,MO,Osage,True
+29153,,,,,,,False,11.4,10.8,MO,Ozark,True
+29155,,,,,,,False,12.3,11.3,MO,Pemiscot,True
+29157,Missouri,Perry,245.0,44.0,150.0,74.0,True,10.5,7.5,MO,Perry,True
+29159,,,,,,,False,10.8,7.8,MO,Pettis,True
+29161,,,,,,,False,10.5,7.8,MO,Phelps,True
+29163,,,,,,,False,10.6,8.7,MO,Pike,True
+29165,,,,,,,False,9.9,5.2,MO,Platte,True
+29167,,,,,,,False,11.0,8.8,MO,Polk,True
+29169,,,,,,,False,10.2,7.0,MO,Pulaski,True
+29171,,,,,,,False,10.6,7.7,MO,Putnam,True
+29173,,,,,,,False,10.8,8.1,MO,Ralls,True
+29175,,,,,,,False,10.9,8.4,MO,Randolph,True
+29177,,,,,,,False,10.7,7.9,MO,Ray,True
+29179,,,,,,,False,11.2,9.8,MO,Reynolds,True
+29181,,,,,,,False,11.5,10.6,MO,Ripley,True
+29183,Missouri,Saint Charles,245.0,45.0,147.0,87.0,True,10.1,5.1,MO,St. Charles,True
+29185,,,,,,,False,11.0,9.4,MO,St. Clair,True
+29186,Missouri,Sainte Genevieve,245.0,44.0,147.0,74.0,True,10.5,7.3,MO,Ste. Genevieve,True
+29187,,,,,,,False,10.8,9.0,MO,St. Francois,True
+29189,Missouri,Saint Louis,365.0,46.0,166.0,74.0,True,10.7,5.5,MO,St. Louis,True
+29195,,,,,,,False,10.6,7.4,MO,Saline,True
+29197,,,,,,,False,10.6,7.4,MO,Schuyler,True
+29199,,,,,,,False,11.0,8.7,MO,Scotland,True
+29201,,,,,,,False,11.1,8.3,MO,Scott,True
+29203,,,,,,,False,11.1,9.0,MO,Shannon,True
+29205,,,,,,,False,11.0,9.4,MO,Shelby,True
+29207,Missouri,Stoddard,110.0,37.0,98.0,63.0,True,11.0,9.4,MO,Stoddard,True
+29209,,,,,,,False,10.7,7.8,MO,Stone,True
+29211,,,,,,,False,10.5,8.2,MO,Sullivan,True
+29213,Missouri,Taney,105.0,29.0,75.0,55.0,True,10.8,7.7,MO,Taney,True
+29215,,,,,,,False,11.0,10.0,MO,Texas,True
+29217,,,,,,,False,11.3,9.3,MO,Vernon,True
+29219,,,,,,,False,10.6,7.3,MO,Warren,True
+29221,,,,,,,False,11.2,10.1,MO,Washington,True
+29223,,,,,,,False,11.5,10.9,MO,Wayne,True
+29225,,,,,,,False,10.8,8.4,MO,Webster,True
+29227,,,,,,,False,10.8,8.7,MO,Worth,True
+29229,,,,,,,False,11.3,10.4,MO,Wright,True
+29510,Missouri,St. Louis City,365.0,58.0,172.0,84.0,True,11.7,7.0,MO,St. Louis,True
+30001,Montana,Beaverhead,358.0,13.0,124.0,28.0,True,11.1,6.2,MT,Beaverhead,True
+30003,,,,,,,False,14.1,9.2,MT,Big Horn,True
+30005,,,,,,,False,13.4,8.0,MT,Blaine,True
+30007,,,,,,,False,11.0,5.8,MT,Broadwater,True
+30009,,,,,,,False,11.1,5.8,MT,Carbon,True
+30011,,,,,,,False,11.6,6.8,MT,Carter,True
+30013,Montana,Cascade,351.0,50.0,170.0,65.0,True,12.4,6.5,MT,Cascade,True
+30015,,,,,,,False,12.1,6.7,MT,Chouteau,True
+30017,Montana,Custer,364.0,39.0,260.0,61.0,True,11.2,6.2,MT,Custer,True
+30019,,,,,,,False,11.1,5.9,MT,Daniels,True
+30021,,,,,,,False,11.0,5.8,MT,Dawson,True
+30023,,,,,,,False,11.4,7.5,MT,Deer Lodge,True
+30025,,,,,,,False,11.2,6.2,MT,Fallon,True
+30027,Montana,Fergus,364.0,41.0,185.0,54.0,True,11.3,6.5,MT,Fergus,True
+30029,Montana,Flathead,365.0,43.0,160.0,68.0,True,10.8,5.7,MT,Flathead,True
+30031,Montana,Gallatin,365.0,26.0,98.0,48.0,True,10.7,4.8,MT,Gallatin,True
+30033,,,,,,,False,11.5,6.6,MT,Garfield,True
+30035,Montana,Glacier,354.0,12.0,166.0,52.0,True,14.6,10.1,MT,Glacier,True
+30037,,,,,,,False,11.9,7.5,MT,Golden Valley,True
+30039,,,,,,,False,11.2,6.4,MT,Granite,True
+30041,Montana,Hill,214.0,23.0,215.0,65.0,True,12.3,7.7,MT,Hill,True
+30043,,,,,,,False,11.0,5.3,MT,Jefferson,True
+30045,,,,,,,False,11.3,6.8,MT,Judith Basin,True
+30047,Montana,Lake,109.0,13.0,157.0,43.0,True,12.3,6.8,MT,Lake,True
+30049,Montana,Lewis and Clark,365.0,45.0,165.0,63.0,True,11.3,5.2,MT,Lewis and Clark,True
+30051,,,,,,,False,12.2,8.5,MT,Liberty,True
+30053,Montana,Lincoln,364.0,53.0,189.0,73.0,True,11.8,7.6,MT,Lincoln,True
+30055,,,,,,,False,11.0,5.7,MT,McCone,True
+30057,,,,,,,False,10.8,5.2,MT,Madison,True
+30059,,,,,,,False,11.1,6.1,MT,Meagher,True
+30061,,,,,,,False,11.4,6.7,MT,Mineral,True
+30063,Montana,Missoula,364.0,53.0,134.0,76.0,True,10.8,5.2,MT,Missoula,True
+30065,,,,,,,False,11.4,6.7,MT,Musselshell,True
+30067,,,,,,,False,10.9,5.9,MT,Park,True
+30069,,,,,,,False,10.9,5.9,MT,Petroleum,True
+30071,Montana,Phillips,364.0,38.0,199.0,59.0,True,11.5,6.5,MT,Phillips,True
+30073,,,,,,,False,12.5,8.2,MT,Pondera,True
+30075,Montana,Powder River,355.0,44.0,195.0,71.0,True,11.1,5.9,MT,Powder River,True
+30077,Montana,Powell,109.0,14.0,115.0,47.0,True,10.4,6.7,MT,Powell,True
+30079,,,,,,,False,11.9,8.4,MT,Prairie,True
+30081,Montana,Ravalli,363.0,22.0,110.0,58.0,True,10.7,5.6,MT,Ravalli,True
+30083,Montana,Richland,364.0,39.0,219.0,64.0,True,10.8,5.5,MT,Richland,True
+30085,Montana,Roosevelt,72.0,13.0,161.0,52.0,True,14.1,9.2,MT,Roosevelt,True
+30087,Montana,Rosebud,285.0,3.0,132.0,18.0,True,13.0,8.1,MT,Rosebud,True
+30089,Montana,Sanders,364.0,37.0,181.0,58.0,True,11.4,7.5,MT,Sanders,True
+30091,Montana,Sheridan,112.0,18.0,160.0,56.0,True,11.3,6.3,MT,Sheridan,True
+30093,Montana,Silver Bow,365.0,31.0,124.0,66.0,True,11.2,6.6,MT,Silver Bow,True
+30095,,,,,,,False,10.9,5.6,MT,Stillwater,True
+30097,,,,,,,False,11.0,5.7,MT,Sweet Grass,True
+30099,,,,,,,False,11.4,6.3,MT,Teton,True
+30101,,,,,,,False,11.0,7.9,MT,Toole,True
+30103,,,,,,,False,11.3,6.1,MT,Treasure,True
+30105,,,,,,,False,11.6,6.4,MT,Valley,True
+30107,,,,,,,False,11.7,7.7,MT,Wheatland,True
+30109,,,,,,,False,11.3,6.4,MT,Wibaux,True
+30111,Montana,Yellowstone,357.0,29.0,191.0,53.0,True,10.8,5.6,MT,Yellowstone,True
+31001,,,,,,,False,9.3,5.9,NE,Adams,True
+31003,,,,,,,False,9.5,6.1,NE,Antelope,True
+31005,,,,,,,False,9.5,6.0,NE,Arthur,True
+31007,,,,,,,False,9.3,5.3,NE,Banner,True
+31009,,,,,,,False,9.7,6.0,NE,Blaine,True
+31011,,,,,,,False,9.1,6.0,NE,Boone,True
+31013,,,,,,,False,9.4,6.1,NE,Box Butte,True
+31015,,,,,,,False,9.4,6.4,NE,Boyd,True
+31017,,,,,,,False,9.5,6.4,NE,Brown,True
+31019,,,,,,,False,9.3,5.5,NE,Buffalo,True
+31021,,,,,,,False,9.4,6.1,NE,Burt,True
+31023,,,,,,,False,9.3,5.6,NE,Butler,True
+31025,Nebraska,Cass,354.0,17.0,66.0,35.0,True,9.2,5.1,NE,Cass,True
+31027,,,,,,,False,9.1,5.3,NE,Cedar,True
+31029,,,,,,,False,9.2,5.9,NE,Chase,True
+31031,,,,,,,False,9.7,6.3,NE,Cherry,True
+31033,,,,,,,False,9.5,6.3,NE,Cheyenne,True
+31035,,,,,,,False,9.3,5.7,NE,Clay,True
+31037,,,,,,,False,8.4,5.8,NE,Colfax,True
+31039,,,,,,,False,9.1,5.7,NE,Cuming,True
+31041,,,,,,,False,9.4,5.8,NE,Custer,True
+31043,,,,,,,False,8.8,5.8,NE,Dakota,True
+31045,,,,,,,False,9.5,5.7,NE,Dawes,True
+31047,,,,,,,False,8.8,6.0,NE,Dawson,True
+31049,,,,,,,False,9.6,6.0,NE,Deuel,True
+31051,,,,,,,False,9.2,6.2,NE,Dixon,True
+31053,,,,,,,False,9.1,6.0,NE,Dodge,True
+31055,Nebraska,Douglas,365.0,45.0,169.0,91.0,True,8.7,5.2,NE,Douglas,True
+31057,,,,,,,False,9.6,6.1,NE,Dundy,True
+31059,,,,,,,False,9.4,5.6,NE,Fillmore,True
+31061,,,,,,,False,9.7,6.8,NE,Franklin,True
+31063,,,,,,,False,9.5,5.8,NE,Frontier,True
+31065,,,,,,,False,9.6,6.4,NE,Furnas,True
+31067,Nebraska,Gage,351.0,34.0,163.0,56.0,True,9.6,6.4,NE,Gage,True
+31069,,,,,,,False,9.7,6.9,NE,Garden,True
+31071,,,,,,,False,9.3,5.4,NE,Garfield,True
+31073,,,,,,,False,9.2,5.4,NE,Gosper,True
+31075,,,,,,,False,9.3,5.5,NE,Grant,True
+31077,,,,,,,False,9.3,6.1,NE,Greeley,True
+31079,Nebraska,Hall,342.0,35.0,190.0,58.0,True,8.8,6.1,NE,Hall,True
+31081,,,,,,,False,9.3,5.1,NE,Hamilton,True
+31083,,,,,,,False,9.4,5.7,NE,Harlan,True
+31085,,,,,,,False,9.3,6.1,NE,Hayes,True
+31087,,,,,,,False,9.6,6.3,NE,Hitchcock,True
+31089,,,,,,,False,9.4,6.1,NE,Holt,True
+31091,,,,,,,False,9.6,6.2,NE,Hooker,True
+31093,,,,,,,False,9.3,5.5,NE,Howard,True
+31095,,,,,,,False,9.4,5.8,NE,Jefferson,True
+31097,,,,,,,False,8.5,5.9,NE,Johnson,True
+31099,,,,,,,False,9.2,5.0,NE,Kearney,True
+31101,,,,,,,False,9.3,5.8,NE,Keith,True
+31103,,,,,,,False,9.3,6.3,NE,Keya Paha,True
+31105,,,,,,,False,9.7,7.1,NE,Kimball,True
+31107,Nebraska,Knox,341.0,41.0,151.0,80.0,True,9.8,6.7,NE,Knox,True
+31109,Nebraska,Lancaster,283.0,42.0,160.0,64.0,True,9.2,5.3,NE,Lancaster,True
+31111,,,,,,,False,9.9,6.5,NE,Lincoln,True
+31113,,,,,,,False,9.2,5.1,NE,Logan,True
+31115,,,,,,,False,9.1,5.4,NE,Loup,True
+31117,,,,,,,False,9.6,5.8,NE,McPherson,True
+31119,,,,,,,False,9.4,5.8,NE,Madison,True
+31121,,,,,,,False,9.3,5.9,NE,Merrick,True
+31123,,,,,,,False,9.3,6.6,NE,Morrill,True
+31125,,,,,,,False,9.6,6.7,NE,Nance,True
+31127,,,,,,,False,9.7,6.5,NE,Nemaha,True
+31129,,,,,,,False,9.3,5.8,NE,Nuckolls,True
+31131,,,,,,,False,9.3,5.5,NE,Otoe,True
+31133,,,,,,,False,9.9,7.0,NE,Pawnee,True
+31135,,,,,,,False,9.3,5.7,NE,Perkins,True
+31137,,,,,,,False,9.4,6.0,NE,Phelps,True
+31139,,,,,,,False,9.3,5.5,NE,Pierce,True
+31141,,,,,,,False,8.7,5.5,NE,Platte,True
+31143,,,,,,,False,9.2,5.5,NE,Polk,True
+31145,,,,,,,False,9.6,6.1,NE,Red Willow,True
+31147,,,,,,,False,9.6,6.3,NE,Richardson,True
+31149,,,,,,,False,9.4,5.6,NE,Rock,True
+31151,,,,,,,False,8.8,5.8,NE,Saline,True
+31153,Nebraska,Sarpy,330.0,37.0,152.0,59.0,True,8.6,4.4,NE,Sarpy,True
+31155,,,,,,,False,9.0,5.0,NE,Saunders,True
+31157,Nebraska,Scotts Bluff,343.0,21.0,225.0,52.0,True,9.3,6.1,NE,Scotts Bluff,True
+31159,,,,,,,False,9.2,5.2,NE,Seward,True
+31161,,,,,,,False,9.7,6.4,NE,Sheridan,True
+31163,,,,,,,False,9.5,6.4,NE,Sherman,True
+31165,,,,,,,False,9.8,7.6,NE,Sioux,True
+31167,,,,,,,False,9.3,5.4,NE,Stanton,True
+31169,,,,,,,False,9.5,6.4,NE,Thayer,True
+31171,,,,,,,False,9.2,5.1,NE,Thomas,True
+31173,,,,,,,False,11.3,7.5,NE,Thurston,True
+31175,,,,,,,False,9.5,6.1,NE,Valley,True
+31177,Nebraska,Washington,360.0,33.0,154.0,60.0,True,9.0,4.9,NE,Washington,True
+31179,,,,,,,False,9.2,5.8,NE,Wayne,True
+31181,,,,,,,False,9.5,6.0,NE,Webster,True
+31183,,,,,,,False,9.1,5.3,NE,Wheeler,True
+31185,,,,,,,False,9.5,5.8,NE,York,True
+32001,Nevada,Churchill,354.0,43.0,90.0,58.0,True,11.3,6.9,NV,Churchill,True
+32003,Nevada,Clark,365.0,61.0,197.0,100.0,True,10.1,6.3,NV,Clark,True
+32005,Nevada,Douglas,359.0,28.0,73.0,56.0,True,10.3,5.5,NV,Douglas,True
+32007,Nevada,Elko,364.0,31.0,74.0,51.0,True,10.6,6.9,NV,Elko,True
+32009,,,,,,,False,11.2,8.5,NV,Esmeralda,True
+32011,,,,,,,False,11.5,9.7,NV,Eureka,True
+32013,,,,,,,False,10.7,6.7,NV,Humboldt,True
+32015,,,,,,,False,11.0,7.8,NV,Lander,True
+32017,,,,,,,False,10.7,6.3,NV,Lincoln,True
+32019,Nevada,Lyon,349.0,41.0,87.0,49.0,True,10.9,6.8,NV,Lyon,True
+32021,,,,,,,False,12.1,9.6,NV,Mineral,True
+32023,Nevada,Nye,365.0,19.0,147.0,41.0,True,11.4,7.8,NV,Nye,True
+32027,,,,,,,False,9.8,6.8,NV,Pershing,True
+32029,,,,,,,False,10.7,5.5,NV,Storey,True
+32031,Nevada,Washoe,365.0,50.0,97.0,71.0,True,10.4,5.8,NV,Washoe,True
+32033,Nevada,White Pine,361.0,44.0,93.0,58.0,True,10.8,7.4,NV,White Pine,True
+32510,Nevada,Carson City,363.0,47.0,105.0,63.0,True,10.5,6.4,NV,Carson City,True
+33001,New Hampshire,Belknap,365.0,35.0,105.0,54.0,True,10.4,5.7,NH,Belknap,True
+33003,,,,,,,False,10.3,5.2,NH,Carroll,True
+33005,New Hampshire,Cheshire,363.0,41.0,125.0,61.0,True,10.7,5.7,NH,Cheshire,True
+33007,New Hampshire,Coos,364.0,43.0,136.0,54.0,True,11.6,7.1,NH,Coos,True
+33009,New Hampshire,Grafton,365.0,37.0,100.0,53.0,True,10.5,5.3,NH,Grafton,True
+33011,New Hampshire,Hillsborough,365.0,39.0,119.0,58.0,True,10.6,4.9,NH,Hillsborough,True
+33013,New Hampshire,Merrimack,213.0,39.0,100.0,48.0,True,11.0,5.3,NH,Merrimack,True
+33015,New Hampshire,Rockingham,365.0,40.0,100.0,59.0,True,10.1,4.6,NH,Rockingham,True
+33017,,,,,,,False,10.7,5.5,NH,Strafford,True
+33019,,,,,,,False,11.0,6.2,NH,Sullivan,True
+34001,New Jersey,Atlantic,365.0,38.0,265.0,60.0,True,9.5,5.3,NJ,Atlantic,True
+34003,New Jersey,Bergen,365.0,48.0,197.0,69.0,True,8.0,3.6,NJ,Bergen,True
+34005,,,,,,,False,9.3,4.4,NJ,Burlington,True
+34007,New Jersey,Camden,365.0,50.0,211.0,69.0,True,9.7,5.0,NJ,Camden,True
+34009,,,,,,,False,9.7,5.0,NJ,Cape May,True
+34011,New Jersey,Cumberland,361.0,43.0,203.0,61.0,True,9.7,6.6,NJ,Cumberland,True
+34013,,,,,,,False,9.8,5.1,NJ,Essex,True
+34015,New Jersey,Gloucester,321.0,43.0,185.0,69.0,True,9.8,4.7,NJ,Gloucester,True
+34017,New Jersey,Hudson,365.0,44.0,203.0,64.0,True,8.4,4.2,NJ,Hudson,True
+34019,New Jersey,Hunterdon,364.0,44.0,262.0,64.0,True,8.8,3.8,NJ,Hunterdon,True
+34021,New Jersey,Mercer,365.0,49.0,244.0,70.0,True,8.9,4.4,NJ,Mercer,True
+34023,New Jersey,Middlesex,365.0,44.0,247.0,67.0,True,8.3,3.9,NJ,Middlesex,True
+34025,New Jersey,Monmouth,247.0,39.0,140.0,61.0,True,8.9,4.0,NJ,Monmouth,True
+34027,New Jersey,Morris,363.0,37.0,154.0,55.0,True,8.4,3.5,NJ,Morris,True
+34029,New Jersey,Ocean,365.0,42.0,248.0,64.0,True,9.4,5.3,NJ,Ocean,True
+34031,New Jersey,Passaic,353.0,42.0,199.0,63.0,True,8.9,5.2,NJ,Passaic,True
+34033,,,,,,,False,10.1,5.9,NJ,Salem,True
+34035,,,,,,,False,7.9,3.4,NJ,Somerset,True
+34037,,,,,,,False,9.5,4.4,NJ,Sussex,True
+34039,New Jersey,Union,365.0,52.0,227.0,69.0,True,9.0,4.5,NJ,Union,True
+34041,New Jersey,Warren,361.0,41.0,197.0,61.0,True,9.3,4.7,NJ,Warren,True
+35001,New Mexico,Bernalillo,365.0,59.0,207.0,84.0,True,9.8,4.9,NM,Bernalillo,True
+35003,New Mexico,Catron,119.0,13.0,175.0,49.0,True,10.5,6.9,NM,Catron,True
+35005,New Mexico,Chaves,118.0,24.0,75.0,47.0,True,9.9,6.5,NM,Chaves,True
+35006,,,,,,,False,11.6,7.3,NM,Cibola,True
+35007,,,,,,,False,9.5,5.8,NM,Colfax,True
+35009,,,,,,,False,10.3,6.7,NM,Curry,True
+35011,,,,,,,False,10.2,6.2,NM,De Baca,True
+35013,New Mexico,Dona Ana,365.0,52.0,196.0,87.0,True,9.4,5.5,NM,DoÃ±a Ana,True
+35015,New Mexico,Eddy,365.0,49.0,143.0,93.0,True,9.7,5.5,NM,Eddy,True
+35017,,,,,,,False,9.7,6.0,NM,Grant,True
+35019,,,,,,,False,8.7,5.5,NM,Guadalupe,True
+35021,,,,,,,False,10.0,6.9,NM,Harding,True
+35023,,,,,,,False,9.7,6.4,NM,Hidalgo,True
+35025,New Mexico,Lea,364.0,45.0,133.0,74.0,True,9.5,6.3,NM,Lea,True
+35027,New Mexico,Lincoln,119.0,14.0,55.0,32.0,True,9.8,5.7,NM,Lincoln,True
+35028,New Mexico,Los Alamos,121.0,14.0,50.0,27.0,True,8.9,3.2,NM,Los Alamos,True
+35029,New Mexico,Luna,351.0,16.0,157.0,35.0,True,9.9,7.8,NM,Luna,True
+35031,,,,,,,False,14.2,10.8,NM,McKinley,True
+35033,,,,,,,False,8.6,4.4,NM,Mora,True
+35035,,,,,,,False,10.1,6.6,NM,Otero,True
+35037,,,,,,,False,10.2,7.3,NM,Quay,True
+35039,New Mexico,Rio Arriba,346.0,43.0,71.0,49.0,True,10.1,5.5,NM,Rio Arriba,True
+35041,,,,,,,False,10.0,6.5,NM,Roosevelt,True
+35043,New Mexico,Sandoval,340.0,44.0,87.0,64.0,True,9.7,4.6,NM,Sandoval,True
+35045,New Mexico,San Juan,365.0,46.0,117.0,74.0,True,12.1,8.1,NM,San Juan,True
+35047,,,,,,,False,9.1,5.0,NM,San Miguel,True
+35049,New Mexico,Santa Fe,362.0,44.0,84.0,64.0,True,9.2,4.5,NM,Santa Fe,True
+35051,,,,,,,False,10.4,7.6,NM,Sierra,True
+35053,New Mexico,Socorro,118.0,14.0,51.0,30.0,True,10.1,6.8,NM,Socorro,True
+35055,New Mexico,Taos,350.0,20.0,67.0,43.0,True,9.5,4.9,NM,Taos,True
+35057,,,,,,,False,10.2,7.5,NM,Torrance,True
+35059,,,,,,,False,9.7,6.7,NM,Union,True
+35061,New Mexico,Valencia,361.0,42.0,87.0,61.0,True,9.6,5.6,NM,Valencia,True
+36001,New York,Albany,365.0,42.0,186.0,62.0,True,10.9,5.2,NY,Albany,True
+36003,,,,,,,False,11.4,7.0,NY,Allegany,True
+36005,New York,Bronx,365.0,47.0,253.0,69.0,True,11.8,6.4,NY,Bronx,True
+36007,,,,,,,False,11.6,6.7,NY,Broome,True
+36009,,,,,,,False,11.6,7.6,NY,Cattaraugus,True
+36011,,,,,,,False,11.2,6.9,NY,Cayuga,True
+36013,New York,Chautauqua,363.0,37.0,133.0,54.0,True,11.3,7.1,NY,Chautauqua,True
+36015,,,,,,,False,11.3,6.8,NY,Chemung,True
+36017,,,,,,,False,11.3,7.1,NY,Chenango,True
+36019,,,,,,,False,11.7,6.7,NY,Clinton,True
+36021,,,,,,,False,10.7,5.7,NY,Columbia,True
+36023,,,,,,,False,11.4,6.4,NY,Cortland,True
+36025,,,,,,,False,11.1,6.8,NY,Delaware,True
+36027,New York,Dutchess,347.0,33.0,108.0,46.0,True,10.4,4.9,NY,Dutchess,True
+36029,New York,Erie,365.0,48.0,176.0,69.0,True,11.6,5.8,NY,Erie,True
+36031,New York,Essex,365.0,42.0,161.0,60.0,True,10.9,6.2,NY,Essex,True
+36033,,,,,,,False,11.5,7.2,NY,Franklin,True
+36035,,,,,,,False,12.0,7.3,NY,Fulton,True
+36037,,,,,,,False,11.0,6.0,NY,Genesee,True
+36039,,,,,,,False,10.9,6.2,NY,Greene,True
+36041,New York,Hamilton,354.0,33.0,90.0,46.0,True,11.2,6.3,NY,Hamilton,True
+36043,,,,,,,False,11.2,6.7,NY,Herkimer,True
+36045,New York,Jefferson,362.0,33.0,101.0,44.0,True,11.3,6.6,NY,Jefferson,True
+36047,New York,Kings,364.0,46.0,249.0,65.0,True,10.4,5.4,NY,Kings,True
+36049,,,,,,,False,11.1,6.8,NY,Lewis,True
+36051,,,,,,,False,11.1,6.0,NY,Livingston,True
+36053,,,,,,,False,11.1,5.9,NY,Madison,True
+36055,New York,Monroe,365.0,42.0,176.0,64.0,True,11.0,5.4,NY,Monroe,True
+36057,,,,,,,False,11.0,6.8,NY,Montgomery,True
+36059,New York,Nassau,365.0,31.0,197.0,57.0,True,9.6,3.9,NY,Nassau,True
+36061,New York,New York,365.0,48.0,208.0,67.0,True,9.6,4.1,NY,New York,True
+36063,New York,Niagara,356.0,33.0,97.0,46.0,True,11.4,6.2,NY,Niagara,True
+36065,New York,Oneida,351.0,32.0,190.0,56.0,True,11.1,6.7,NY,Oneida,True
+36067,New York,Onondaga,361.0,40.0,258.0,59.0,True,11.4,5.8,NY,Onondaga,True
+36069,,,,,,,False,10.7,5.4,NY,Ontario,True
+36071,New York,Orange,357.0,34.0,185.0,58.0,True,10.5,5.5,NY,Orange,True
+36073,,,,,,,False,11.5,7.0,NY,Orleans,True
+36075,New York,Oswego,356.0,33.0,105.0,44.0,True,11.4,7.1,NY,Oswego,True
+36077,,,,,,,False,11.4,6.4,NY,Otsego,True
+36079,New York,Putnam,350.0,32.0,140.0,45.0,True,9.9,4.3,NY,Putnam,True
+36081,New York,Queens,365.0,50.0,278.0,72.0,True,8.9,4.6,NY,Queens,True
+36083,,,,,,,False,10.9,5.6,NY,Rensselaer,True
+36085,New York,Richmond,364.0,42.0,227.0,62.0,True,10.2,5.2,NY,Richmond,True
+36087,New York,Rockland,363.0,38.0,197.0,58.0,True,10.6,5.4,NY,Rockland,True
+36089,,,,,,,False,11.8,7.6,NY,St. Lawrence,True
+36091,New York,Saratoga,365.0,31.0,122.0,44.0,True,10.4,4.7,NY,Saratoga,True
+36093,,,,,,,False,11.1,5.6,NY,Schenectady,True
+36095,,,,,,,False,11.2,6.2,NY,Schoharie,True
+36097,,,,,,,False,11.4,6.9,NY,Schuyler,True
+36099,,,,,,,False,11.4,7.0,NY,Seneca,True
+36101,New York,Steuben,365.0,40.0,256.0,64.0,True,11.2,6.7,NY,Steuben,True
+36103,New York,Suffolk,365.0,41.0,195.0,62.0,True,10.2,4.5,NY,Suffolk,True
+36105,,,,,,,False,10.7,6.1,NY,Sullivan,True
+36107,,,,,,,False,11.2,6.4,NY,Tioga,True
+36109,New York,Tompkins,357.0,35.0,100.0,47.0,True,10.6,5.0,NY,Tompkins,True
+36111,,,,,,,False,10.5,5.6,NY,Ulster,True
+36113,,,,,,,False,11.1,5.7,NY,Warren,True
+36115,,,,,,,False,11.2,6.4,NY,Washington,True
+36117,New York,Wayne,348.0,33.0,112.0,46.0,True,11.2,6.2,NY,Wayne,True
+36119,New York,Westchester,365.0,39.0,198.0,58.0,True,9.3,4.1,NY,Westchester,True
+36121,,,,,,,False,11.0,6.6,NY,Wyoming,True
+36123,,,,,,,False,11.4,7.1,NY,Yates,True
+37001,,,,,,,False,10.9,6.5,NC,Alamance,True
+37003,North Carolina,Alexander,302.0,38.0,105.0,50.0,True,10.9,7.5,NC,Alexander,True
+37005,,,,,,,False,11.0,8.4,NC,Alleghany,True
+37007,,,,,,,False,12.0,8.9,NC,Anson,True
+37009,,,,,,,False,10.8,7.4,NC,Ashe,True
+37011,North Carolina,Avery,283.0,39.0,98.0,53.0,True,10.6,7.4,NC,Avery,True
+37013,,,,,,,False,11.4,7.5,NC,Beaufort,True
+37015,,,,,,,False,12.1,8.3,NC,Bertie,True
+37017,,,,,,,False,11.8,7.8,NC,Bladen,True
+37019,,,,,,,False,10.7,5.7,NC,Brunswick,True
+37021,North Carolina,Buncombe,365.0,43.0,99.0,60.0,True,10.4,5.8,NC,Buncombe,True
+37023,,,,,,,False,11.0,7.8,NC,Burke,True
+37025,,,,,,,False,10.4,5.4,NC,Cabarrus,True
+37027,North Carolina,Caldwell,245.0,40.0,97.0,51.0,True,11.1,7.8,NC,Caldwell,True
+37029,,,,,,,False,10.6,5.5,NC,Camden,True
+37031,North Carolina,Carteret,352.0,38.0,105.0,50.0,True,10.6,5.9,NC,Carteret,True
+37033,North Carolina,Caswell,350.0,36.0,97.0,49.0,True,11.3,7.5,NC,Caswell,True
+37035,North Carolina,Catawba,347.0,43.0,115.0,61.0,True,10.7,6.6,NC,Catawba,True
+37037,,,,,,,False,10.3,5.4,NC,Chatham,True
+37039,,,,,,,False,11.0,7.5,NC,Cherokee,True
+37041,,,,,,,False,11.7,7.9,NC,Chowan,True
+37043,,,,,,,False,10.9,6.8,NC,Clay,True
+37045,,,,,,,False,11.6,7.6,NC,Cleveland,True
+37047,,,,,,,False,11.9,8.3,NC,Columbus,True
+37049,,,,,,,False,11.0,6.6,NC,Craven,True
+37051,North Carolina,Cumberland,365.0,48.0,129.0,67.0,True,11.5,6.6,NC,Cumberland,True
+37053,,,,,,,False,10.4,5.5,NC,Currituck,True
+37055,,,,,,,False,10.2,5.1,NC,Dare,True
+37057,North Carolina,Davidson,362.0,47.0,126.0,63.0,True,11.1,7.2,NC,Davidson,True
+37059,,,,,,,False,10.6,6.1,NC,Davie,True
+37061,,,,,,,False,11.2,7.7,NC,Duplin,True
+37063,North Carolina,Durham,361.0,44.0,121.0,63.0,True,10.8,5.0,NC,Durham,True
+37065,North Carolina,Edgecombe,357.0,41.0,99.0,59.0,True,12.6,8.1,NC,Edgecombe,True
+37067,North Carolina,Forsyth,365.0,52.0,154.0,71.0,True,11.1,6.2,NC,Forsyth,True
+37069,,,,,,,False,11.0,6.4,NC,Franklin,True
+37071,,,,,,,False,11.1,6.7,NC,Gaston,True
+37073,,,,,,,False,11.6,7.3,NC,Gates,True
+37075,North Carolina,Graham,242.0,46.0,115.0,67.0,True,11.2,7.1,NC,Graham,True
+37077,North Carolina,Granville,242.0,43.0,105.0,58.0,True,11.3,6.7,NC,Granville,True
+37079,,,,,,,False,11.2,8.6,NC,Greene,True
+37081,North Carolina,Guilford,365.0,50.0,131.0,67.0,True,11.2,6.0,NC,Guilford,True
+37083,,,,,,,False,12.5,9.1,NC,Halifax,True
+37085,,,,,,,False,11.0,6.7,NC,Harnett,True
+37087,North Carolina,Haywood,278.0,45.0,112.0,71.0,True,10.8,6.6,NC,Haywood,True
+37089,,,,,,,False,10.5,6.1,NC,Henderson,True
+37091,,,,,,,False,12.4,8.3,NC,Hertford,True
+37093,,,,,,,False,11.6,6.9,NC,Hoke,True
+37095,North Carolina,Hyde,116.0,26.0,65.0,51.0,True,10.9,8.5,NC,Hyde,True
+37097,,,,,,,False,10.5,5.6,NC,Iredell,True
+37099,,,,,,,False,11.1,7.4,NC,Jackson,True
+37101,North Carolina,Johnston,365.0,44.0,115.0,60.0,True,10.7,6.0,NC,Johnston,True
+37103,,,,,,,False,11.7,8.4,NC,Jones,True
+37105,,,,,,,False,10.9,6.9,NC,Lee,True
+37107,North Carolina,Lenoir,305.0,39.0,105.0,51.0,True,12.3,8.9,NC,Lenoir,True
+37109,North Carolina,Lincoln,244.0,43.0,97.0,58.0,True,10.6,6.2,NC,Lincoln,True
+37111,,,,,,,False,11.0,7.7,NC,McDowell,True
+37113,North Carolina,Macon,361.0,34.0,93.0,46.0,True,10.8,7.2,NC,Macon,True
+37115,,,,,,,False,10.8,6.6,NC,Madison,True
+37117,North Carolina,Martin,244.0,36.0,77.0,47.0,True,12.2,8.0,NC,Martin,True
+37119,North Carolina,Mecklenburg,365.0,51.0,150.0,71.0,True,10.4,5.0,NC,Mecklenburg,True
+37121,North Carolina,Mitchell,353.0,33.0,104.0,55.0,True,10.8,6.8,NC,Mitchell,True
+37123,North Carolina,Montgomery,363.0,48.0,134.0,63.0,True,11.2,7.7,NC,Montgomery,True
+37125,,,,,,,False,10.5,5.4,NC,Moore,True
+37127,,,,,,,False,11.6,6.9,NC,Nash,True
+37129,North Carolina,New Hanover,362.0,44.0,142.0,62.0,True,10.6,5.7,NC,New Hanover,True
+37131,North Carolina,Northampton,365.0,37.0,134.0,60.0,True,12.3,8.0,NC,Northampton,True
+37133,,,,,,,False,10.4,6.6,NC,Onslow,True
+37135,,,,,,,False,10.1,4.8,NC,Orange,True
+37137,,,,,,,False,10.8,6.7,NC,Pamlico,True
+37139,,,,,,,False,11.4,6.3,NC,Pasquotank,True
+37141,,,,,,,False,10.7,6.1,NC,Pender,True
+37143,,,,,,,False,11.4,7.0,NC,Perquimans,True
+37145,North Carolina,Person,244.0,41.0,101.0,50.0,True,11.5,7.3,NC,Person,True
+37147,North Carolina,Pitt,365.0,42.0,118.0,60.0,True,11.5,6.7,NC,Pitt,True
+37149,,,,,,,False,10.8,6.5,NC,Polk,True
+37151,,,,,,,False,10.9,7.7,NC,Randolph,True
+37153,,,,,,,False,12.2,9.1,NC,Richmond,True
+37155,,,,,,,False,13.3,10.3,NC,Robeson,True
+37157,North Carolina,Rockingham,245.0,43.0,108.0,58.0,True,11.4,7.8,NC,Rockingham,True
+37159,North Carolina,Rowan,363.0,47.0,122.0,66.0,True,11.0,7.2,NC,Rowan,True
+37161,,,,,,,False,11.4,8.2,NC,Rutherford,True
+37163,,,,,,,False,11.3,7.8,NC,Sampson,True
+37165,,,,,,,False,12.5,9.6,NC,Scotland,True
+37167,,,,,,,False,11.1,7.3,NC,Stanly,True
+37169,,,,,,,False,11.0,7.3,NC,Stokes,True
+37171,,,,,,,False,11.3,8.1,NC,Surry,True
+37173,North Carolina,Swain,365.0,41.0,115.0,59.0,True,12.3,8.6,NC,Swain,True
+37175,,,,,,,False,10.6,6.1,NC,Transylvania,True
+37177,,,,,,,False,11.2,8.2,NC,Tyrrell,True
+37179,North Carolina,Union,245.0,43.0,101.0,67.0,True,10.2,5.2,NC,Union,True
+37181,,,,,,,False,12.1,7.8,NC,Vance,True
+37183,North Carolina,Wake,365.0,49.0,130.0,66.0,True,10.0,4.4,NC,Wake,True
+37185,,,,,,,False,12.1,8.5,NC,Warren,True
+37187,,,,,,,False,12.6,9.0,NC,Washington,True
+37189,,,,,,,False,10.8,7.3,NC,Watauga,True
+37191,,,,,,,False,11.5,7.5,NC,Wayne,True
+37193,,,,,,,False,11.2,8.2,NC,Wilkes,True
+37195,,,,,,,False,12.0,8.3,NC,Wilson,True
+37197,,,,,,,False,11.0,7.6,NC,Yadkin,True
+37199,North Carolina,Yancey,240.0,45.0,101.0,67.0,True,11.0,7.5,NC,Yancey,True
+38001,,,,,,,False,10.4,6.6,ND,Adams,True
+38003,,,,,,,False,10.1,5.5,ND,Barnes,True
+38005,,,,,,,False,12.5,8.4,ND,Benson,True
+38007,North Dakota,Billings,365.0,39.0,226.0,64.0,True,9.6,5.5,ND,Billings,True
+38009,,,,,,,False,10.3,5.5,ND,Bottineau,True
+38011,,,,,,,False,10.1,5.6,ND,Bowman,True
+38013,North Dakota,Burke,361.0,44.0,287.0,81.0,True,9.9,5.1,ND,Burke,True
+38015,North Dakota,Burleigh,365.0,42.0,272.0,81.0,True,9.9,4.9,ND,Burleigh,True
+38017,North Dakota,Cass,358.0,50.0,175.0,84.0,True,9.8,4.7,ND,Cass,True
+38019,,,,,,,False,10.0,5.2,ND,Cavalier,True
+38021,,,,,,,False,10.3,5.9,ND,Dickey,True
+38023,,,,,,,False,10.4,5.8,ND,Divide,True
+38025,North Dakota,Dunn,365.0,41.0,318.0,69.0,True,10.2,5.6,ND,Dunn,True
+38027,,,,,,,False,10.7,6.7,ND,Eddy,True
+38029,,,,,,,False,10.5,6.3,ND,Emmons,True
+38031,,,,,,,False,10.2,5.5,ND,Foster,True
+38033,,,,,,,False,10.6,6.5,ND,Golden Valley,True
+38035,,,,,,,False,10.4,5.6,ND,Grand Forks,True
+38037,,,,,,,False,10.7,7.2,ND,Grant,True
+38039,,,,,,,False,9.9,5.4,ND,Griggs,True
+38041,,,,,,,False,10.5,5.8,ND,Hettinger,True
+38043,,,,,,,False,10.3,5.9,ND,Kidder,True
+38045,,,,,,,False,10.2,5.8,ND,LaMoure,True
+38047,,,,,,,False,10.5,6.6,ND,Logan,True
+38049,,,,,,,False,10.2,5.9,ND,McHenry,True
+38051,,,,,,,False,10.5,6.7,ND,McIntosh,True
+38053,North Dakota,McKenzie,364.0,39.0,298.0,64.0,True,10.3,5.7,ND,McKenzie,True
+38055,,,,,,,False,10.2,5.3,ND,McLean,True
+38057,North Dakota,Mercer,365.0,41.0,322.0,73.0,True,10.5,6.1,ND,Mercer,True
+38059,,,,,,,False,10.2,5.2,ND,Morton,True
+38061,,,,,,,False,11.2,6.7,ND,Mountrail,True
+38063,,,,,,,False,9.9,5.3,ND,Nelson,True
+38065,North Dakota,Oliver,365.0,42.0,323.0,74.0,True,10.1,5.1,ND,Oliver,True
+38067,,,,,,,False,10.1,5.9,ND,Pembina,True
+38069,,,,,,,False,10.3,5.7,ND,Pierce,True
+38071,,,,,,,False,10.4,6.3,ND,Ramsey,True
+38073,,,,,,,False,10.1,5.9,ND,Ransom,True
+38075,,,,,,,False,10.1,5.4,ND,Renville,True
+38077,,,,,,,False,10.2,5.7,ND,Richland,True
+38079,,,,,,,False,13.8,9.0,ND,Rolette,True
+38081,,,,,,,False,9.9,5.4,ND,Sargent,True
+38083,,,,,,,False,10.4,6.0,ND,Sheridan,True
+38085,,,,,,,False,14.5,12.1,ND,Sioux,True
+38087,,,,,,,False,10.1,6.3,ND,Slope,True
+38089,,,,,,,False,9.9,5.6,ND,Stark,True
+38091,,,,,,,False,10.1,5.9,ND,Steele,True
+38093,,,,,,,False,10.4,6.1,ND,Stutsman,True
+38095,,,,,,,False,10.8,7.0,ND,Towner,True
+38097,,,,,,,False,9.9,5.1,ND,Traill,True
+38099,,,,,,,False,10.1,6.0,ND,Walsh,True
+38101,North Dakota,Ward,365.0,42.0,278.0,80.0,True,10.0,5.1,ND,Ward,True
+38103,,,,,,,False,10.5,6.3,ND,Wells,True
+38105,,,,,,,False,10.2,5.6,ND,Williams,True
+39001,,,,,,,False,11.9,9.8,OH,Adams,True
+39003,Ohio,Allen,365.0,44.0,194.0,67.0,True,11.2,7.7,OH,Allen,True
+39005,,,,,,,False,11.2,7.9,OH,Ashland,True
+39007,Ohio,Ashtabula,245.0,42.0,147.0,64.0,True,11.4,9.0,OH,Ashtabula,True
+39009,Ohio,Athens,244.0,31.0,157.0,54.0,True,11.5,8.3,OH,Athens,True
+39011,,,,,,,False,10.8,6.6,OH,Auglaize,True
+39013,Ohio,Belmont,353.0,31.0,181.0,54.0,True,11.2,7.9,OH,Belmont,True
+39015,,,,,,,False,11.5,8.6,OH,Brown,True
+39017,Ohio,Butler,365.0,56.0,197.0,80.0,True,10.8,6.6,OH,Butler,True
+39019,,,,,,,False,11.2,8.2,OH,Carroll,True
+39021,,,,,,,False,11.1,7.0,OH,Champaign,True
+39023,Ohio,Clark,365.0,50.0,196.0,71.0,True,11.5,8.1,OH,Clark,True
+39025,Ohio,Clermont,358.0,41.0,175.0,64.0,True,10.7,6.4,OH,Clermont,True
+39027,Ohio,Clinton,242.0,44.0,129.0,67.0,True,11.3,7.9,OH,Clinton,True
+39029,Ohio,Columbiana,61.0,11.0,74.0,26.0,True,11.3,8.2,OH,Columbiana,True
+39031,,,,,,,False,11.5,9.1,OH,Coshocton,True
+39033,,,,,,,False,11.2,8.4,OH,Crawford,True
+39035,Ohio,Cuyahoga,365.0,57.0,234.0,83.0,True,11.7,6.6,OH,Cuyahoga,True
+39037,,,,,,,False,11.2,7.9,OH,Darke,True
+39039,,,,,,,False,10.7,6.8,OH,Defiance,True
+39041,Ohio,Delaware,245.0,41.0,108.0,54.0,True,9.5,4.4,OH,Delaware,True
+39043,,,,,,,False,11.1,6.9,OH,Erie,True
+39045,,,,,,,False,10.8,6.2,OH,Fairfield,True
+39047,,,,,,,False,11.4,8.7,OH,Fayette,True
+39049,Ohio,Franklin,365.0,54.0,210.0,77.0,True,11.1,6.2,OH,Franklin,True
+39051,,,,,,,False,10.6,6.7,OH,Fulton,True
+39053,,,,,,,False,11.6,9.1,OH,Gallia,True
+39055,Ohio,Geauga,245.0,41.0,129.0,58.0,True,10.5,5.9,OH,Geauga,True
+39057,Ohio,Greene,244.0,44.0,126.0,67.0,True,10.9,5.8,OH,Greene,True
+39059,,,,,,,False,11.4,8.7,OH,Guernsey,True
+39061,Ohio,Hamilton,365.0,54.0,193.0,77.0,True,11.5,6.4,OH,Hamilton,True
+39063,,,,,,,False,10.7,6.5,OH,Hancock,True
+39065,,,,,,,False,11.2,8.5,OH,Hardin,True
+39067,,,,,,,False,11.5,8.3,OH,Harrison,True
+39069,,,,,,,False,10.8,6.8,OH,Henry,True
+39071,,,,,,,False,11.5,8.6,OH,Highland,True
+39073,,,,,,,False,11.5,8.9,OH,Hocking,True
+39075,,,,,,,False,12.1,9.9,OH,Holmes,True
+39077,,,,,,,False,11.1,7.6,OH,Huron,True
+39079,,,,,,,False,11.5,9.0,OH,Jackson,True
+39081,Ohio,Jefferson,365.0,49.0,229.0,70.0,True,11.9,8.2,OH,Jefferson,True
+39083,Ohio,Knox,245.0,42.0,105.0,61.0,True,11.1,7.2,OH,Knox,True
+39085,Ohio,Lake,365.0,42.0,170.0,77.0,True,10.8,6.1,OH,Lake,True
+39087,Ohio,Lawrence,365.0,46.0,160.0,64.0,True,11.8,8.8,OH,Lawrence,True
+39089,Ohio,Licking,245.0,43.0,97.0,61.0,True,10.9,6.6,OH,Licking,True
+39091,,,,,,,False,11.0,7.5,OH,Logan,True
+39093,Ohio,Lorain,243.0,37.0,90.0,50.0,True,11.0,6.7,OH,Lorain,True
+39095,Ohio,Lucas,365.0,45.0,190.0,79.0,True,11.3,7.6,OH,Lucas,True
+39097,Ohio,Madison,243.0,44.0,105.0,64.0,True,10.6,6.9,OH,Madison,True
+39099,Ohio,Mahoning,365.0,49.0,226.0,73.0,True,11.1,7.6,OH,Mahoning,True
+39101,,,,,,,False,11.0,8.5,OH,Marion,True
+39103,Ohio,Medina,363.0,44.0,285.0,72.0,True,10.6,5.7,OH,Medina,True
+39105,,,,,,,False,11.8,10.4,OH,Meigs,True
+39107,,,,,,,False,10.6,6.5,OH,Mercer,True
+39109,Ohio,Miami,244.0,43.0,112.0,67.0,True,10.9,6.6,OH,Miami,True
+39111,,,,,,,False,11.4,9.0,OH,Monroe,True
+39113,Ohio,Montgomery,363.0,51.0,196.0,71.0,True,11.6,7.1,OH,Montgomery,True
+39115,,,,,,,False,11.6,8.8,OH,Morgan,True
+39117,,,,,,,False,11.2,7.5,OH,Morrow,True
+39119,,,,,,,False,11.6,8.2,OH,Muskingum,True
+39121,Ohio,Noble,352.0,39.0,207.0,54.0,True,10.9,8.3,OH,Noble,True
+39123,,,,,,,False,10.7,6.2,OH,Ottawa,True
+39125,,,,,,,False,11.0,7.5,OH,Paulding,True
+39127,,,,,,,False,11.2,8.5,OH,Perry,True
+39129,,,,,,,False,11.0,7.6,OH,Pickaway,True
+39131,,,,,,,False,11.9,10.5,OH,Pike,True
+39133,Ohio,Portage,241.0,43.0,159.0,71.0,True,10.9,6.8,OH,Portage,True
+39135,Ohio,Preble,358.0,46.0,204.0,69.0,True,11.1,7.3,OH,Preble,True
+39137,,,,,,,False,10.6,6.1,OH,Putnam,True
+39139,,,,,,,False,11.1,8.1,OH,Richland,True
+39141,,,,,,,False,11.6,8.5,OH,Ross,True
+39143,,,,,,,False,10.8,7.2,OH,Sandusky,True
+39145,Ohio,Scioto,365.0,44.0,172.0,64.0,True,11.6,9.8,OH,Scioto,True
+39147,,,,,,,False,10.9,7.3,OH,Seneca,True
+39149,,,,,,,False,11.0,7.5,OH,Shelby,True
+39151,Ohio,Stark,365.0,52.0,283.0,78.0,True,11.3,7.3,OH,Stark,True
+39153,Ohio,Summit,348.0,46.0,230.0,74.0,True,11.3,6.6,OH,Summit,True
+39155,Ohio,Trumbull,364.0,48.0,220.0,76.0,True,11.4,8.2,OH,Trumbull,True
+39157,,,,,,,False,11.3,8.0,OH,Tuscarawas,True
+39159,,,,,,,False,10.3,5.3,OH,Union,True
+39161,,,,,,,False,10.9,7.2,OH,Van Wert,True
+39163,,,,,,,False,11.8,9.4,OH,Vinton,True
+39165,Ohio,Warren,364.0,44.0,183.0,72.0,True,9.9,5.1,OH,Warren,True
+39167,Ohio,Washington,238.0,42.0,100.0,54.0,True,11.0,7.8,OH,Washington,True
+39169,,,,,,,False,11.1,7.4,OH,Wayne,True
+39171,,,,,,,False,11.2,7.8,OH,Williams,True
+39173,Ohio,Wood,241.0,40.0,126.0,61.0,True,10.6,6.2,OH,Wood,True
+39175,,,,,,,False,10.8,6.8,OH,Wyandot,True
+40001,Oklahoma,Adair,365.0,51.0,100.0,65.0,True,13.6,10.3,OK,Adair,True
+40003,,,,,,,False,10.6,7.1,OK,Alfalfa,True
+40005,,,,,,,False,11.8,9.0,OK,Atoka,True
+40007,,,,,,,False,10.6,6.9,OK,Beaver,True
+40009,,,,,,,False,11.2,8.8,OK,Beckham,True
+40011,,,,,,,False,11.4,7.6,OK,Blaine,True
+40013,,,,,,,False,12.3,8.5,OK,Bryan,True
+40015,,,,,,,False,11.5,8.8,OK,Caddo,True
+40017,Oklahoma,Canadian,278.0,45.0,133.0,77.0,True,10.7,5.7,OK,Canadian,True
+40019,Oklahoma,Carter,344.0,48.0,136.0,87.0,True,11.7,7.7,OK,Carter,True
+40021,,,,,,,False,12.8,8.1,OK,Cherokee,True
+40023,,,,,,,False,12.8,9.3,OK,Choctaw,True
+40025,,,,,,,False,10.4,5.9,OK,Cimarron,True
+40027,Oklahoma,Cleveland,355.0,52.0,143.0,74.0,True,11.0,6.2,OK,Cleveland,True
+40029,,,,,,,False,13.1,10.2,OK,Coal,True
+40031,Oklahoma,Comanche,357.0,46.0,126.0,71.0,True,11.3,7.4,OK,Comanche,True
+40033,,,,,,,False,11.9,8.5,OK,Cotton,True
+40035,,,,,,,False,12.5,9.4,OK,Craig,True
+40037,Oklahoma,Creek,249.0,44.0,136.0,64.0,True,11.8,7.6,OK,Creek,True
+40039,,,,,,,False,11.1,7.4,OK,Custer,True
+40041,,,,,,,False,12.5,8.8,OK,Delaware,True
+40043,Oklahoma,Dewey,365.0,46.0,100.0,71.0,True,11.4,7.6,OK,Dewey,True
+40045,,,,,,,False,11.2,7.3,OK,Ellis,True
+40047,,,,,,,False,11.1,7.3,OK,Garfield,True
+40049,,,,,,,False,11.8,8.3,OK,Garvin,True
+40051,,,,,,,False,11.2,6.9,OK,Grady,True
+40053,Oklahoma,Grant,120.0,32.0,89.0,56.0,True,11.3,7.3,OK,Grant,True
+40055,,,,,,,False,10.8,7.5,OK,Greer,True
+40057,,,,,,,False,11.2,8.1,OK,Harmon,True
+40059,,,,,,,False,10.7,7.1,OK,Harper,True
+40061,,,,,,,False,12.4,8.9,OK,Haskell,True
+40063,,,,,,,False,12.0,9.2,OK,Hughes,True
+40065,,,,,,,False,11.1,7.2,OK,Jackson,True
+40067,Oklahoma,Jefferson,231.0,46.0,133.0,74.0,True,11.8,9.3,OK,Jefferson,True
+40069,Oklahoma,Johnston,246.0,46.0,161.0,84.0,True,12.6,9.5,OK,Johnston,True
+40071,Oklahoma,Kay,335.0,49.0,122.0,63.0,True,12.0,8.2,OK,Kay,True
+40073,,,,,,,False,10.8,6.7,OK,Kingfisher,True
+40075,,,,,,,False,11.9,9.1,OK,Kiowa,True
+40077,,,,,,,False,12.9,9.9,OK,Latimer,True
+40079,,,,,,,False,12.3,9.3,OK,Le Flore,True
+40081,,,,,,,False,11.8,8.1,OK,Lincoln,True
+40083,,,,,,,False,11.3,6.4,OK,Logan,True
+40085,,,,,,,False,11.5,7.9,OK,Love,True
+40087,Oklahoma,McClain,246.0,48.0,143.0,87.0,True,11.1,6.3,OK,McClain,True
+40089,,,,,,,False,12.6,9.1,OK,McCurtain,True
+40091,,,,,,,False,12.8,9.6,OK,McIntosh,True
+40093,,,,,,,False,11.2,7.2,OK,Major,True
+40095,,,,,,,False,11.7,8.3,OK,Marshall,True
+40097,Oklahoma,Mayes,285.0,42.0,129.0,51.0,True,12.5,8.5,OK,Mayes,True
+40099,,,,,,,False,11.9,7.7,OK,Murray,True
+40101,,,,,,,False,12.6,9.1,OK,Muskogee,True
+40103,,,,,,,False,11.7,7.2,OK,Noble,True
+40105,Oklahoma,Nowata,336.0,54.0,140.0,74.0,True,12.5,8.4,OK,Nowata,True
+40107,,,,,,,False,12.6,10.4,OK,Okfuskee,True
+40109,Oklahoma,Oklahoma,365.0,53.0,136.0,74.0,True,11.5,6.6,OK,Oklahoma,True
+40111,,,,,,,False,12.8,8.6,OK,Okmulgee,True
+40113,Oklahoma,Osage,296.0,43.0,147.0,67.0,True,12.3,7.4,OK,Osage,True
+40115,Oklahoma,Ottawa,364.0,54.0,162.0,76.0,True,12.7,9.4,OK,Ottawa,True
+40117,,,,,,,False,12.0,8.2,OK,Pawnee,True
+40119,,,,,,,False,11.5,7.6,OK,Payne,True
+40121,Oklahoma,Pittsburg,355.0,49.0,119.0,69.0,True,12.0,8.3,OK,Pittsburg,True
+40123,Oklahoma,Pontotoc,358.0,42.0,93.0,64.0,True,11.9,7.0,OK,Pontotoc,True
+40125,,,,,,,False,12.4,8.0,OK,Pottawatomie,True
+40127,,,,,,,False,12.7,10.1,OK,Pushmataha,True
+40129,,,,,,,False,11.4,7.8,OK,Roger Mills,True
+40131,,,,,,,False,11.4,6.5,OK,Rogers,True
+40133,,,,,,,False,12.8,9.9,OK,Seminole,True
+40135,Oklahoma,Sequoyah,365.0,46.0,84.0,62.0,True,13.0,9.7,OK,Sequoyah,True
+40137,,,,,,,False,11.7,8.0,OK,Stephens,True
+40139,,,,,,,False,10.2,7.0,OK,Texas,True
+40141,,,,,,,False,11.2,7.8,OK,Tillman,True
+40143,Oklahoma,Tulsa,365.0,53.0,197.0,77.0,True,11.3,6.7,OK,Tulsa,True
+40145,,,,,,,False,11.2,6.4,OK,Wagoner,True
+40147,,,,,,,False,11.7,7.4,OK,Washington,True
+40149,,,,,,,False,11.3,7.6,OK,Washita,True
+40151,,,,,,,False,11.1,7.2,OK,Woods,True
+40153,,,,,,,False,10.9,7.3,OK,Woodward,True
+41001,Oregon,Baker,363.0,30.0,83.0,55.0,True,12.2,6.8,OR,Baker,True
+41003,,,,,,,False,11.7,5.7,OR,Benton,True
+41005,Oregon,Clackamas,365.0,34.0,125.0,54.0,True,11.7,5.0,OR,Clackamas,True
+41007,,,,,,,False,12.3,6.4,OR,Clatsop,True
+41009,Oregon,Columbia,365.0,29.0,115.0,50.0,True,12.3,6.4,OR,Columbia,True
+41011,,,,,,,False,12.7,7.3,OR,Coos,True
+41013,Oregon,Crook,365.0,33.0,171.0,63.0,True,12.2,6.2,OR,Crook,True
+41015,,,,,,,False,12.5,6.9,OR,Curry,True
+41017,Oregon,Deschutes,365.0,28.0,413.0,74.0,True,11.7,5.2,OR,Deschutes,True
+41019,,,,,,,False,13.1,7.4,OR,Douglas,True
+41021,,,,,,,False,12.7,7.4,OR,Gilliam,True
+41023,Oregon,Grant,365.0,44.0,110.0,68.0,True,12.6,7.2,OR,Grant,True
+41025,Oregon,Harney,365.0,43.0,117.0,67.0,True,12.9,8.0,OR,Harney,True
+41027,,,,,,,False,11.3,5.4,OR,Hood River,True
+41029,Oregon,Jackson,365.0,45.0,237.0,69.0,True,12.2,6.3,OR,Jackson,True
+41031,Oregon,Jefferson,365.0,31.0,238.0,63.0,True,12.2,6.6,OR,Jefferson,True
+41033,Oregon,Josephine,365.0,44.0,872.0,83.0,True,12.7,7.7,OR,Josephine,True
+41035,Oregon,Klamath,365.0,39.0,181.0,75.0,True,12.7,7.6,OR,Klamath,True
+41037,Oregon,Lake,365.0,28.0,134.0,63.0,True,12.2,7.6,OR,Lake,True
+41039,Oregon,Lane,365.0,49.0,211.0,79.0,True,12.3,6.5,OR,Lane,True
+41041,,,,,,,False,12.7,6.8,OR,Lincoln,True
+41043,Oregon,Linn,365.0,34.0,125.0,62.0,True,12.6,6.8,OR,Linn,True
+41045,,,,,,,False,11.8,7.7,OR,Malheur,True
+41047,Oregon,Marion,365.0,38.0,128.0,65.0,True,12.2,6.4,OR,Marion,True
+41049,,,,,,,False,12.1,7.7,OR,Morrow,True
+41051,Oregon,Multnomah,365.0,38.0,117.0,58.0,True,11.7,5.1,OR,Multnomah,True
+41053,,,,,,,False,12.5,6.1,OR,Polk,True
+41055,,,,,,,False,12.6,7.4,OR,Sherman,True
+41057,,,,,,,False,12.1,6.5,OR,Tillamook,True
+41059,Oregon,Umatilla,365.0,42.0,267.0,61.0,True,12.0,7.0,OR,Umatilla,True
+41061,Oregon,Union,361.0,26.0,95.0,54.0,True,12.4,7.0,OR,Union,True
+41063,Oregon,Wallowa,365.0,25.0,82.0,53.0,True,12.1,5.8,OR,Wallowa,True
+41065,Oregon,Wasco,289.0,27.0,214.0,55.0,True,12.2,7.0,OR,Wasco,True
+41067,Oregon,Washington,365.0,36.0,115.0,59.0,True,11.2,4.7,OR,Washington,True
+41069,,,,,,,False,12.7,7.4,OR,Wheeler,True
+41071,,,,,,,False,11.8,5.9,OR,Yamhill,True
+42001,Pennsylvania,Adams,365.0,50.0,241.0,77.0,True,,,,,False
+42003,Pennsylvania,Allegheny,365.0,56.0,237.0,84.0,True,,,,,False
+42005,Pennsylvania,Armstrong,362.0,44.0,210.0,71.0,True,,,,,False
+42007,Pennsylvania,Beaver,365.0,52.0,235.0,78.0,True,,,,,False
+42011,Pennsylvania,Berks,364.0,48.0,287.0,72.0,True,,,,,False
+42013,Pennsylvania,Blair,358.0,43.0,213.0,67.0,True,,,,,False
+42015,Pennsylvania,Bradford,289.0,40.0,108.0,57.0,True,,,,,False
+42017,Pennsylvania,Bucks,296.0,39.0,200.0,71.0,True,,,,,False
+42021,Pennsylvania,Cambria,363.0,46.0,201.0,67.0,True,,,,,False
+42027,Pennsylvania,Centre,365.0,45.0,199.0,68.0,True,,,,,False
+42029,Pennsylvania,Chester,361.0,45.0,248.0,66.0,True,,,,,False
+42041,Pennsylvania,Cumberland,365.0,44.0,224.0,68.0,True,,,,,False
+42043,Pennsylvania,Dauphin,365.0,52.0,255.0,79.0,True,,,,,False
+42045,Pennsylvania,Delaware,365.0,50.0,271.0,74.0,True,,,,,False
+42047,Pennsylvania,Elk,363.0,35.0,100.0,47.0,True,,,,,False
+42049,Pennsylvania,Erie,365.0,42.0,180.0,64.0,True,,,,,False
+42051,Pennsylvania,Fayette,304.0,44.0,129.0,64.0,True,,,,,False
+42055,Pennsylvania,Franklin,301.0,39.0,133.0,51.0,True,,,,,False
+42059,Pennsylvania,Greene,302.0,44.0,108.0,64.0,True,,,,,False
+42063,Pennsylvania,Indiana,363.0,41.0,220.0,61.0,True,,,,,False
+42069,Pennsylvania,Lackawanna,365.0,44.0,292.0,64.0,True,,,,,False
+42071,Pennsylvania,Lancaster,365.0,58.0,321.0,85.0,True,,,,,False
+42073,Pennsylvania,Lawrence,267.0,34.0,119.0,48.0,True,,,,,False
+42075,Pennsylvania,Lebanon,365.0,47.0,265.0,74.0,True,,,,,False
+42077,Pennsylvania,Lehigh,363.0,43.0,337.0,67.0,True,,,,,False
+42081,Pennsylvania,Lycoming,283.0,38.0,119.0,58.0,True,,,,,False
+42085,Pennsylvania,Mercer,364.0,44.0,196.0,67.0,True,,,,,False
+42089,Pennsylvania,Monroe,294.0,34.0,126.0,48.0,True,,,,,False
+42091,Pennsylvania,Montgomery,365.0,44.0,284.0,67.0,True,,,,,False
+42095,Pennsylvania,Northampton,362.0,46.0,368.0,68.0,True,,,,,False
+42101,Pennsylvania,Philadelphia,365.0,58.0,331.0,84.0,True,,,,,False
+42111,Pennsylvania,Somerset,365.0,35.0,93.0,49.0,True,,,,,False
+42115,Pennsylvania,Susquehanna,152.0,28.0,64.0,53.0,True,,,,,False
+42117,Pennsylvania,Tioga,304.0,41.0,100.0,59.0,True,,,,,False
+42125,Pennsylvania,Washington,365.0,51.0,212.0,72.0,True,,,,,False
+42129,Pennsylvania,Westmoreland,298.0,42.0,133.0,60.0,True,,,,,False
+42131,Pennsylvania,Wyoming,146.0,27.0,68.0,54.0,True,,,,,False
+42133,Pennsylvania,York,356.0,48.0,256.0,72.0,True,,,,,False
+44001,,,,,,,False,10.8,4.8,RI,Bristol,True
+44003,Rhode Island,Kent,357.0,40.0,126.0,55.0,True,11.8,5.7,RI,Kent,True
+44005,,,,,,,False,10.8,4.9,RI,Newport,True
+44007,Rhode Island,Providence,365.0,46.0,125.0,63.0,True,12.4,6.0,RI,Providence,True
+44009,Rhode Island,Washington,355.0,40.0,140.0,58.0,True,10.9,5.1,RI,Washington,True
+45001,,,,,,,False,10.4,7.9,SC,Abbeville,True
+45003,South Carolina,Aiken,275.0,39.0,80.0,49.0,True,9.9,6.1,SC,Aiken,True
+45005,,,,,,,False,11.0,8.8,SC,Allendale,True
+45007,South Carolina,Anderson,270.0,42.0,97.0,58.0,True,10.2,7.0,SC,Anderson,True
+45009,,,,,,,False,11.1,8.0,SC,Bamberg,True
+45011,,,,,,,False,11.1,9.6,SC,Barnwell,True
+45013,,,,,,,False,8.8,5.1,SC,Beaufort,True
+45015,South Carolina,Berkeley,273.0,36.0,105.0,48.0,True,9.5,5.7,SC,Berkeley,True
+45017,,,,,,,False,10.3,6.7,SC,Calhoun,True
+45019,South Carolina,Charleston,365.0,47.0,93.0,64.0,True,8.8,5.0,SC,Charleston,True
+45021,,,,,,,False,10.3,8.2,SC,Cherokee,True
+45023,,,,,,,False,10.8,8.2,SC,Chester,True
+45025,South Carolina,Chesterfield,365.0,42.0,134.0,62.0,True,10.5,8.5,SC,Chesterfield,True
+45027,,,,,,,False,10.8,8.2,SC,Clarendon,True
+45029,,,,,,,False,10.9,8.2,SC,Colleton,True
+45031,South Carolina,Darlington,271.0,40.0,93.0,51.0,True,10.8,7.9,SC,Darlington,True
+45033,,,,,,,False,11.5,10.2,SC,Dillon,True
+45035,,,,,,,False,9.6,5.8,SC,Dorchester,True
+45037,South Carolina,Edgefield,365.0,44.0,96.0,64.0,True,9.8,7.4,SC,Edgefield,True
+45039,,,,,,,False,10.9,7.8,SC,Fairfield,True
+45041,South Carolina,Florence,364.0,49.0,104.0,64.0,True,10.3,7.0,SC,Florence,True
+45043,,,,,,,False,9.6,6.0,SC,Georgetown,True
+45045,South Carolina,Greenville,365.0,52.0,126.0,70.0,True,9.5,5.7,SC,Greenville,True
+45047,,,,,,,False,10.2,7.3,SC,Greenwood,True
+45049,,,,,,,False,10.6,8.6,SC,Hampton,True
+45051,South Carolina,Horry,332.0,43.0,100.0,62.0,True,9.3,6.7,SC,Horry,True
+45053,,,,,,,False,9.7,6.7,SC,Jasper,True
+45055,,,,,,,False,9.9,6.6,SC,Kershaw,True
+45057,,,,,,,False,9.6,6.1,SC,Lancaster,True
+45059,,,,,,,False,10.2,7.6,SC,Laurens,True
+45061,,,,,,,False,11.1,8.7,SC,Lee,True
+45063,South Carolina,Lexington,149.0,41.0,77.0,58.0,True,9.3,5.9,SC,Lexington,True
+45065,,,,,,,False,10.0,7.0,SC,McCormick,True
+45067,,,,,,,False,11.4,9.6,SC,Marion,True
+45069,,,,,,,False,11.0,9.7,SC,Marlboro,True
+45071,,,,,,,False,9.9,7.1,SC,Newberry,True
+45073,,,,,,,False,10.0,7.5,SC,Oconee,True
+45075,,,,,,,False,11.1,8.0,SC,Orangeburg,True
+45077,,,,,,,False,9.8,7.3,SC,Pickens,True
+45079,South Carolina,Richland,365.0,47.0,123.0,64.0,True,9.9,5.7,SC,Richland,True
+45081,,,,,,,False,9.8,7.6,SC,Saluda,True
+45083,South Carolina,Spartanburg,365.0,51.0,136.0,71.0,True,9.7,6.7,SC,Spartanburg,True
+45085,,,,,,,False,10.6,7.0,SC,Sumter,True
+45087,,,,,,,False,11.0,9.6,SC,Union,True
+45089,,,,,,,False,11.0,8.1,SC,Williamsburg,True
+45091,South Carolina,York,365.0,47.0,115.0,67.0,True,9.3,5.3,SC,York,True
+46003,,,,,,,False,10.1,6.0,SD,Aurora,True
+46005,,,,,,,False,10.0,6.8,SD,Beadle,True
+46007,,,,,,,False,13.3,10.5,SD,Bennett,True
+46009,,,,,,,False,9.9,6.7,SD,Bon Homme,True
+46011,South Dakota,Brookings,365.0,42.0,162.0,71.0,True,9.7,5.5,SD,Brookings,True
+46013,South Dakota,Brown,365.0,29.0,166.0,60.0,True,9.8,5.4,SD,Brown,True
+46015,,,,,,,False,10.8,6.4,SD,Brule,True
+46017,,,,,,,False,13.8,10.5,SD,Buffalo,True
+46019,,,,,,,False,10.6,6.6,SD,Butte,True
+46021,,,,,,,False,9.9,5.5,SD,Campbell,True
+46023,,,,,,,False,11.5,7.6,SD,Charles Mix,True
+46025,,,,,,,False,10.0,6.3,SD,Clark,True
+46027,South Dakota,Clay,365.0,43.0,173.0,80.0,True,10.3,6.2,SD,Clay,True
+46029,South Dakota,Codington,363.0,45.0,164.0,77.0,True,10.4,6.1,SD,Codington,True
+46031,,,,,,,False,13.4,11.4,SD,Corson,True
+46033,South Dakota,Custer,365.0,43.0,167.0,58.0,True,10.1,5.2,SD,Custer,True
+46035,,,,,,,False,10.2,6.2,SD,Davison,True
+46037,,,,,,,False,10.7,6.6,SD,Day,True
+46039,,,,,,,False,10.0,5.7,SD,Deuel,True
+46041,,,,,,,False,13.6,10.2,SD,Dewey,True
+46043,,,,,,,False,10.4,6.5,SD,Douglas,True
+46045,,,,,,,False,10.2,5.7,SD,Edmunds,True
+46047,,,,,,,False,10.7,7.1,SD,Fall River,True
+46049,,,,,,,False,10.6,7.3,SD,Faulk,True
+46051,,,,,,,False,9.9,5.7,SD,Grant,True
+46053,,,,,,,False,10.6,6.6,SD,Gregory,True
+46055,,,,,,,False,10.5,6.3,SD,Haakon,True
+46057,,,,,,,False,9.9,5.5,SD,Hamlin,True
+46059,,,,,,,False,9.9,5.3,SD,Hand,True
+46061,,,,,,,False,10.4,6.3,SD,Hanson,True
+46063,,,,,,,False,9.8,4.9,SD,Harding,True
+46065,South Dakota,Hughes,359.0,14.0,223.0,52.0,True,10.3,5.0,SD,Hughes,True
+46067,,,,,,,False,10.2,5.7,SD,Hutchinson,True
+46069,,,,,,,False,10.9,6.4,SD,Hyde,True
+46071,South Dakota,Jackson,365.0,43.0,233.0,64.0,True,13.3,11.3,SD,Jackson,True
+46073,,,,,,,False,9.9,5.7,SD,Jerauld,True
+46075,,,,,,,False,10.6,6.3,SD,Jones,True
+46077,,,,,,,False,10.1,5.7,SD,Kingsbury,True
+46079,,,,,,,False,9.9,5.3,SD,Lake,True
+46081,,,,,,,False,10.1,5.6,SD,Lawrence,True
+46083,,,,,,,False,9.5,4.5,SD,Lincoln,True
+46085,,,,,,,False,11.5,7.9,SD,Lyman,True
+46087,,,,,,,False,9.8,5.3,SD,McCook,True
+46089,,,,,,,False,10.4,6.8,SD,McPherson,True
+46091,,,,,,,False,10.0,5.6,SD,Marshall,True
+46093,South Dakota,Meade,363.0,43.0,101.0,51.0,True,10.4,5.5,SD,Meade,True
+46095,,,,,,,False,13.3,12.0,SD,Mellette,True
+46097,,,,,,,False,10.1,6.2,SD,Miner,True
+46099,South Dakota,Minnehaha,365.0,44.0,181.0,93.0,True,9.7,5.3,SD,Minnehaha,True
+46101,,,,,,,False,10.2,5.3,SD,Moody,True
+46102,,,,,,,False,14.9,15.0,SD,Oglala Lakota,True
+46103,South Dakota,Pennington,365.0,45.0,172.0,70.0,True,10.3,5.6,SD,Pennington,True
+46105,,,,,,,False,10.5,6.4,SD,Perkins,True
+46107,,,,,,,False,10.1,5.3,SD,Potter,True
+46109,,,,,,,False,11.7,7.7,SD,Roberts,True
+46111,,,,,,,False,10.1,6.1,SD,Sanborn,True
+46115,,,,,,,False,10.3,6.0,SD,Spink,True
+46117,,,,,,,False,10.0,4.9,SD,Stanley,True
+46119,,,,,,,False,9.8,5.2,SD,Sully,True
+46121,,,,,,,False,15.1,14.3,SD,Todd,True
+46123,,,,,,,False,11.1,7.7,SD,Tripp,True
+46125,,,,,,,False,10.1,5.7,SD,Turner,True
+46127,,,,,,,False,9.7,4.9,SD,Union,True
+46129,,,,,,,False,10.5,6.1,SD,Walworth,True
+46135,,,,,,,False,9.9,5.4,SD,Yankton,True
+46137,,,,,,,False,13.7,10.8,SD,Ziebach,True
+47001,Tennessee,Anderson,237.0,41.0,105.0,51.0,True,10.8,7.9,TN,Anderson,True
+47003,,,,,,,False,10.9,8.4,TN,Bedford,True
+47005,,,,,,,False,11.3,9.8,TN,Benton,True
+47007,,,,,,,False,11.1,11.0,TN,Bledsoe,True
+47009,Tennessee,Blount,365.0,46.0,137.0,67.0,True,10.6,7.3,TN,Blount,True
+47011,,,,,,,False,10.9,7.8,TN,Bradley,True
+47013,,,,,,,False,11.5,10.3,TN,Campbell,True
+47015,,,,,,,False,11.2,9.0,TN,Cannon,True
+47017,,,,,,,False,11.3,8.8,TN,Carroll,True
+47019,,,,,,,False,11.5,9.4,TN,Carter,True
+47021,,,,,,,False,10.7,7.1,TN,Cheatham,True
+47023,,,,,,,False,11.5,8.9,TN,Chester,True
+47025,Tennessee,Claiborne,351.0,38.0,105.0,49.0,True,11.4,9.5,TN,Claiborne,True
+47027,,,,,,,False,11.5,10.5,TN,Clay,True
+47029,,,,,,,False,11.6,10.7,TN,Cocke,True
+47031,,,,,,,False,11.2,8.5,TN,Coffee,True
+47033,,,,,,,False,11.2,8.4,TN,Crockett,True
+47035,,,,,,,False,11.2,8.9,TN,Cumberland,True
+47037,Tennessee,Davidson,365.0,53.0,133.0,68.0,True,10.6,6.3,TN,Davidson,True
+47039,,,,,,,False,11.5,10.7,TN,Decatur,True
+47041,Tennessee,DeKalb,352.0,37.0,90.0,47.0,True,11.2,9.9,TN,DeKalb,True
+47043,,,,,,,False,10.9,7.4,TN,Dickson,True
+47045,Tennessee,Dyer,360.0,39.0,81.0,59.0,True,11.5,8.8,TN,Dyer,True
+47047,,,,,,,False,11.1,6.9,TN,Fayette,True
+47049,,,,,,,False,11.5,10.4,TN,Fentress,True
+47051,,,,,,,False,11.1,8.0,TN,Franklin,True
+47053,,,,,,,False,11.4,8.5,TN,Gibson,True
+47055,,,,,,,False,11.5,8.5,TN,Giles,True
+47057,,,,,,,False,11.2,9.3,TN,Grainger,True
+47059,,,,,,,False,11.2,9.1,TN,Greene,True
+47061,,,,,,,False,11.7,10.8,TN,Grundy,True
+47063,,,,,,,False,11.1,9.1,TN,Hamblen,True
+47065,Tennessee,Hamilton,365.0,51.0,137.0,71.0,True,11.1,6.7,TN,Hamilton,True
+47067,,,,,,,False,12.3,14.1,TN,Hancock,True
+47069,,,,,,,False,11.4,9.2,TN,Hardeman,True
+47071,,,,,,,False,11.5,10.1,TN,Hardin,True
+47073,,,,,,,False,11.2,9.4,TN,Hawkins,True
+47075,,,,,,,False,12.5,9.7,TN,Haywood,True
+47077,,,,,,,False,11.3,9.1,TN,Henderson,True
+47079,,,,,,,False,11.4,9.3,TN,Henry,True
+47081,,,,,,,False,11.0,8.8,TN,Hickman,True
+47083,,,,,,,False,11.2,8.6,TN,Houston,True
+47085,,,,,,,False,11.2,9.0,TN,Humphreys,True
+47087,,,,,,,False,11.4,10.2,TN,Jackson,True
+47089,Tennessee,Jefferson,241.0,42.0,112.0,54.0,True,11.0,7.9,TN,Jefferson,True
+47091,,,,,,,False,11.3,10.5,TN,Johnson,True
+47093,Tennessee,Knox,365.0,52.0,149.0,68.0,True,10.6,6.8,TN,Knox,True
+47095,,,,,,,False,11.6,13.4,TN,Lake,True
+47097,,,,,,,False,11.8,10.0,TN,Lauderdale,True
+47099,Tennessee,Lawrence,359.0,41.0,98.0,60.0,True,11.3,9.6,TN,Lawrence,True
+47101,,,,,,,False,11.3,9.1,TN,Lewis,True
+47103,,,,,,,False,11.0,8.1,TN,Lincoln,True
+47105,Tennessee,Loudon,361.0,42.0,107.0,60.0,True,10.5,7.2,TN,Loudon,True
+47107,Tennessee,McMinn,355.0,39.0,114.0,61.0,True,11.2,8.6,TN,McMinn,True
+47109,,,,,,,False,11.5,9.7,TN,McNairy,True
+47111,,,,,,,False,11.3,9.6,TN,Macon,True
+47113,Tennessee,Madison,357.0,43.0,87.0,61.0,True,11.6,7.9,TN,Madison,True
+47115,,,,,,,False,11.5,9.6,TN,Marion,True
+47117,,,,,,,False,11.0,7.9,TN,Marshall,True
+47119,Tennessee,Maury,358.0,36.0,96.0,58.0,True,10.7,6.8,TN,Maury,True
+47121,,,,,,,False,11.3,9.5,TN,Meigs,True
+47123,,,,,,,False,11.4,9.4,TN,Monroe,True
+47125,Tennessee,Montgomery,351.0,36.0,105.0,58.0,True,10.7,6.5,TN,Montgomery,True
+47127,,,,,,,False,10.9,8.1,TN,Moore,True
+47129,,,,,,,False,11.0,9.5,TN,Morgan,True
+47131,,,,,,,False,11.4,9.3,TN,Obion,True
+47133,,,,,,,False,11.5,10.1,TN,Overton,True
+47135,,,,,,,False,11.5,10.4,TN,Perry,True
+47137,,,,,,,False,11.6,11.1,TN,Pickett,True
+47139,,,,,,,False,11.3,8.9,TN,Polk,True
+47141,Tennessee,Putnam,356.0,38.0,109.0,58.0,True,10.9,8.4,TN,Putnam,True
+47143,,,,,,,False,11.2,9.6,TN,Rhea,True
+47145,Tennessee,Roane,357.0,36.0,106.0,57.0,True,11.0,8.2,TN,Roane,True
+47147,,,,,,,False,10.8,7.3,TN,Robertson,True
+47149,,,,,,,False,10.6,6.3,TN,Rutherford,True
+47151,,,,,,,False,11.9,12.0,TN,Scott,True
+47153,,,,,,,False,11.4,10.4,TN,Sequatchie,True
+47155,Tennessee,Sevier,268.0,45.0,115.0,64.0,True,10.8,8.2,TN,Sevier,True
+47157,Tennessee,Shelby,365.0,52.0,140.0,74.0,True,11.7,7.3,TN,Shelby,True
+47159,,,,,,,False,11.1,8.3,TN,Smith,True
+47161,,,,,,,False,10.8,7.9,TN,Stewart,True
+47163,Tennessee,Sullivan,363.0,42.0,118.0,62.0,True,11.3,8.3,TN,Sullivan,True
+47165,Tennessee,Sumner,353.0,45.0,133.0,64.0,True,10.7,6.5,TN,Sumner,True
+47167,,,,,,,False,11.3,7.8,TN,Tipton,True
+47169,,,,,,,False,10.6,8.4,TN,Trousdale,True
+47171,,,,,,,False,11.1,9.6,TN,Unicoi,True
+47173,,,,,,,False,11.2,9.0,TN,Union,True
+47175,,,,,,,False,11.2,9.2,TN,Van Buren,True
+47177,,,,,,,False,11.2,9.3,TN,Warren,True
+47179,,,,,,,False,10.9,7.8,TN,Washington,True
+47181,,,,,,,False,11.0,9.9,TN,Wayne,True
+47183,,,,,,,False,11.3,9.3,TN,Weakley,True
+47185,,,,,,,False,11.4,9.8,TN,White,True
+47187,Tennessee,Williamson,244.0,43.0,122.0,61.0,True,9.8,4.5,TN,Williamson,True
+47189,Tennessee,Wilson,244.0,42.0,126.0,54.0,True,10.4,6.0,TN,Wilson,True
+48001,,,,,,,False,9.9,7.3,TX,Anderson,True
+48003,,,,,,,False,9.5,6.2,TX,Andrews,True
+48005,,,,,,,False,11.1,7.7,TX,Angelina,True
+48007,,,,,,,False,10.0,6.5,TX,Aransas,True
+48009,,,,,,,False,10.3,6.4,TX,Archer,True
+48011,,,,,,,False,10.1,5.6,TX,Armstrong,True
+48013,Texas,Atascosa,330.0,42.0,86.0,64.0,True,9.2,5.8,TX,Atascosa,True
+48015,,,,,,,False,10.1,6.6,TX,Austin,True
+48017,,,,,,,False,9.5,6.4,TX,Bailey,True
+48019,,,,,,,False,10.2,6.3,TX,Bandera,True
+48021,,,,,,,False,9.5,6.1,TX,Bastrop,True
+48023,,,,,,,False,10.6,7.7,TX,Baylor,True
+48025,,,,,,,False,8.7,5.9,TX,Bee,True
+48027,Texas,Bell,365.0,44.0,133.0,74.0,True,10.7,6.0,TX,Bell,True
+48029,Texas,Bexar,365.0,52.0,309.0,79.0,True,9.0,5.0,TX,Bexar,True
+48031,,,,,,,False,9.6,5.1,TX,Blanco,True
+48033,,,,,,,False,9.9,5.5,TX,Borden,True
+48035,,,,,,,False,10.2,6.5,TX,Bosque,True
+48037,Texas,Bowie,321.0,53.0,107.0,65.0,True,10.9,7.1,TX,Bowie,True
+48039,Texas,Brazoria,365.0,36.0,156.0,67.0,True,9.3,4.8,TX,Brazoria,True
+48041,Texas,Brazos,348.0,39.0,79.0,60.0,True,9.8,6.3,TX,Brazos,True
+48043,Texas,Brewster,359.0,43.0,101.0,58.0,True,9.0,4.5,TX,Brewster,True
+48045,,,,,,,False,10.4,7.9,TX,Briscoe,True
+48047,,,,,,,False,8.9,6.5,TX,Brooks,True
+48049,,,,,,,False,10.2,7.0,TX,Brown,True
+48051,,,,,,,False,10.2,6.1,TX,Burleson,True
+48053,,,,,,,False,9.9,5.9,TX,Burnet,True
+48055,,,,,,,False,9.4,6.2,TX,Caldwell,True
+48057,,,,,,,False,9.3,5.6,TX,Calhoun,True
+48059,,,,,,,False,10.3,6.5,TX,Callahan,True
+48061,Texas,Cameron,365.0,54.0,141.0,77.0,True,8.7,5.9,TX,Cameron,True
+48063,,,,,,,False,10.8,8.0,TX,Camp,True
+48065,,,,,,,False,10.0,5.6,TX,Carson,True
+48067,,,,,,,False,11.1,7.8,TX,Cass,True
+48069,,,,,,,False,9.1,5.8,TX,Castro,True
+48071,,,,,,,False,9.9,5.7,TX,Chambers,True
+48073,,,,,,,False,10.5,7.6,TX,Cherokee,True
+48075,,,,,,,False,9.6,6.7,TX,Childress,True
+48077,,,,,,,False,10.3,6.3,TX,Clay,True
+48079,,,,,,,False,10.2,8.8,TX,Cochran,True
+48081,,,,,,,False,10.3,7.2,TX,Coke,True
+48083,,,,,,,False,10.3,7.0,TX,Coleman,True
+48085,Texas,Collin,356.0,41.0,154.0,80.0,True,8.8,4.0,TX,Collin,True
+48087,,,,,,,False,10.5,7.6,TX,Collingsworth,True
+48089,,,,,,,False,9.9,6.1,TX,Colorado,True
+48091,,,,,,,False,9.4,4.6,TX,Comal,True
+48093,,,,,,,False,10.0,6.6,TX,Comanche,True
+48095,,,,,,,False,9.1,6.7,TX,Concho,True
+48097,,,,,,,False,10.2,6.5,TX,Cooke,True
+48099,,,,,,,False,10.4,6.2,TX,Coryell,True
+48101,,,,,,,False,10.7,8.2,TX,Cottle,True
+48103,,,,,,,False,9.1,6.0,TX,Crane,True
+48105,,,,,,,False,9.4,5.9,TX,Crockett,True
+48107,,,,,,,False,9.8,7.2,TX,Crosby,True
+48109,Texas,Culberson,107.0,20.0,89.0,44.0,True,9.3,6.8,TX,Culberson,True
+48111,,,,,,,False,9.6,7.3,TX,Dallam,True
+48113,Texas,Dallas,365.0,55.0,172.0,84.0,True,9.7,5.5,TX,Dallas,True
+48115,,,,,,,False,9.4,7.5,TX,Dawson,True
+48117,,,,,,,False,9.4,6.9,TX,Deaf Smith,True
+48119,,,,,,,False,10.7,7.0,TX,Delta,True
+48121,Texas,Denton,365.0,49.0,177.0,93.0,True,9.3,4.2,TX,Denton,True
+48123,,,,,,,False,9.8,6.9,TX,DeWitt,True
+48125,,,,,,,False,10.0,7.1,TX,Dickens,True
+48127,,,,,,,False,9.5,8.6,TX,Dimmit,True
+48129,,,,,,,False,10.6,7.0,TX,Donley,True
+48131,,,,,,,False,9.0,6.3,TX,Duval,True
+48133,,,,,,,False,10.4,7.4,TX,Eastland,True
+48135,Texas,Ector,355.0,33.0,84.0,56.0,True,9.2,5.9,TX,Ector,True
+48137,,,,,,,False,9.6,6.8,TX,Edwards,True
+48139,Texas,Ellis,348.0,36.0,112.0,61.0,True,10.0,5.3,TX,Ellis,True
+48141,Texas,El Paso,365.0,64.0,155.0,90.0,True,8.6,4.8,TX,El Paso,True
+48143,,,,,,,False,10.2,6.6,TX,Erath,True
+48145,,,,,,,False,11.0,7.8,TX,Falls,True
+48147,,,,,,,False,10.4,7.3,TX,Fannin,True
+48149,,,,,,,False,9.8,5.6,TX,Fayette,True
+48151,,,,,,,False,9.9,5.8,TX,Fisher,True
+48153,,,,,,,False,9.6,6.9,TX,Floyd,True
+48155,,,,,,,False,11.1,8.8,TX,Foard,True
+48157,,,,,,,False,8.9,3.9,TX,Fort Bend,True
+48159,,,,,,,False,10.2,5.9,TX,Franklin,True
+48161,,,,,,,False,10.3,7.0,TX,Freestone,True
+48163,,,,,,,False,8.6,6.2,TX,Frio,True
+48165,,,,,,,False,10.1,6.9,TX,Gaines,True
+48167,Texas,Galveston,362.0,51.0,159.0,74.0,True,9.8,5.3,TX,Galveston,True
+48169,,,,,,,False,9.3,7.2,TX,Garza,True
+48171,,,,,,,False,9.6,5.3,TX,Gillespie,True
+48173,,,,,,,False,9.1,4.7,TX,Glasscock,True
+48175,,,,,,,False,10.0,6.3,TX,Goliad,True
+48177,,,,,,,False,9.9,7.0,TX,Gonzales,True
+48179,,,,,,,False,9.9,7.2,TX,Gray,True
+48181,,,,,,,False,10.4,6.3,TX,Grayson,True
+48183,Texas,Gregg,365.0,35.0,151.0,67.0,True,10.7,6.9,TX,Gregg,True
+48185,,,,,,,False,10.1,6.9,TX,Grimes,True
+48187,,,,,,,False,9.5,5.0,TX,Guadalupe,True
+48189,,,,,,,False,9.5,7.0,TX,Hale,True
+48191,,,,,,,False,10.1,7.3,TX,Hall,True
+48193,,,,,,,False,10.2,7.1,TX,Hamilton,True
+48195,,,,,,,False,9.6,6.4,TX,Hansford,True
+48197,,,,,,,False,10.5,7.2,TX,Hardeman,True
+48199,,,,,,,False,10.6,6.8,TX,Hardin,True
+48201,Texas,Harris,365.0,64.0,205.0,121.0,True,9.2,5.5,TX,Harris,True
+48203,Texas,Harrison,359.0,47.0,111.0,65.0,True,10.8,6.9,TX,Harrison,True
+48205,,,,,,,False,9.1,5.6,TX,Hartley,True
+48207,,,,,,,False,10.1,7.4,TX,Haskell,True
+48209,,,,,,,False,9.3,5.0,TX,Hays,True
+48211,,,,,,,False,9.5,5.1,TX,Hemphill,True
+48213,,,,,,,False,10.6,7.2,TX,Henderson,True
+48215,Texas,Hidalgo,357.0,44.0,95.0,68.0,True,8.7,6.0,TX,Hidalgo,True
+48217,,,,,,,False,10.3,6.8,TX,Hill,True
+48219,,,,,,,False,9.7,6.4,TX,Hockley,True
+48221,Texas,Hood,361.0,39.0,143.0,74.0,True,9.9,5.5,TX,Hood,True
+48223,,,,,,,False,10.5,7.0,TX,Hopkins,True
+48225,,,,,,,False,10.7,7.9,TX,Houston,True
+48227,,,,,,,False,9.5,6.3,TX,Howard,True
+48229,,,,,,,False,8.9,7.9,TX,Hudspeth,True
+48231,Texas,Hunt,359.0,37.0,119.0,54.0,True,10.3,6.7,TX,Hunt,True
+48233,,,,,,,False,10.2,6.4,TX,Hutchinson,True
+48235,,,,,,,False,9.8,5.6,TX,Irion,True
+48237,,,,,,,False,10.2,7.8,TX,Jack,True
+48239,,,,,,,False,10.0,6.7,TX,Jackson,True
+48241,,,,,,,False,11.2,8.6,TX,Jasper,True
+48243,,,,,,,False,10.1,7.0,TX,Jeff Davis,True
+48245,Texas,Jefferson,365.0,54.0,154.0,77.0,True,10.6,7.0,TX,Jefferson,True
+48247,,,,,,,False,9.2,7.7,TX,Jim Hogg,True
+48249,,,,,,,False,9.1,6.1,TX,Jim Wells,True
+48251,Texas,Johnson,362.0,38.0,126.0,74.0,True,10.2,6.2,TX,Johnson,True
+48253,,,,,,,False,9.5,7.3,TX,Jones,True
+48255,Texas,Karnes,357.0,7.0,29.0,16.0,True,9.2,6.9,TX,Karnes,True
+48257,Texas,Kaufman,364.0,46.0,159.0,71.0,True,10.4,5.9,TX,Kaufman,True
+48259,,,,,,,False,9.3,4.4,TX,Kendall,True
+48261,,,,,,,False,9.4,6.0,TX,Kenedy,True
+48263,,,,,,,False,9.8,5.1,TX,Kent,True
+48265,,,,,,,False,9.8,6.0,TX,Kerr,True
+48267,,,,,,,False,10.2,7.1,TX,Kimble,True
+48269,,,,,,,False,10.6,7.9,TX,King,True
+48271,,,,,,,False,8.8,5.8,TX,Kinney,True
+48273,Texas,Kleberg,329.0,44.0,89.0,66.0,True,9.1,5.8,TX,Kleberg,True
+48275,,,,,,,False,10.2,7.0,TX,Knox,True
+48277,,,,,,,False,11.1,7.7,TX,Lamar,True
+48279,,,,,,,False,9.6,6.7,TX,Lamb,True
+48281,,,,,,,False,10.2,6.3,TX,Lampasas,True
+48283,,,,,,,False,8.9,7.0,TX,La Salle,True
+48285,,,,,,,False,10.3,6.6,TX,Lavaca,True
+48287,,,,,,,False,10.3,7.3,TX,Lee,True
+48289,,,,,,,False,10.5,7.2,TX,Leon,True
+48291,,,,,,,False,10.5,7.9,TX,Liberty,True
+48293,,,,,,,False,10.6,7.5,TX,Limestone,True
+48295,,,,,,,False,9.8,6.6,TX,Lipscomb,True
+48297,,,,,,,False,9.7,7.4,TX,Live Oak,True
+48299,,,,,,,False,10.1,6.2,TX,Llano,True
+48301,,,,,,,False,,,TX,Loving,True
+48303,Texas,Lubbock,364.0,25.0,161.0,52.0,True,9.7,6.0,TX,Lubbock,True
+48305,,,,,,,False,9.9,7.1,TX,Lynn,True
+48307,,,,,,,False,10.1,6.9,TX,McCulloch,True
+48309,Texas,McLennan,365.0,52.0,129.0,75.0,True,10.4,6.5,TX,McLennan,True
+48311,,,,,,,False,9.7,7.2,TX,McMullen,True
+48313,,,,,,,False,10.1,7.4,TX,Madison,True
+48315,,,,,,,False,11.3,8.1,TX,Marion,True
+48317,,,,,,,False,9.6,5.7,TX,Martin,True
+48319,,,,,,,False,9.7,5.6,TX,Mason,True
+48321,,,,,,,False,10.0,6.9,TX,Matagorda,True
+48323,Texas,Maverick,330.0,34.0,101.0,63.0,True,8.9,5.7,TX,Maverick,True
+48325,,,,,,,False,9.2,5.3,TX,Medina,True
+48327,,,,,,,False,10.0,6.6,TX,Menard,True
+48329,,,,,,,False,9.4,5.1,TX,Midland,True
+48331,,,,,,,False,10.2,6.8,TX,Milam,True
+48333,,,,,,,False,9.9,6.0,TX,Mills,True
+48335,,,,,,,False,9.3,7.0,TX,Mitchell,True
+48337,,,,,,,False,10.5,7.0,TX,Montague,True
+48339,Texas,Montgomery,364.0,53.0,122.0,75.0,True,9.5,5.1,TX,Montgomery,True
+48341,,,,,,,False,9.4,6.7,TX,Moore,True
+48343,,,,,,,False,11.2,7.5,TX,Morris,True
+48345,,,,,,,False,10.2,6.5,TX,Motley,True
+48347,,,,,,,False,10.9,7.7,TX,Nacogdoches,True
+48349,Texas,Navarro,364.0,46.0,100.0,69.0,True,10.6,7.6,TX,Navarro,True
+48351,,,,,,,False,11.6,10.1,TX,Newton,True
+48353,,,,,,,False,10.2,7.9,TX,Nolan,True
+48355,Texas,Nueces,365.0,48.0,101.0,71.0,True,9.3,5.5,TX,Nueces,True
+48357,,,,,,,False,9.5,6.8,TX,Ochiltree,True
+48359,,,,,,,False,10.2,6.5,TX,Oldham,True
+48361,Texas,Orange,365.0,46.0,101.0,63.0,True,10.6,6.9,TX,Orange,True
+48363,,,,,,,False,10.4,7.4,TX,Palo Pinto,True
+48365,,,,,,,False,10.8,6.9,TX,Panola,True
+48367,Texas,Parker,358.0,39.0,140.0,61.0,True,10.0,5.5,TX,Parker,True
+48369,,,,,,,False,9.1,5.7,TX,Parmer,True
+48371,,,,,,,False,8.7,6.2,TX,Pecos,True
+48373,Texas,Polk,356.0,37.0,100.0,50.0,True,10.6,8.0,TX,Polk,True
+48375,Texas,Potter,360.0,26.0,125.0,52.0,True,10.1,7.7,TX,Potter,True
+48377,,,,,,,False,9.2,6.7,TX,Presidio,True
+48379,,,,,,,False,10.3,6.5,TX,Rains,True
+48381,Texas,Randall,363.0,44.0,112.0,71.0,True,9.8,5.4,TX,Randall,True
+48383,,,,,,,False,8.6,5.2,TX,Reagan,True
+48385,,,,,,,False,10.4,7.6,TX,Real,True
+48387,,,,,,,False,11.2,8.1,TX,Red River,True
+48389,,,,,,,False,8.7,6.1,TX,Reeves,True
+48391,,,,,,,False,9.7,6.6,TX,Refugio,True
+48393,,,,,,,False,9.9,5.3,TX,Roberts,True
+48395,,,,,,,False,10.6,6.9,TX,Robertson,True
+48397,Texas,Rockwall,342.0,34.0,100.0,47.0,True,9.6,4.2,TX,Rockwall,True
+48399,,,,,,,False,9.7,6.3,TX,Runnels,True
+48401,,,,,,,False,10.4,7.0,TX,Rusk,True
+48403,,,,,,,False,11.0,7.6,TX,Sabine,True
+48405,,,,,,,False,11.8,10.4,TX,San Augustine,True
+48407,,,,,,,False,10.7,7.9,TX,San Jacinto,True
+48409,,,,,,,False,9.6,6.2,TX,San Patricio,True
+48411,,,,,,,False,9.7,7.1,TX,San Saba,True
+48413,,,,,,,False,9.2,5.4,TX,Schleicher,True
+48415,,,,,,,False,9.6,6.3,TX,Scurry,True
+48417,,,,,,,False,10.0,5.6,TX,Shackelford,True
+48419,,,,,,,False,11.0,8.5,TX,Shelby,True
+48421,,,,,,,False,9.3,5.4,TX,Sherman,True
+48423,Texas,Smith,364.0,38.0,119.0,67.0,True,10.5,6.2,TX,Smith,True
+48425,,,,,,,False,9.9,5.7,TX,Somervell,True
+48427,,,,,,,False,9.3,7.3,TX,Starr,True
+48429,,,,,,,False,9.9,7.1,TX,Stephens,True
+48431,,,,,,,False,9.3,4.4,TX,Sterling,True
+48433,,,,,,,False,10.2,7.0,TX,Stonewall,True
+48435,,,,,,,False,9.2,6.0,TX,Sutton,True
+48437,,,,,,,False,9.8,8.2,TX,Swisher,True
+48439,Texas,Tarrant,365.0,57.0,172.0,93.0,True,10.0,5.3,TX,Tarrant,True
+48441,,,,,,,False,10.0,6.1,TX,Taylor,True
+48443,,,,,,,False,8.7,3.9,TX,Terrell,True
+48445,,,,,,,False,9.7,7.5,TX,Terry,True
+48447,,,,,,,False,10.3,7.0,TX,Throckmorton,True
+48449,,,,,,,False,10.2,7.5,TX,Titus,True
+48451,,,,,,,False,9.6,5.8,TX,Tom Green,True
+48453,Texas,Travis,365.0,54.0,122.0,79.0,True,9.1,4.2,TX,Travis,True
+48455,,,,,,,False,10.9,7.7,TX,Trinity,True
+48457,,,,,,,False,10.8,8.8,TX,Tyler,True
+48459,,,,,,,False,10.8,7.5,TX,Upshur,True
+48461,,,,,,,False,9.8,7.2,TX,Upton,True
+48463,,,,,,,False,9.2,6.0,TX,Uvalde,True
+48465,,,,,,,False,8.8,5.5,TX,Val Verde,True
+48467,,,,,,,False,10.5,6.9,TX,Van Zandt,True
+48469,Texas,Victoria,356.0,31.0,74.0,44.0,True,9.7,6.1,TX,Victoria,True
+48471,,,,,,,False,10.0,7.4,TX,Walker,True
+48473,,,,,,,False,10.0,5.8,TX,Waller,True
+48475,,,,,,,False,9.4,6.0,TX,Ward,True
+48477,,,,,,,False,10.2,5.7,TX,Washington,True
+48479,Texas,Webb,365.0,44.0,133.0,71.0,True,8.6,5.2,TX,Webb,True
+48481,,,,,,,False,10.0,6.3,TX,Wharton,True
+48483,,,,,,,False,10.4,7.3,TX,Wheeler,True
+48485,,,,,,,False,10.3,6.7,TX,Wichita,True
+48487,,,,,,,False,10.5,8.4,TX,Wilbarger,True
+48489,,,,,,,False,8.9,7.1,TX,Willacy,True
+48491,,,,,,,False,9.0,4.2,TX,Williamson,True
+48493,Texas,Wilson,292.0,7.0,36.0,18.0,True,9.4,5.2,TX,Wilson,True
+48495,,,,,,,False,9.1,5.7,TX,Winkler,True
+48497,,,,,,,False,10.0,6.3,TX,Wise,True
+48499,,,,,,,False,10.4,6.9,TX,Wood,True
+48501,,,,,,,False,9.2,5.6,TX,Yoakum,True
+48503,,,,,,,False,10.1,6.6,TX,Young,True
+48505,,,,,,,False,9.3,7.5,TX,Zapata,True
+48507,,,,,,,False,9.4,7.9,TX,Zavala,True
+49001,,,,,,,False,10.6,5.0,UT,Beaver,True
+49003,Utah,Box Elder,360.0,38.0,96.0,54.0,True,11.1,5.4,UT,Box Elder,True
+49005,Utah,Cache,365.0,48.0,187.0,71.0,True,10.4,5.3,UT,Cache,True
+49007,Utah,Carbon,363.0,42.0,70.0,50.0,True,11.7,6.6,UT,Carbon,True
+49009,,,,,,,False,10.9,5.9,UT,Daggett,True
+49011,Utah,Davis,365.0,47.0,151.0,84.0,True,10.9,4.3,UT,Davis,True
+49013,Utah,Duchesne,365.0,51.0,215.0,99.0,True,11.3,6.5,UT,Duchesne,True
+49015,,,,,,,False,11.3,5.9,UT,Emery,True
+49017,Utah,Garfield,121.0,10.0,38.0,19.0,True,10.8,5.2,UT,Garfield,True
+49019,Utah,Grand,261.0,49.0,80.0,64.0,True,11.0,5.6,UT,Grand,True
+49021,Utah,Iron,365.0,42.0,103.0,54.0,True,11.0,5.9,UT,Iron,True
+49023,,,,,,,False,11.0,5.6,UT,Juab,True
+49025,,,,,,,False,11.0,5.3,UT,Kane,True
+49027,,,,,,,False,10.9,6.0,UT,Millard,True
+49029,,,,,,,False,10.5,4.1,UT,Morgan,True
+49031,,,,,,,False,11.8,7.6,UT,Piute,True
+49033,,,,,,,False,11.1,5.7,UT,Rich,True
+49035,Utah,Salt Lake,365.0,54.0,154.0,90.0,True,10.9,4.5,UT,Salt Lake,True
+49037,Utah,San Juan,357.0,45.0,87.0,61.0,True,13.3,8.0,UT,San Juan,True
+49039,,,,,,,False,11.2,6.6,UT,Sanpete,True
+49041,,,,,,,False,11.2,5.8,UT,Sevier,True
+49043,,,,,,,False,10.0,3.7,UT,Summit,True
+49045,Utah,Tooele,365.0,45.0,97.0,71.0,True,11.3,4.8,UT,Tooele,True
+49047,Utah,Uintah,365.0,54.0,215.0,101.0,True,11.5,6.3,UT,Uintah,True
+49049,Utah,Utah,365.0,48.0,104.0,74.0,True,9.8,4.4,UT,Utah,True
+49051,,,,,,,False,10.0,4.1,UT,Wasatch,True
+49053,Utah,Washington,365.0,43.0,90.0,61.0,True,10.9,5.1,UT,Washington,True
+49055,Utah,Wayne,117.0,12.0,54.0,21.0,True,11.3,6.3,UT,Wayne,True
+49057,Utah,Weber,365.0,47.0,141.0,74.0,True,11.4,4.9,UT,Weber,True
+50001,,,,,,,False,11.0,4.9,VT,Addison,True
+50003,Vermont,Bennington,359.0,38.0,157.0,56.0,True,11.7,5.6,VT,Bennington,True
+50005,,,,,,,False,11.5,6.2,VT,Caledonia,True
+50007,Vermont,Chittenden,365.0,42.0,160.0,59.0,True,10.9,4.6,VT,Chittenden,True
+50009,,,,,,,False,11.9,7.5,VT,Essex,True
+50011,,,,,,,False,11.5,6.1,VT,Franklin,True
+50013,,,,,,,False,11.0,5.0,VT,Grand Isle,True
+50015,,,,,,,False,11.3,5.2,VT,Lamoille,True
+50017,,,,,,,False,11.4,5.5,VT,Orange,True
+50019,,,,,,,False,11.7,6.5,VT,Orleans,True
+50021,Vermont,Rutland,364.0,38.0,147.0,59.0,True,12.0,6.1,VT,Rutland,True
+50023,,,,,,,False,10.8,5.1,VT,Washington,True
+50025,Vermont,Windham,119.0,14.0,95.0,38.0,True,11.0,5.7,VT,Windham,True
+50027,,,,,,,False,11.0,5.0,VT,Windsor,True
+51001,,,,,,,False,11.7,7.8,VA,Accomack,True
+51003,Virginia,Albemarle,364.0,44.0,168.0,64.0,True,10.1,4.4,VA,Albemarle,True
+51005,,,,,,,False,11.3,7.5,VA,Alleghany,True
+51007,,,,,,,False,11.5,7.7,VA,Amelia,True
+51009,,,,,,,False,11.5,7.0,VA,Amherst,True
+51011,,,,,,,False,11.3,7.1,VA,Appomattox,True
+51013,Virginia,Arlington,365.0,38.0,181.0,58.0,True,9.0,3.4,VA,Arlington,True
+51015,,,,,,,False,10.5,6.4,VA,Augusta,True
+51017,,,,,,,False,11.6,9.3,VA,Bath,True
+51019,,,,,,,False,10.7,5.9,VA,Bedford,True
+51021,,,,,,,False,10.5,6.9,VA,Bland,True
+51023,,,,,,,False,10.6,5.8,VA,Botetourt,True
+51025,,,,,,,False,11.8,7.9,VA,Brunswick,True
+51027,,,,,,,False,11.7,10.2,VA,Buchanan,True
+51029,,,,,,,False,11.3,7.7,VA,Buckingham,True
+51031,,,,,,,False,11.2,6.8,VA,Campbell,True
+51033,Virginia,Caroline,243.0,40.0,97.0,50.0,True,11.1,6.4,VA,Caroline,True
+51035,Virginia,Carroll,55.0,9.0,45.0,19.0,True,11.3,8.3,VA,Carroll,True
+51036,Virginia,Charles,365.0,40.0,151.0,59.0,True,12.0,6.9,VA,Charles City,True
+51037,,,,,,,False,12.1,8.9,VA,Charlotte,True
+51041,Virginia,Chesterfield,278.0,41.0,139.0,54.0,True,10.6,4.9,VA,Chesterfield,True
+51043,,,,,,,False,10.2,5.2,VA,Clarke,True
+51045,,,,,,,False,10.9,7.0,VA,Craig,True
+51047,,,,,,,False,10.7,5.9,VA,Culpeper,True
+51049,,,,,,,False,11.6,6.8,VA,Cumberland,True
+51051,,,,,,,False,11.6,9.8,VA,Dickenson,True
+51053,,,,,,,False,11.3,6.1,VA,Dinwiddie,True
+51057,,,,,,,False,12.0,7.4,VA,Essex,True
+51059,Virginia,Fairfax,365.0,46.0,222.0,69.0,True,9.1,3.7,VA,Fairfax,True
+51061,Virginia,Fauquier,242.0,39.0,115.0,49.0,True,10.1,5.0,VA,Fauquier,True
+51063,,,,,,,False,10.7,6.6,VA,Floyd,True
+51065,,,,,,,False,11.1,5.5,VA,Fluvanna,True
+51067,,,,,,,False,11.3,6.9,VA,Franklin,True
+51069,Virginia,Frederick,363.0,44.0,185.0,66.0,True,10.4,5.7,VA,Frederick,True
+51071,Virginia,Giles,361.0,39.0,101.0,51.0,True,11.0,7.1,VA,Giles,True
+51073,,,,,,,False,10.8,5.8,VA,Gloucester,True
+51075,,,,,,,False,10.2,4.5,VA,Goochland,True
+51077,,,,,,,False,11.4,9.2,VA,Grayson,True
+51079,,,,,,,False,10.8,6.3,VA,Greene,True
+51081,,,,,,,False,11.1,7.7,VA,Greensville,True
+51083,,,,,,,False,12.0,8.5,VA,Halifax,True
+51085,Virginia,Hanover,229.0,40.0,101.0,50.0,True,10.1,5.0,VA,Hanover,True
+51087,Virginia,Henrico,365.0,46.0,159.0,64.0,True,10.6,5.0,VA,Henrico,True
+51089,,,,,,,False,11.9,8.4,VA,Henry,True
+51091,,,,,,,False,10.6,6.0,VA,Highland,True
+51093,,,,,,,False,10.9,5.7,VA,Isle of Wight,True
+51095,,,,,,,False,10.5,4.6,VA,James City,True
+51097,,,,,,,False,11.5,7.3,VA,King and Queen,True
+51099,,,,,,,False,10.7,5.5,VA,King George,True
+51101,,,,,,,False,10.9,5.7,VA,King William,True
+51103,,,,,,,False,11.4,6.6,VA,Lancaster,True
+51105,,,,,,,False,11.6,10.1,VA,Lee,True
+51107,Virginia,Loudoun,364.0,39.0,167.0,58.0,True,8.9,3.6,VA,Loudoun,True
+51109,,,,,,,False,11.0,6.4,VA,Louisa,True
+51111,,,,,,,False,11.6,8.4,VA,Lunenburg,True
+51113,Virginia,Madison,330.0,42.0,157.0,58.0,True,11.0,6.3,VA,Madison,True
+51115,,,,,,,False,10.9,6.1,VA,Mathews,True
+51117,,,,,,,False,11.7,7.6,VA,Mecklenburg,True
+51119,,,,,,,False,11.1,6.3,VA,Middlesex,True
+51121,,,,,,,False,10.5,6.6,VA,Montgomery,True
+51125,,,,,,,False,10.9,6.4,VA,Nelson,True
+51127,,,,,,,False,10.6,5.1,VA,New Kent,True
+51131,,,,,,,False,11.4,6.9,VA,Northampton,True
+51133,,,,,,,False,11.1,5.8,VA,Northumberland,True
+51135,,,,,,,False,11.4,7.7,VA,Nottoway,True
+51137,,,,,,,False,10.8,6.0,VA,Orange,True
+51139,,,,,,,False,11.1,7.5,VA,Page,True
+51141,,,,,,,False,11.2,8.0,VA,Patrick,True
+51143,,,,,,,False,11.4,8.2,VA,Pittsylvania,True
+51145,,,,,,,False,10.5,5.4,VA,Powhatan,True
+51147,Virginia,Prince Edward,360.0,34.0,74.0,44.0,True,11.7,7.8,VA,Prince Edward,True
+51149,,,,,,,False,10.7,6.2,VA,Prince George,True
+51153,Virginia,Prince William,365.0,37.0,129.0,50.0,True,9.7,4.5,VA,Prince William,True
+51155,,,,,,,False,11.0,7.1,VA,Pulaski,True
+51157,,,,,,,False,10.6,6.3,VA,Rappahannock,True
+51159,,,,,,,False,11.0,7.3,VA,Richmond,True
+51161,Virginia,Roanoke,365.0,43.0,158.0,62.0,True,10.5,5.4,VA,Roanoke,True
+51163,Virginia,Rockbridge,284.0,37.0,240.0,49.0,True,10.7,6.5,VA,Rockbridge,True
+51165,Virginia,Rockingham,365.0,37.0,168.0,53.0,True,10.7,6.4,VA,Rockingham,True
+51167,,,,,,,False,11.6,8.9,VA,Russell,True
+51169,,,,,,,False,11.5,8.9,VA,Scott,True
+51171,,,,,,,False,11.0,7.2,VA,Shenandoah,True
+51173,,,,,,,False,11.5,8.7,VA,Smyth,True
+51175,,,,,,,False,11.3,6.2,VA,Southampton,True
+51177,,,,,,,False,10.7,5.4,VA,Spotsylvania,True
+51179,Virginia,Stafford,365.0,37.0,169.0,50.0,True,10.2,4.6,VA,Stafford,True
+51181,,,,,,,False,11.5,6.3,VA,Surry,True
+51183,,,,,,,False,11.3,7.1,VA,Sussex,True
+51185,,,,,,,False,11.6,8.7,VA,Tazewell,True
+51187,,,,,,,False,10.8,6.6,VA,Warren,True
+51191,,,,,,,False,10.9,6.8,VA,Washington,True
+51193,,,,,,,False,11.7,7.8,VA,Westmoreland,True
+51195,,,,,,,False,11.5,9.0,VA,Wise,True
+51197,Virginia,Wythe,244.0,40.0,87.0,49.0,True,11.3,7.6,VA,Wythe,True
+51199,,,,,,,False,10.0,4.4,VA,York,True
+51510,,,,,,,False,9.9,4.0,VA,Alexandria,True
+51520,Virginia,Bristol City,111.0,39.0,116.0,62.0,True,11.4,8.2,VA,Bristol,True
+51530,,,,,,,False,11.6,8.1,VA,Buena Vista,True
+51540,,,,,,,False,10.7,5.8,VA,Charlottesville,True
+51550,,,,,,,False,11.0,5.3,VA,Chesapeake,True
+51570,,,,,,,False,10.9,5.7,VA,Colonial Heights,True
+51580,,,,,,,False,11.8,9.1,VA,Covington,True
+51590,,,,,,,False,12.6,8.9,VA,Danville,True
+51595,,,,,,,False,13.0,8.3,VA,Emporia,True
+51600,,,,,,,False,9.2,4.2,VA,Fairfax,True
+51610,,,,,,,False,9.1,3.2,VA,Falls Church,True
+51620,,,,,,,False,12.6,7.8,VA,Franklin,True
+51630,,,,,,,False,11.1,5.7,VA,Fredericksburg,True
+51640,,,,,,,False,11.7,9.2,VA,Galax,True
+51650,Virginia,Hampton City,365.0,43.0,174.0,63.0,True,11.9,6.3,VA,Hampton,True
+51660,,,,,,,False,10.8,7.7,VA,Harrisonburg,True
+51670,Virginia,Hopewell City,59.0,7.0,50.0,15.0,True,12.6,9.1,VA,Hopewell,True
+51678,,,,,,,False,10.7,5.9,VA,Lexington,True
+51680,Virginia,Lynchburg City,119.0,34.0,135.0,58.0,True,11.7,6.7,VA,Lynchburg,True
+51683,,,,,,,False,9.6,4.9,VA,Manassas,True
+51685,,,,,,,False,9.7,5.6,VA,Manassas Park,True
+51690,,,,,,,False,12.5,8.8,VA,Martinsville,True
+51700,,,,,,,False,11.6,6.3,VA,Newport News,True
+51710,Virginia,Norfolk City,364.0,18.0,96.0,47.0,True,11.1,6.5,VA,Norfolk,True
+51720,,,,,,,False,11.8,9.3,VA,Norton,True
+51730,,,,,,,False,13.0,7.5,VA,Petersburg,True
+51735,,,,,,,False,10.1,5.0,VA,Poquoson,True
+51740,,,,,,,False,12.3,7.1,VA,Portsmouth,True
+51750,,,,,,,False,11.7,9.0,VA,Radford,True
+51760,Virginia,Richmond City,365.0,45.0,158.0,62.0,True,11.4,6.3,VA,Richmond,True
+51770,,,,,,,False,11.5,7.3,VA,Roanoke,True
+51775,Virginia,Salem City,120.0,36.0,146.0,61.0,True,10.9,6.1,VA,Salem,True
+51790,,,,,,,False,11.2,6.3,VA,Staunton,True
+51800,Virginia,Suffolk City,245.0,40.0,115.0,48.0,True,11.6,5.6,VA,Suffolk,True
+51810,Virginia,Virginia Beach City,364.0,41.0,167.0,60.0,True,10.6,5.1,VA,Virginia Beach,True
+51820,,,,,,,False,11.1,6.8,VA,Waynesboro,True
+51830,,,,,,,False,11.0,5.9,VA,Williamsburg,True
+51840,,,,,,,False,10.9,7.5,VA,Winchester,True
+53001,Washington,Adams,365.0,21.0,267.0,50.0,True,10.6,6.7,WA,Adams,True
+53003,Washington,Asotin,359.0,49.0,204.0,67.0,True,12.0,6.2,WA,Asotin,True
+53005,Washington,Benton,365.0,41.0,261.0,61.0,True,10.9,5.1,WA,Benton,True
+53007,Washington,Chelan,365.0,34.0,266.0,59.0,True,10.6,5.1,WA,Chelan,True
+53009,Washington,Clallam,365.0,37.0,101.0,53.0,True,11.8,5.4,WA,Clallam,True
+53011,Washington,Clark,365.0,35.0,153.0,59.0,True,11.6,4.9,WA,Clark,True
+53013,Washington,Columbia,365.0,39.0,259.0,52.0,True,11.7,5.5,WA,Columbia,True
+53015,Washington,Cowlitz,365.0,22.0,89.0,52.0,True,12.4,6.2,WA,Cowlitz,True
+53017,,,,,,,False,10.6,5.3,WA,Douglas,True
+53019,,,,,,,False,12.7,6.9,WA,Ferry,True
+53021,Washington,Franklin,307.0,26.0,255.0,52.0,True,10.5,5.6,WA,Franklin,True
+53023,Washington,Garfield,365.0,17.0,244.0,41.0,True,11.3,5.1,WA,Garfield,True
+53025,Washington,Grant,365.0,32.0,301.0,57.0,True,10.8,5.9,WA,Grant,True
+53027,Washington,Grays Harbor,365.0,23.0,80.0,43.0,True,11.6,6.4,WA,Grays Harbor,True
+53029,,,,,,,False,10.6,4.4,WA,Island,True
+53031,Washington,Jefferson,350.0,21.0,88.0,39.0,True,11.0,4.6,WA,Jefferson,True
+53033,Washington,King,365.0,46.0,165.0,63.0,True,9.7,3.3,WA,King,True
+53035,Washington,Kitsap,349.0,22.0,115.0,44.0,True,11.3,4.6,WA,Kitsap,True
+53037,Washington,Kittitas,365.0,29.0,254.0,58.0,True,11.3,5.5,WA,Kittitas,True
+53039,Washington,Klickitat,118.0,20.0,128.0,47.0,True,11.4,5.5,WA,Klickitat,True
+53041,Washington,Lewis,362.0,25.0,159.0,54.0,True,11.4,6.0,WA,Lewis,True
+53043,,,,,,,False,11.5,5.4,WA,Lincoln,True
+53045,Washington,Mason,363.0,24.0,106.0,53.0,True,11.2,5.7,WA,Mason,True
+53047,Washington,Okanogan,365.0,49.0,299.0,73.0,True,11.7,6.7,WA,Okanogan,True
+53049,Washington,Pacific,92.0,20.0,56.0,35.0,True,11.4,5.7,WA,Pacific,True
+53051,,,,,,,False,11.7,6.3,WA,Pend Oreille,True
+53053,Washington,Pierce,365.0,42.0,195.0,62.0,True,10.8,4.9,WA,Pierce,True
+53055,,,,,,,False,10.8,4.2,WA,San Juan,True
+53057,Washington,Skagit,365.0,30.0,93.0,48.0,True,11.1,5.2,WA,Skagit,True
+53059,,,,,,,False,11.7,5.3,WA,Skamania,True
+53061,Washington,Snohomish,365.0,38.0,175.0,64.0,True,11.1,4.4,WA,Snohomish,True
+53063,Washington,Spokane,365.0,42.0,447.0,65.0,True,11.6,5.4,WA,Spokane,True
+53065,Washington,Stevens,365.0,46.0,271.0,70.0,True,12.2,6.4,WA,Stevens,True
+53067,Washington,Thurston,358.0,28.0,82.0,48.0,True,11.3,4.6,WA,Thurston,True
+53069,,,,,,,False,11.9,6.2,WA,Wahkiakum,True
+53071,Washington,Walla Walla,365.0,28.0,305.0,55.0,True,11.1,5.2,WA,Walla Walla,True
+53073,Washington,Whatcom,360.0,31.0,94.0,49.0,True,10.8,4.9,WA,Whatcom,True
+53075,Washington,Whitman,365.0,26.0,326.0,53.0,True,11.9,6.2,WA,Whitman,True
+53077,Washington,Yakima,365.0,46.0,233.0,69.0,True,10.7,6.0,WA,Yakima,True
+54001,,,,,,,False,12.7,10.0,WV,Barbour,True
+54003,West Virginia,Berkeley,277.0,44.0,171.0,64.0,True,12.2,7.5,WV,Berkeley,True
+54005,,,,,,,False,12.6,9.8,WV,Boone,True
+54007,,,,,,,False,12.6,11.2,WV,Braxton,True
+54009,West Virginia,Brooke,362.0,19.0,183.0,52.0,True,11.9,7.6,WV,Brooke,True
+54011,West Virginia,Cabell,273.0,44.0,144.0,61.0,True,12.9,8.8,WV,Cabell,True
+54013,,,,,,,False,13.0,12.2,WV,Calhoun,True
+54015,,,,,,,False,12.8,11.1,WV,Clay,True
+54017,,,,,,,False,11.9,9.5,WV,Doddridge,True
+54019,,,,,,,False,12.7,9.7,WV,Fayette,True
+54021,,,,,,,False,11.7,9.3,WV,Gilmer,True
+54023,,,,,,,False,12.1,8.5,WV,Grant,True
+54025,West Virginia,Greenbrier,242.0,38.0,87.0,48.0,True,12.6,9.6,WV,Greenbrier,True
+54027,,,,,,,False,12.1,8.6,WV,Hampshire,True
+54029,West Virginia,Hancock,364.0,36.0,181.0,61.0,True,12.3,8.4,WV,Hancock,True
+54031,,,,,,,False,12.5,9.7,WV,Hardy,True
+54033,West Virginia,Harrison,107.0,39.0,166.0,61.0,True,12.4,8.4,WV,Harrison,True
+54035,,,,,,,False,12.4,8.9,WV,Jackson,True
+54037,,,,,,,False,11.9,6.5,WV,Jefferson,True
+54039,West Virginia,Kanawha,361.0,42.0,153.0,58.0,True,12.1,8.0,WV,Kanawha,True
+54041,,,,,,,False,12.3,9.5,WV,Lewis,True
+54043,,,,,,,False,13.0,11.2,WV,Lincoln,True
+54045,,,,,,,False,12.8,11.0,WV,Logan,True
+54047,,,,,,,False,13.3,13.6,WV,McDowell,True
+54049,West Virginia,Marion,118.0,39.0,170.0,58.0,True,12.3,8.1,WV,Marion,True
+54051,West Virginia,Marshall,354.0,52.0,213.0,68.0,True,12.1,8.7,WV,Marshall,True
+54053,,,,,,,False,13.0,10.0,WV,Mason,True
+54055,,,,,,,False,12.9,9.8,WV,Mercer,True
+54057,,,,,,,False,12.1,7.8,WV,Mineral,True
+54059,,,,,,,False,13.4,13.0,WV,Mingo,True
+54061,West Virginia,Monongalia,277.0,42.0,169.0,59.0,True,11.5,7.3,WV,Monongalia,True
+54063,,,,,,,False,12.5,9.3,WV,Monroe,True
+54065,,,,,,,False,12.1,8.4,WV,Morgan,True
+54067,,,,,,,False,12.3,9.2,WV,Nicholas,True
+54069,West Virginia,Ohio,280.0,41.0,184.0,61.0,True,12.1,7.7,WV,Ohio,True
+54071,,,,,,,False,12.2,8.8,WV,Pendleton,True
+54073,,,,,,,False,11.8,8.4,WV,Pleasants,True
+54075,,,,,,,False,12.5,10.3,WV,Pocahontas,True
+54077,,,,,,,False,12.0,8.8,WV,Preston,True
+54079,,,,,,,False,11.8,7.2,WV,Putnam,True
+54081,,,,,,,False,12.7,9.9,WV,Raleigh,True
+54083,,,,,,,False,12.1,8.9,WV,Randolph,True
+54085,,,,,,,False,12.6,10.4,WV,Ritchie,True
+54087,,,,,,,False,12.8,11.2,WV,Roane,True
+54089,,,,,,,False,13.4,10.6,WV,Summers,True
+54091,,,,,,,False,12.4,9.1,WV,Taylor,True
+54093,West Virginia,Tucker,363.0,36.0,91.0,49.0,True,12.2,8.3,WV,Tucker,True
+54095,,,,,,,False,12.3,9.0,WV,Tyler,True
+54097,,,,,,,False,12.4,9.5,WV,Upshur,True
+54099,,,,,,,False,12.7,9.6,WV,Wayne,True
+54101,,,,,,,False,12.9,11.2,WV,Webster,True
+54103,,,,,,,False,12.4,9.2,WV,Wetzel,True
+54105,,,,,,,False,12.6,9.7,WV,Wirt,True
+54107,West Virginia,Wood,269.0,41.0,166.0,61.0,True,12.1,8.7,WV,Wood,True
+54109,,,,,,,False,13.0,11.1,WV,Wyoming,True
+55001,,,,,,,False,11.0,7.0,WI,Adams,True
+55003,Wisconsin,Ashland,365.0,40.0,115.0,64.0,True,11.6,6.9,WI,Ashland,True
+55005,,,,,,,False,11.1,6.3,WI,Barron,True
+55007,,,,,,,False,11.2,5.4,WI,Bayfield,True
+55009,Wisconsin,Brown,365.0,44.0,179.0,74.0,True,10.7,5.4,WI,Brown,True
+55011,,,,,,,False,10.9,6.0,WI,Buffalo,True
+55013,,,,,,,False,11.3,6.6,WI,Burnett,True
+55015,,,,,,,False,10.7,5.0,WI,Calumet,True
+55017,,,,,,,False,11.2,5.9,WI,Chippewa,True
+55019,,,,,,,False,11.5,7.5,WI,Clark,True
+55021,Wisconsin,Columbia,203.0,44.0,159.0,93.0,True,10.9,5.6,WI,Columbia,True
+55023,,,,,,,False,11.1,6.6,WI,Crawford,True
+55025,Wisconsin,Dane,365.0,50.0,268.0,80.0,True,9.9,4.3,WI,Dane,True
+55027,Wisconsin,Dodge,365.0,46.0,210.0,77.0,True,10.8,5.8,WI,Dodge,True
+55029,Wisconsin,Door,204.0,41.0,159.0,87.0,True,10.8,5.1,WI,Door,True
+55031,,,,,,,False,11.1,5.7,WI,Douglas,True
+55033,,,,,,,False,10.9,5.9,WI,Dunn,True
+55035,Wisconsin,Eau Claire,365.0,46.0,164.0,78.0,True,10.7,5.4,WI,Eau Claire,True
+55037,,,,,,,False,11.0,5.7,WI,Florence,True
+55039,Wisconsin,Fond du Lac,204.0,41.0,122.0,67.0,True,11.1,5.7,WI,Fond du Lac,True
+55041,Wisconsin,Forest,363.0,42.0,178.0,69.0,True,12.5,7.6,WI,Forest,True
+55043,Wisconsin,Grant,365.0,48.0,221.0,68.0,True,11.1,6.5,WI,Grant,True
+55045,,,,,,,False,10.7,5.4,WI,Green,True
+55047,,,,,,,False,11.3,6.7,WI,Green Lake,True
+55049,,,,,,,False,10.6,5.3,WI,Iowa,True
+55051,,,,,,,False,11.2,6.1,WI,Iron,True
+55053,Wisconsin,Jackson,362.0,33.0,157.0,61.0,True,11.2,6.8,WI,Jackson,True
+55055,Wisconsin,Jefferson,203.0,44.0,140.0,97.0,True,10.9,5.4,WI,Jefferson,True
+55057,,,,,,,False,11.2,7.2,WI,Juneau,True
+55059,Wisconsin,Kenosha,365.0,48.0,206.0,87.0,True,11.0,5.7,WI,Kenosha,True
+55061,Wisconsin,Kewaunee,203.0,43.0,182.0,87.0,True,10.7,5.7,WI,Kewaunee,True
+55063,Wisconsin,La Crosse,339.0,45.0,181.0,80.0,True,11.2,5.5,WI,La Crosse,True
+55065,,,,,,,False,11.0,6.4,WI,Lafayette,True
+55067,,,,,,,False,11.3,6.8,WI,Langlade,True
+55069,,,,,,,False,11.1,6.4,WI,Lincoln,True
+55071,Wisconsin,Manitowoc,205.0,40.0,177.0,71.0,True,10.8,5.9,WI,Manitowoc,True
+55073,Wisconsin,Marathon,216.0,41.0,166.0,84.0,True,10.3,5.5,WI,Marathon,True
+55075,,,,,,,False,11.2,6.3,WI,Marinette,True
+55077,,,,,,,False,11.2,6.8,WI,Marquette,True
+55078,,,,,,,False,14.1,7.5,WI,Menominee,True
+55079,Wisconsin,Milwaukee,365.0,52.0,250.0,82.0,True,11.8,6.3,WI,Milwaukee,True
+55081,Wisconsin,Monroe,365.0,37.0,173.0,60.0,True,11.3,6.8,WI,Monroe,True
+55083,,,,,,,False,11.2,6.0,WI,Oconto,True
+55085,,,,,,,False,10.7,5.6,WI,Oneida,True
+55087,Wisconsin,Outagamie,360.0,48.0,186.0,78.0,True,10.6,5.2,WI,Outagamie,True
+55089,Wisconsin,Ozaukee,363.0,45.0,210.0,84.0,True,10.3,4.2,WI,Ozaukee,True
+55091,,,,,,,False,10.8,5.6,WI,Pepin,True
+55093,,,,,,,False,10.7,5.3,WI,Pierce,True
+55095,,,,,,,False,10.9,5.6,WI,Polk,True
+55097,,,,,,,False,10.7,5.5,WI,Portage,True
+55099,,,,,,,False,11.1,6.7,WI,Price,True
+55101,Wisconsin,Racine,203.0,44.0,200.0,97.0,True,11.3,5.6,WI,Racine,True
+55103,,,,,,,False,11.1,6.8,WI,Richland,True
+55105,Wisconsin,Rock,205.0,46.0,177.0,108.0,True,11.2,5.8,WI,Rock,True
+55107,,,,,,,False,11.3,7.2,WI,Rusk,True
+55109,,,,,,,False,10.4,4.7,WI,St. Croix,True
+55111,Wisconsin,Sauk,362.0,44.0,271.0,77.0,True,10.9,5.7,WI,Sauk,True
+55113,,,,,,,False,11.4,6.6,WI,Sawyer,True
+55115,,,,,,,False,11.4,6.4,WI,Shawano,True
+55117,Wisconsin,Sheboygan,203.0,45.0,207.0,100.0,True,10.3,5.3,WI,Sheboygan,True
+55119,Wisconsin,Taylor,365.0,43.0,169.0,70.0,True,10.8,6.5,WI,Taylor,True
+55121,,,,,,,False,10.7,6.1,WI,Trempealeau,True
+55123,,,,,,,False,11.2,6.7,WI,Vernon,True
+55125,Wisconsin,Vilas,340.0,39.0,168.0,75.0,True,11.3,5.6,WI,Vilas,True
+55127,Wisconsin,Walworth,203.0,44.0,143.0,93.0,True,10.5,5.4,WI,Walworth,True
+55129,,,,,,,False,11.3,6.3,WI,Washburn,True
+55131,,,,,,,False,10.6,4.7,WI,Washington,True
+55133,Wisconsin,Waukesha,360.0,52.0,270.0,80.0,True,10.3,4.1,WI,Waukesha,True
+55135,,,,,,,False,11.2,6.1,WI,Waupaca,True
+55137,,,,,,,False,10.6,6.3,WI,Waushara,True
+55139,,,,,,,False,11.0,5.7,WI,Winnebago,True
+55141,,,,,,,False,11.1,6.0,WI,Wood,True
+56001,Wyoming,Albany,365.0,48.0,132.0,71.0,True,10.3,5.9,WY,Albany,True
+56003,Wyoming,Big Horn,359.0,39.0,77.0,49.0,True,10.5,7.0,WY,Big Horn,True
+56005,Wyoming,Campbell,365.0,45.0,177.0,67.0,True,10.3,6.1,WY,Campbell,True
+56007,Wyoming,Carbon,362.0,8.0,33.0,20.0,True,10.0,6.7,WY,Carbon,True
+56009,Wyoming,Converse,365.0,42.0,99.0,49.0,True,10.4,6.5,WY,Converse,True
+56011,,,,,,,False,10.3,5.7,WY,Crook,True
+56013,Wyoming,Fremont,365.0,49.0,110.0,65.0,True,11.1,6.8,WY,Fremont,True
+56015,,,,,,,False,10.1,6.4,WY,Goshen,True
+56017,,,,,,,False,10.8,7.0,WY,Hot Springs,True
+56019,Wyoming,Johnson,364.0,40.0,64.0,47.0,True,10.4,6.6,WY,Johnson,True
+56021,Wyoming,Laramie,365.0,45.0,156.0,61.0,True,10.1,5.9,WY,Laramie,True
+56023,Wyoming,Lincoln,365.0,44.0,97.0,58.0,True,10.1,5.9,WY,Lincoln,True
+56025,Wyoming,Natrona,365.0,42.0,102.0,49.0,True,10.4,6.3,WY,Natrona,True
+56027,,,,,,,False,11.3,7.3,WY,Niobrara,True
+56029,Wyoming,Park,360.0,14.0,122.0,33.0,True,10.0,5.6,WY,Park,True
+56031,Wyoming,Platte,364.0,14.0,320.0,47.0,True,10.5,6.6,WY,Platte,True
+56033,Wyoming,Sheridan,365.0,43.0,175.0,59.0,True,10.2,5.6,WY,Sheridan,True
+56035,Wyoming,Sublette,365.0,47.0,122.0,77.0,True,10.0,5.4,WY,Sublette,True
+56037,Wyoming,Sweetwater,365.0,47.0,211.0,71.0,True,10.3,6.4,WY,Sweetwater,True
+56039,Wyoming,Teton,365.0,43.0,75.0,51.0,True,9.0,4.0,WY,Teton,True
+56041,Wyoming,Uinta,365.0,6.0,32.0,12.0,True,10.3,6.2,WY,Uinta,True
+56043,,,,,,,False,10.3,6.8,WY,Washakie,True
+56045,Wyoming,Weston,347.0,42.0,90.0,50.0,True,10.0,6.5,WY,Weston,True
+72021,Puerto Rico,Bayamon,216.0,22.0,74.0,52.0,True,,,,,False
+72025,Puerto Rico,Caguas,256.0,6.0,105.0,34.0,True,,,,,False
+72033,Puerto Rico,Catano,209.0,52.0,155.0,91.0,True,,,,,False
+72053,Puerto Rico,Fajardo,108.0,30.0,72.0,61.0,True,,,,,False
+72057,Puerto Rico,Guayama,59.0,15.0,55.0,37.0,True,,,,,False
+72061,Puerto Rico,Guaynabo,107.0,32.0,74.0,59.0,True,,,,,False
+72097,Puerto Rico,Mayagnez,285.0,25.0,64.0,51.0,True,,,,,False
+72113,Puerto Rico,Ponce,340.0,30.0,83.0,58.0,True,,,,,False

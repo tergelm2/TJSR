@@ -1,0 +1,8 @@
+measure,count
+EPA counties with a FIPS code,991
+CDC PLACES counties,2957
+Counties in EPA and CDC,912
+EPA counties missing from CDC,79
+CDC counties with no EPA AQI,2045
+"EPA and CDC with median AQI, asthma, and COPD all present",912
+Rows in integrated file,3036
