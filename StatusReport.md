@@ -6,8 +6,6 @@
 **Team:** Rex Li (@YalinLisys), Tergel Myagmarsaikhan (@tergelm2), Jashan Takhar (@jashtakhar), Samuel Kang (@smukng)  
 **Repository:** [TJSR](https://github.com/tergelm2/TJSR)
 
-> **Draft status notice:** The only implementation artifact verified on the repository's `main` branch as of this draft is [ProjectPlan.md](ProjectPlan.md). Statements below distinguish the agreed plan from **unverified progress**. Each lead must replace the `UPDATE REQUIRED` fields with accurate statuses and committed artifact links before this report is submitted. Do not submit this note unchanged.
-
 ## 1. Project overview and scope
 
 Our project investigates county-level relationships among measured air quality, socioeconomic conditions, and modeled respiratory health outcomes across the United States. The intended data sources remain the U.S. Environmental Protection Agency (EPA) 2023 county-level Annual Air Quality Index (AQI) summary, the U.S. Census Bureau 2023 American Community Survey (ACS) five-year estimates, and CDC PLACES estimates of adult asthma and chronic obstructive pulmonary disease (COPD) prevalence. Our integration key is a standardized five-character county FIPS code. We seek to describe associations and the geographic coverage of the sources, not causal effects or nationally representative effects of air pollution.
